@@ -78,9 +78,9 @@ Annotation view instructions:
         <p></p>
         <ul>
           <li>Move the cursor near the bounding box until the brown box changes to a
-            blue box and the cursor changes to “
+            blue box and the cursor changes to &#x201C;
             <img src="../.gitbook/assets/picture12.png"
-            alt/>”. Click on the box to maintain the “edit status”.</li>
+            alt/>&#x201D;. Click on the box to maintain the &#x201C;edit status&#x201D;.</li>
           <li>Adjust the position and size of the bounding box.</li>
         </ul>
       </td>
@@ -95,12 +95,12 @@ Annotation view instructions:
         <p></p>
         <ul>
           <li>Move the cursor near to bounding box or the label until the brown box
-            changes to a blue box. Then, click on “
+            changes to a blue box. Then, click on &#x201C;
             <img src="../.gitbook/assets/picture13.png"
-            alt/>” to remove the bounding box.</li>
-          <li>You can also move the cursor near the label and click on “
-            <img src="../.gitbook/assets/picture13.png"
-            alt/>” to remove the bounding box.</li>
+            alt/>&#x201D; to remove the bounding box.</li>
+          <li>You can also move the cursor near the label and click on &#x201C;
+            <img
+            src="../.gitbook/assets/picture13.png" alt/>&#x201D; to remove the bounding box.</li>
           <li>The system provides some hotkey functions for removing the bounding box.
             Please refer to hotkey function table.</li>
         </ul>
@@ -152,8 +152,9 @@ the last case or click on “&gt;” to go to the next page.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">General functions (Image Classification & Object Detection)</th>
-      <th style="text-align:left"></th>
+      <th style="text-align:left">General functions (Image Classification &amp; Object Detection)</th>
+      <th
+      style="text-align:left"></th>
     </tr>
   </thead>
   <tbody>
@@ -161,8 +162,8 @@ the last case or click on “&gt;” to go to the next page.
       <td style="text-align:left">
         <p><b>Keyboard </b>
         </p>
-        <p>Windows: Ctrl and Left Key (←)
-          <br />Mac: Command and Left Key (←)</p>
+        <p>Windows: Ctrl and Left Key (&#x2190;)
+          <br />Mac: Command and Left Key (&#x2190;)</p>
       </td>
       <td style="text-align:left">Back to the last case</td>
     </tr>
@@ -170,8 +171,8 @@ the last case or click on “&gt;” to go to the next page.
       <td style="text-align:left">
         <p><b>Keyboard </b>
         </p>
-        <p>Windows: Ctrl and Right Key (→)</p>
-        <p>Mac: Command and Right Key (→)</p>
+        <p>Windows: Ctrl and Right Key (&#x2192;)</p>
+        <p>Mac: Command and Right Key (&#x2192;)</p>
       </td>
       <td style="text-align:left">Go to the next case</td>
     </tr>
@@ -188,8 +189,8 @@ the last case or click on “&gt;” to go to the next page.
       <td style="text-align:left">
         <p><b>Keyboard </b>
         </p>
-        <p>Windows: Ctrl and –</p>
-        <p>Mac: Command and –</p>
+        <p>Windows: Ctrl and &#x2013;</p>
+        <p>Mac: Command and &#x2013;</p>
       </td>
       <td style="text-align:left">Zoom out</td>
     </tr>
@@ -235,8 +236,10 @@ the last case or click on “&gt;” to go to the next page.
       <td style="text-align:left">
         <p><b>Keyboard </b>
         </p>
-        <p>Windows: Ctrl and Up (↑)/ Down (↓)/ Left (←)/ Right (→)</p>
-        <p>Mac: Command and Up (↑)/ Down (↓)/ Left (←)/ Right (→)</p>
+        <p>Windows: Ctrl and Up (&#x2191;)/ Down (&#x2193;)/ Left (&#x2190;)/ Right
+          (&#x2192;)</p>
+        <p>Mac: Command and Up (&#x2191;)/ Down (&#x2193;)/ Left (&#x2190;)/ Right
+          (&#x2192;)</p>
       </td>
       <td style="text-align:left">Adjust the position of a bounding box</td>
     </tr>

@@ -14,11 +14,11 @@ description: >-
 
 \*\*\*\*![](../.gitbook/assets/image%20%289%29.png) **Search:** You can search for your uploaded dataset by its name.
 
-## Dataset and Image Format
+## Dataset Format
 
 Please check your dataset and image format before uploading. 
 
-#### Dataset format: zip file
+### Dataset format: zip file
 
 * **Without annotation:** Only a folder of images should be present here. Please note that folder name must be “image,” entirely in lowercase letters.   ![](../.gitbook/assets/picture1%20%281%29.png) 
 * **With annotation:** A folder named as “image” and a file specifying the label of each image, “label.csv” should be present here. Please note that the image folder name should be named as “image,” entirely in lowercase letters. For the CSV file, the number of columns can only be two for image classification and six for object detection. You can either zip “image/” and “label.csv” or put them into another folder and zip that folder.  
@@ -40,9 +40,30 @@ Please check your dataset and image format before uploading.
 
 The name of the dataset should be the same as that of the zip file you uploaded, which cannot be edited in the “Dataset” tab. You can rename the zip file before you upload it.
 
-#### Image format: 
+### Image format
 
 JPG and PNG are acceptable image format. Both width and height should be between 16px and 4096px.
+
+### CSV format
+
+#### Image Classification:
+
+![](../.gitbook/assets/picture65.png)
+
+* Each line specifies the name of an image file and its category label that are separated by a comma.
+* The pairs of an image name and a category label start from the first line. That is, there is no CSV header in the label file.
+* Pure number \(e.g. 001\) as category names must be double quoted. \(e.g. "001"\).
+
+#### Object Detection:
+
+![](../.gitbook/assets/picture66.png)
+
+* Each line specifies a bounding box of an object.
+* Each line must include 6 fields, separated by a comma: image file name, category label, x, y, w, h.
+* \(x, y\) is the left-up vertex of the bounding box, and w and h are width and height of the bounding box. \(x, y, w, h\) are integer or float numbers.
+* An image can contain more than 1 bounding boxes, so an image can show in multiple lines.
+* The bounding box lines must start from the first line. That is, there is no CSV header in the label file.
+* Pure number \(e.g. 001\) as category names must be double quoted. \(e.g. "001"\).
 
 ## Dataset List
 
