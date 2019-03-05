@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DeepQ AI Platform Tutorial123](README.md)
+* [DeepQ AI Platform Tutorial](README.md)
 
 ## DeepCap
 
