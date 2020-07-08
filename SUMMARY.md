@@ -1,24 +1,44 @@
 # Table of contents
 
-* [DeepQ AI Platform Tutorial](README.md)
-
-## DeepCap
-
-* [DeepCap Main Page Introduction](deepcap/deepcap-main-page-introduction.md)
-* [Upload Dataset](deepcap/upload-dataset.md)
-* [Create an Annotation Project](deepcap/create-an-annotation-project.md)
-* [Start Annotation](deepcap/start-annotation.md)
-* [DeepCap Smart Validation \(DSV\)](deepcap/deepcap-smart-validation-dsv.md)
-
-## DeepQ AI Training
-
-* [Train an Image Classification Model](deepq-ai-training/train-an-image-classification-model.md)
-* [Train an Object Detection Model](deepq-ai-training/untitled-2.md)
-* [How to Test the Model on Your Machine](deepq-ai-training/how-to-test-the-model-on-your-machine.md)
-* [Selecting Models Introduction](deepq-ai-training/deepq-ai-training-selecting-models.md)
-
-## FAQ
-
-* [Transaction](faq/transaction-faq.md)
-* [Invoice](faq/invoice-faq.md)
+* [DeepQ AI Platform - User Guide](README.md)
+* [.....................................](untitled.md)
+* [DeepQ AI Platform overview](working-flow-1/README.md)
+  * [What is Deep Learning?](working-flow-1/what-is-deep-learning.md)
+  * [DeepCap Overview](working-flow-1/deepcap-main-page-introduction.md)
+  * [AI Training Overview](working-flow-1/ai-training-overview.md)
+* [Account Management](account-management-1/README.md)
+  * [User Role Descriptions](account-management-1/untitled.md)
+  * [Log in DeepQ AI Platform](account-management-1/log-in-deepq-ai-platform.md)
+* [Dataset](dataset/README.md)
+  * [Preparing Datasets](dataset/preparing-datasets.md)
+  * [Upload Datasets](dataset/upload-dataset/README.md)
+    * [Annotation Data Formats](dataset/upload-dataset/annotation-data-formats.md)
+  * [Manage Datasets](dataset/untitled.md)
+* [DeepCap \(Annotation tool\)](working-flow/README.md)
+  * [Create an Annotation Project](working-flow/create-an-annotation-project/README.md)
+    * [1. Settings](working-flow/create-an-annotation-project/1.-settings/README.md)
+      * [Annotation Quality Control](working-flow/create-an-annotation-project/1.-settings/deepcap-smart-validation-dsv.md)
+    * [2. Dataset & Labels](working-flow/create-an-annotation-project/2.-dataset-and-labels.md)
+    * [3. Members](working-flow/create-an-annotation-project/3.-members.md)
+    * [4. Publishing](working-flow/create-an-annotation-project/4.-publishing.md)
+  * [Start Annotation](working-flow/start-annotation.md)
+  * [Manage Annotation Projects](working-flow/manage-annotation-projects.md)
+  * [AI Assisted Annotation](working-flow/ai-assisted-annotation.md)
+* [DeepQ AI Training](account-management/README.md)
+  * [Create Training Tasks](account-management/create-training-tasks/README.md)
+    * [1. Select Dataset](account-management/create-training-tasks/1.-select-dataset.md)
+    * [2. Select Model](account-management/create-training-tasks/2.-select-model.md)
+    * [3. Start Task](account-management/create-training-tasks/3.-start-task.md)
+    * [About Deep Learning Models](account-management/create-training-tasks/deepq-ai-training-selecting-models.md)
+    * [Train an Object Detection Model](account-management/create-training-tasks/untitled-2.md)
+    * [Train an Image Classification Model](account-management/create-training-tasks/train-an-image-classification-model.md)
+  * [Evaluate Training Results](account-management/untitled-3.md)
+  * [Manage Training Tasks](account-management/manage-training-tasks.md)
+  * [Running Your Models](account-management/running-your-models.md)
+  * [Deploying Your Model\(s\) Elsewhere](account-management/how-to-test-the-model-on-your-machine.md)
+* [FAQ](faq/README.md)
+  * [Using DeepQ AI Platform](faq/using-deepq-ai-platform.md)
+  * [Dataset Related issues](faq/dataset-related-issues.md)
+  * [Annotation Related Issues](faq/annotation-related-issues.md)
+  * [AI Training Related Issues](faq/ai-training-related-issues.md)
 
