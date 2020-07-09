@@ -1,7 +1,6 @@
 # Table of contents
 
 * [DeepQ AI Platform - User Guide](README.md)
-* [.....................................](untitled.md)
 * [DeepQ AI Platform overview](working-flow-1/README.md)
   * [What is Deep Learning?](working-flow-1/what-is-deep-learning.md)
   * [DeepCap Overview](working-flow-1/deepcap-main-page-introduction.md)
