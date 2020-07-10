@@ -1,2 +1,2 @@
-# Legal Documents
+# Legal
 

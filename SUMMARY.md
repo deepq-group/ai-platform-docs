@@ -36,7 +36,7 @@
   * [Manage Training Tasks](account-management/manage-training-tasks.md)
   * [Running Your Models](account-management/running-your-models.md)
   * [Deploying Your Model\(s\) Elsewhere](account-management/how-to-test-the-model-on-your-machine.md)
-* [Legal Documents](legal-documents/README.md)
+* [Legal](legal-documents/README.md)
   * [Terms of Use](legal-documents/terms-of-use-1.md)
   * [Privacy Policy](legal-documents/privacy-policy.md)
   * [Product Security](legal-documents/product-security.md)
