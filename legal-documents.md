@@ -1,4 +1,4 @@
-# Legal
+# Legal Documents
 
 ### Terms of Use
 

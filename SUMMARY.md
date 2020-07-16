@@ -36,7 +36,7 @@
   * [Manage Training Tasks](account-management/manage-training-tasks.md)
   * [Running Your Models](account-management/running-your-models.md)
   * [Deploying Your Model\(s\) Elsewhere](account-management/how-to-test-the-model-on-your-machine.md)
-* [Legal](legal-documents.md)
+* [Legal Documents](legal-documents.md)
 * [FAQ](faq/README.md)
   * [Using DeepQ AI Platform](faq/using-deepq-ai-platform.md)
   * [Dataset Related issues](faq/dataset-related-issues.md)
