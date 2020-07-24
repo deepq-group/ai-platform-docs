@@ -1,6 +1,6 @@
 # Legal Documents
 
-### [Terms of Use](/_minio/aim-assets/legal/AI Platform 使用條款_CHT_20200720.pdf)
+### [Terms of Use](/_minio/aim-assets/legal/AI%20Platform%20%E4%BD%BF%E7%94%A8%E6%A2%9D%E6%AC%BE_CHT_20200720.pdf)
 
 ### [Privacy Policy](/_minio/aim-assets/legal/AI%20Platform_%E9%9A%B1%E7%A7%81%E6%AC%8A%E6%94%BF%E7%AD%96_CHT_20180525.pdf)
 
