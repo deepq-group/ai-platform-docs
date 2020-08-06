@@ -2,6 +2,14 @@
 
 DeepCap Smart Validation provides a consistent rate based on DeepQ original algorithm for an iterative annotation process. The system suggests annotations and provides accurate ground truths for model training.
 
+## Enable DeepCap Smart Validation \(DSV\)
+
+Cases from the dataset are automatically distributed to the annotators. To prepare qualified data for training, the DeepCap Smart Validation \(DSV\) function can be enabled if the number of annotators in this project is greater than or equal to two. For example, two or three annotators can be selected to work on each case if the project has three annotators. The DSV function provides a consistent rate based on the DeepQ original algorithm for an iterative annotation process. DeepCap suggests accurate ground truths for model training. **Please note that the number of annotators to work on each case cannot be edited once the project is published.**
+
+![](../../../.gitbook/assets/picture6.png)
+
+## 
+
 ## Enable DSV During the Project Creation Process
 
 You can enable DeepCap Smart Validation \(DSV\) function if the number of annotators in this project is greater than or equal to two. For example, you can select two or three annotators to work on each case if the project has three annotators. The maximum number of annotators that can be assigned to work on each case you can set is five.

@@ -1,8 +1,5 @@
 # Deploying Your Model\(s\) Elsewhere
 
-* **downloading your model\(s\)**
-* **deploying your model\(s\)**
-
 After your training is completed, the next step is to test the performance of your trained model. This tutorial introduces how to download the trained model as well as the prediction script and the way to run the prediction on your machine locally.
 
 ### Requirements
@@ -13,7 +10,7 @@ After your training is completed, the next step is to test the performance of yo
 
 #### 1. Download training results
 
-![](../.gitbook/assets/picture51.png)
+![](../.gitbook/assets/image%20%28122%29.png)
 
 Download the training results with the button, “models”, on the task details page. Extract the zip file, and there will be a folder, `results`. The folder contains at least `inference.py`, `model_X.bin` \(X is the best step during training\), and `label_name.csv`. 
 
