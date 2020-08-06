@@ -10,5 +10,9 @@
 
 ![](../.gitbook/assets/image%20%2894%29.png)
 
+
+
+
+
 ![ The Function/Role matrix of DeepQ AI Platform](../.gitbook/assets/image%20%28103%29.png)
 
