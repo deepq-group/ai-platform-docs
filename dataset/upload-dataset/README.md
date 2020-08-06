@@ -8,10 +8,6 @@ description: >-
 
 ## \*\*\*\*
 
-## \*\*\*\*
-
-\*\*\*\*
-
 ![](../../.gitbook/assets/image%20%2843%29.png)
 
 ![](../../.gitbook/assets/image%20%2844%29.png)
@@ -33,13 +29,11 @@ Please check your dataset and image format before uploading.
 * **Without annotation:** Only a folder of images should be present here. Please note that folder name must be “image,” entirely in lowercase letters.   
 * **With annotation:** A folder named as “image” and a file specifying the label of each image, “label.csv” should be present here. Please note that the image folder name should be named as “image,” entirely in lowercase letters. For the CSV file, the number of columns can only be two for image classification and six for object detection. You can either zip “image/” and “label.csv” or put them into another folder and zip that folder.  
 
-![File structure of the dataset. Image folder &amp; label file should be named exactly as shown.](../../.gitbook/assets/image%20%2896%29.png)
+![](../../.gitbook/assets/image%20%28125%29.png)
 
-#### import multi-class data from separate folders 
+### Import multi-class data from separate folders 
 
-![File structure of the folder-separated multi-class dataset. &quot;Classes&quot; folder should be named exactly as shown.](../../.gitbook/assets/image%20%2847%29.png)
-
-
+![](../../.gitbook/assets/image%20%28126%29.png)
 
 
 

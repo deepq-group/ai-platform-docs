@@ -4,21 +4,11 @@ description: data format shown in excel
 
 # DeepQ AI Platform overview
 
-DeepQ AI Platform provide one-stop software products from medical data annotation to AI model training via web browser.
-
-DeepQ AI Platform dramatically reduces the learning thresholds and the cost of AI model training through efficient image annotation tools, optimized training environment, built-in multiple AI models, fully automated parameter tuning, and a simple user interface. It is different from the existing AI training platforms and services available on the market, users of DeepQ AI Platform can quickly convert their own medical image data into the AI models without the knowledge and skills of deep learning.
-
-
+### DeepQ AI Platform provide one-stop software products from medical data annotation to AI model training via web browser.
 
 ![](../.gitbook/assets/image%20%2828%29.png)
 
-![](../.gitbook/assets/image%20%2831%29.png)
-
-
-
-![](../.gitbook/assets/image%20%2866%29.png)
-
-### **Data preparation**
+### **Data preparation**
 
 &gt; The ability to import & manage medical image data from PACS database  
 &gt; De-identification & anonymize of the imported medical image data  
@@ -39,4 +29,14 @@ DeepQ AI Platform dramatically reduces the learning thresholds and the cost of A
 &gt;   Produce quantitative inferencing results  
 &gt;   Graphical interpretation of model performance & provide insight  
 &gt;   GPU Scheduling & intelligent queuing of training tasks
+
+![Two main modules of DeepQ AI Platform-- DeepCap \(image annotation module\) and DeepQ AI Training \(Model training module\)\)](../.gitbook/assets/image%20%2831%29.png)
+
+
+
+![](../.gitbook/assets/image%20%2866%29.png)
+
+DeepQ AI Platform dramatically reduces the learning thresholds and the cost of AI model training through efficient image annotation tools, optimized training environment, built-in multiple AI models, fully automated parameter tuning, and a simple user interface. It is different from the existing AI training platforms and services available on the market, users of DeepQ AI Platform can quickly convert their own medical image data into the AI models without the knowledge and skills of deep learning.
+
+### 
 
