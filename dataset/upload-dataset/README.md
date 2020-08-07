@@ -27,13 +27,13 @@ Please check your dataset and image format before uploading.
 ### Dataset format: zip file
 
 * **Without annotation:** Only a folder of images should be present here. Please note that folder name must be “image,” entirely in lowercase letters.   
-* **With annotation:** A folder named as “image” and a file specifying the label of each image, “label.csv” should be present here. Please note that the image folder name should be named as “image,” entirely in lowercase letters. For the CSV file, the number of columns can only be two for image classification and six for object detection. You can either zip “image/” and “label.csv” or put them into another folder and zip that folder.  
+* **With annotation:** A folder named as “image” and a file specifying the label of each image, “label.csv” should be present here. Please note that the image folder name should be named as “image,” entirely in lowercase letters. For the CSV file, the number of columns can only be two for image classification and six for object detection. You can either zip “image/” and “label.csv” or put them into another folder and zip that folder. For annotation file format, please see [Annotation Data Formats](annotation-data-formats.md)
 
-![](../../.gitbook/assets/image%20%28125%29.png)
+![](../../.gitbook/assets/image%20%28127%29.png)
 
 ### Import multi-class data from separate folders 
 
-![](../../.gitbook/assets/image%20%28126%29.png)
+![](../../.gitbook/assets/image%20%28134%29.png)
 
 
 
