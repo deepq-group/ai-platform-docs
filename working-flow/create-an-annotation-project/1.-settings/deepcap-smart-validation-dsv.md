@@ -4,7 +4,11 @@ DeepCap Smart Validation provides a consistent rate based on DeepQ original algo
 
 ## Enable DeepCap Smart Validation \(DSV\)
 
-Cases from the dataset are automatically distributed to the annotators. To prepare qualified data for training, the DeepCap Smart Validation \(DSV\) function can be enabled if the number of annotators in this project is greater than or equal to two. For example, two or three annotators can be selected to work on each case if the project has three annotators. The DSV function provides a consistent rate based on the DeepQ original algorithm for an iterative annotation process. DeepCap suggests accurate ground truths for model training. **Please note that the number of annotators to work on each case cannot be edited once the project is published.**
+Cases from the dataset are automatically distributed to the annotators. To prepare qualified data for training, the DeepCap Smart Validation \(DSV\) function can be enabled if the number of annotators in this project is greater than or equal to two. ~~For example, two or three annotators can be selected to work on each case if the project has three annotators.~~  
+_****_\(elly\)  
+_****_For example, if the project contains three annotators, two or three annotators can be selected to work on each study.   
+_****_ The DSV function provides a consistent rate based on the DeepQ original algorithm for an iterative annotation process. _**DeepCap suggests accurate ground truths for model training.**_ **\(看不懂\)**  
+ **Please note that the number of annotators to work on each case cannot be edited once the project is published.** 
 
 ![](../../../.gitbook/assets/picture6.png)
 
@@ -12,13 +16,13 @@ Cases from the dataset are automatically distributed to the annotators. To prepa
 
 ## Enable DSV During the Project Creation Process
 
-You can enable DeepCap Smart Validation \(DSV\) function if the number of annotators in this project is greater than or equal to two. For example, you can select two or three annotators to work on each case if the project has three annotators. The maximum number of annotators that can be assigned to work on each case you can set is five.
+~~You can enable DeepCap Smart Validation \(DSV\) function if the number of annotators in this project is greater than or equal to two. For example, you can select two or three annotators to work on each case if the project has three annotators.~~ \(重複\) The maximum number of annotators that can be assigned to work on each ~~case~~  \(study?\) ~~you can set~~ is five.
 
 Notice: 
 
 1. The number of annotators to work on each case cannot be edited once the project is published. 
 2. The DSV result is applied as the default value to export for training. 
-3. You can return each case to the annotator or exclude it from artificial intelligence \(AI\) training if the DSV result is not acceptable to your requirements.
+3. You can return each ~~case~~ \(study?\) to the annotator or exclude it from artificial intelligence \(AI\) training if the DSV result is not acceptable to your requirements.
 
 ![](../../../.gitbook/assets/picture23.png)
 
