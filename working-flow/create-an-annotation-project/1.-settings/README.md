@@ -2,7 +2,7 @@
 
 ## Create Project
 
-\*\*\*\*![](../../../.gitbook/assets/image%20%2816%29.png) **CREATE PROJECT:** Click on this button and select “Image Classification” or “Object Detection” for your annotation project. **沒有segmentation?**
+\*\*\*\*![](../../../.gitbook/assets/image%20%2816%29.png) **CREATE PROJECT:** Click on this button and select “Image Classification” or “Object Detection” for your annotation project.
 
 ## Settings
 

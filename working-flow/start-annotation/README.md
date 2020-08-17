@@ -1,12 +1,15 @@
 # Start Annotation
 
-After you click on the “Job” tab, you can view the job list that was assigned by the project owner. Each job presents the annotation progress, including the total cases that have been assigned to you and the cases that have not been annotated. Click on “START” and begin the annotation process.
+~~After you~~ click on the “My Job” tab, you can view the job list that was assigned by the project owner. ~~Each job presents the annotation progress, including the total cases that have been assigned to you and the cases that have not been annotated.~~ **The total cases that have been assigned to you and the cases that have not been annotated is shown in each job.** ~~Click on “START” and begin the annotation process.~~ **沒有START**  
+  
+
 
 ![](../../.gitbook/assets/image%20%2883%29.png)
 
 ## Detail View
 
-**A:** Project settings information 
+**\(代號???\)  
+A:** Project settings information 
 
 **B:** View the annotation progress of your job. 
 
@@ -16,9 +19,9 @@ After you click on the “Job” tab, you can view the job list that was assigne
 
 | Annotation Status |  |
 | :--- | :--- |
-| Remaining | These cases have not been annotated. |
-| Saved | These cases have been annotated and saved. |
-| Returned | These cases have been returned by the project owner. |
+| Remaining | ~~These cases~~ **Cases that** have not been annotated. |
+| Saved | ~~These cases~~ **Cases that** have been annotated and saved. |
+| Returned | ~~These cases~~ **Cases that** have been returned by the project owner. |
 
 **E:** Click on each thumbnail image to annotate. “Saved” cases are indicated with a “green tick”.
 
@@ -32,7 +35,8 @@ After you click on the “Job” tab, you can view the job list that was assigne
 
 Annotation view instructions: 
 
-**A:** You can select one of the labels for the entire case. If there are no labels can be  
+**\(代號???\)  
+A:** You can select one of the labels for the entire case. If there are no labels can be  
 annotated, please select “problematic image”. 
 
 **B:** The left number is the order number of cases from your entire jobs. The right number presents the total number of cases assigned to you. 
