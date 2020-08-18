@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/image%20%2888%29.png)
 
-## View Details
+## View Details \(內容需再精簡\)
 
 Click on “VIEW DETAILS” to check annotation details of each project that you published. 
 
@@ -58,18 +58,18 @@ Click on one of the cases to view the annotation status. You can return \( \) th
 
 ## Export Annotated Dataset for Training
 
-The following annotated dataset cannot be exported for training.
+~~The following annotated dataset~~  **\(Dataset that\)** cannot be exported for training.
 
-* Without annotation result: There are no any saved annotations for this dataset. 
+* Without annotation result: There is no any saved annotations for this dataset. 
 * User exclude: A project Owner excludes \(![](../.gitbook/assets/image%20%2814%29.png)\) that case. 
 * System exclude: The DSV result excludes that case because of an unacceptably lower consistency rate. 
 * Problematic image: Annotated as “Problematic image” by an annotator. 
 
-The following annotated dataset would be excluded from export for training. 
+~~The following annotated dataset would be excluded from export for training.~~ 
 
-* User exclude: A project Owner excludes \(![](../.gitbook/assets/image%20%2814%29.png)\) that case. 
-* System exclude: The DSV result excludes that case because of an unacceptably lower consistency rate. 
-* Problematic image: Annotated as “Problematic image” by an annotator.
+* ~~User exclude: A project Owner excludes \(~~![](../.gitbook/assets/image%20%2814%29.png)~~\) that case.~~ 
+* ~~System exclude: The DSV result excludes that case because of an unacceptably lower consistency rate.~~ 
+* ~~Problematic image: Annotated as “Problematic image” by an annotator.~~
 
 ## Annotation Conditions for Training
 
@@ -88,7 +88,7 @@ The annotated dataset should contain at least two categories and each category s
 
 *  **Object Detection**
 
-The annotated dataset must contain at least three cases, and each case should be annotated with at least one bounding box.  
+The annotated dataset must contain at least three cases, and each case should be annotated with at least one bounding box. **\(描述看不懂\)**  
 For example, Cases A, B, and C should be annotated with at least One bounding box.
 
 | Dataset | Annotation |
