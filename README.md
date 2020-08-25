@@ -4,17 +4,17 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 ### DeepCap: Tutorial of data preparing
 
-* [DeepCap Main Page Introduction](working-flow-1/deepcap-main-page-introduction.md)
+* [DeepCap Main Page Introduction](working-flow-1/deepcap-main-page-introduction.md) **跟左邊menu的字沒有對應**
 * [Upload Dataset](dataset/upload-dataset/)
 * [Create an Annotation Project](working-flow/create-an-annotation-project/)
 * [Start Annotation](working-flow/start-annotation/)
-* [DeepCap Smart Validation \(DSV\)](working-flow/create-an-annotation-project/1.-settings/deepcap-smart-validation-dsv.md)
+* [DeepCap Smart Validation \(DSV\)](working-flow/create-an-annotation-project/1.-settings/deepcap-smart-validation-dsv.md)  **跟左邊menu的字沒有對應**
 
 ### Deep AI Training : Tutorial of AI model training
 
-* [Train an Image Classification Model](train-an-image-classification-model.md)
 * [Train and Object Detection Model](untitled-2.md)
-* [How to Test the Model on Your Machine](account-management/how-to-test-the-model-on-your-machine.md)
+* [Train an Image Classification Model](train-an-image-classification-model.md)
+* [How to Test the Model on Your Machine](account-management/how-to-test-the-model-on-your-machine.md)  **跟左邊menu的字沒有對應**
 
 ### [FAQ](faq/)
 

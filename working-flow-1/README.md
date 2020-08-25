@@ -8,25 +8,25 @@ description: data format shown in excel
 
 ![](../.gitbook/assets/image%20%2828%29.png)
 
-### **Data preparation**
+### **Data preparation 功能?** 
 
-&gt; The ability to import & manage medical image data from PACS database  
-&gt; De-identification & anonymize of the imported medical image data  
-&gt;   Annotation tools to produce labeled data \(classification, detection & segmentation\)  
-&gt;   To create , manage & monitor annotation projects to ensure quality labeled data  
-&gt;   To create, manage & conduct rater training programs to increase worker base & maintain worker quality through certification.  
+&gt; **The ability** \(???\) to import & manage medical image data from PACS database  
+&gt; De-identification & anonymize of the imported medical image data **有此功能?**  
+&gt;   ~~Annotation tools to produce labeled data~~ \(classification, detection & segmentation\) **To produce labeled data using annotation tools**   
+&gt;   To create , manage & monitor annotation projects and to ensure the quality of labeled data  
+&gt;   To create, manage & conduct **rater \(???\)** training programs to increase worker base & maintain worker quality through certification.  
 &gt;   To import labeled data from other sources.
 
 ### **AI training**
 
-&gt;  Provide various AI models for training \(classification, detection & segmentation\)  
+&gt;  Provide various AI models for training ~~\(classification, detection & segmentation\)~~  
 &gt;  To create , manage & monitor AI training projects  
 &gt;   Automatic hyper-parameter tuning for minimal IT manpower  
 &gt;   Provide metrics to evaluate the training progress & outcome of the models
 
 ### **Model deployment**
 
-&gt;   Produce quantitative inferencing results  
+&gt;   Produce ~~quantitative~~ **\(qualitative?\)**  inferential results  
 &gt;   Graphical interpretation of model performance & provide insight  
 &gt;   GPU Scheduling & intelligent queuing of training tasks
 

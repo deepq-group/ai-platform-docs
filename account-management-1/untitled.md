@@ -1,8 +1,8 @@
 # User Role Descriptions
 
-### There are three types of roles in DeepQ AI Platform: Project Owner, Reviewer and Annotator. 
+### There are three ~~types of~~ roles in DeepQ AI Platform: Project Owner, Reviewer and Annotator. 
 
-**Project Owner:** The owner of an annotation project & Training task. Can upload/manage datasts, create /manage annotation projects, create/manage training tasks.
+**Project Owner:** The owner of an annotation project & training task. He/ She can upload/manage datasts, create /manage annotation projects, create/manage training tasks. 
 
 **Reviewer:** Assigned by the project owner to review the labeling results pass down by annotators.
 

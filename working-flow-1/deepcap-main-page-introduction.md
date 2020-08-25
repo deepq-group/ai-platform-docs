@@ -6,9 +6,9 @@
 
 ## Side Menu
 
-**Project**: If you create a project, you will be the owner of that project. You can check all of your projects in this tab. 
+**Project**: Person who create a project will be the project owner. ~~If you create a project, you will be the owner of that project.~~ The project owner can check and manage all the projects in this tab. ~~You can check all of your projects in this tab.~~ 
 
-**Dataset**: You can upload a dataset in this tab. Please note that the system imposes some limitations on your dataset. Please refer to the “Upload Data” tab for detailed information. 
+**Dataset**: You can upload datasets in this tab.The system has imposes some limitations on your dataset, please refer to the “Upload Data” tab for detailed information. 
 
 **Job**: Annotators/Reviewers can view and work on the jobs assigned to them by a project owner.
 
