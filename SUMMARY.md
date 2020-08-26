@@ -4,7 +4,7 @@
 * [DeepQ AI Platform overview](working-flow-1/README.md)
   * [What is Deep Learning?](working-flow-1/what-is-deep-learning.md)
   * [DeepCap Overview](working-flow-1/deepcap-main-page-introduction.md)
-  * [AI Training Overview](working-flow-1/ai-training-overview.md)
+  * [\(DeepQ\) AI Training Overview](working-flow-1/ai-training-overview.md)
 * [Account Management](account-management-1/README.md)
   * [User Role Descriptions](account-management-1/untitled.md)
   * [Logging into DeepQ AI Platform](account-management-1/log-in-deepq-ai-platform.md)

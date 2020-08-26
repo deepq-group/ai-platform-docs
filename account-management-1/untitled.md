@@ -6,7 +6,7 @@
 
 **Reviewer:** Assigned by the project owner to review the labeling results pass down by annotators.
 
-**Annotator:** Assigned by the project owner to annotate the data.
+**Annotator:** Assigned by the project owner to annotate the data. 
 
 ![](../.gitbook/assets/image%20%2894%29.png)
 
