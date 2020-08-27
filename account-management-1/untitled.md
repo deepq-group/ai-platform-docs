@@ -1,4 +1,4 @@
-# User Role Descriptions
+# User Role Descriptions \(刪\)
 
 ### There are three ~~types of~~ roles in DeepQ AI Platform: Project Owner, Reviewer and Annotator. 
 

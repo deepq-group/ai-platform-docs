@@ -37,8 +37,8 @@ The alert message of “preparation failed” is presented if the dataset format
 
 ~~Please note that there are some rules to delete a dataset.~~
 
-Rules of deleting a dataset: 
+Rules of deleting a dataset:  \(elly\)
 
-* The dataset you want to delete should not be related to any existing annotation project. If it is related, then you need to delete that project first and then delete the dataset.
-* The dataset you want to delete should not be related to any existing training task and annotated dataset. If it is related, then you need to delete that training task first and then delete the annotated dataset. Finally, you can delete the dataset.
+* The dataset you want to delete should not be related to any existing annotation project. If it is related, then you need to delete that project first and then delete the dataset. 好像可以更精簡
+* The dataset you want to delete should not be related to any existing training task and annotated dataset. If it is related, then you need to delete that training task first and then delete the annotated dataset. Finally, you can delete the dataset. 好像可以更精簡
 

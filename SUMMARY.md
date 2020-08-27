@@ -6,7 +6,7 @@
   * [DeepCap Overview](working-flow-1/deepcap-main-page-introduction.md)
   * [\(DeepQ\) AI Training Overview](working-flow-1/ai-training-overview.md)
 * [Account Management](account-management-1/README.md)
-  * [User Role Descriptions](account-management-1/untitled.md)
+  * [User Role Descriptions \(刪\)](account-management-1/untitled.md)
   * [Logging into DeepQ AI Platform](account-management-1/log-in-deepq-ai-platform.md)
 * [Dataset](dataset/README.md)
   * [Preparing Datasets](dataset/preparing-datasets.md)

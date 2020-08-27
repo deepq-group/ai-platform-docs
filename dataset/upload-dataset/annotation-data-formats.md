@@ -1,13 +1,13 @@
 # Annotation Data Formats
 
-### Image Classification:
+### Image Classification: 
 
 ![](../../.gitbook/assets/image%20%28104%29.png)
 
 * Each line specifies the name of an image file and its category label that are separated by a comma. **圖片沒有comma**
 * The same image should be repeated N times, where N is the number of classes assigned. 
 * The pairs of an image name and a category label start from the first line. That is, there is no CSV header in the label file. **好像可以更精簡**
-* Pure number \(e.g. 001\) as category names must be double quoted. \(e.g. "001"\). **category name?**
+* Pure number \(e.g. 001\) as category names must be double quoted. \(e.g. "001"\). **category name? 圖文不符**
 
 ### Object Detection:
 
@@ -19,6 +19,8 @@
 * An image can contain more than 1 bounding boxes, so an image can show in multiple lines. **第二行不清楚**
 * The bounding box lines must start from the first line. That is, there is no CSV header in the label file. **好像可以更精簡**
 * Pure number \(e.g. 001\) as category names must be double quoted. \(e.g. "001"\). **category name?** 
+
+### 沒有segmentation?
 
 
 

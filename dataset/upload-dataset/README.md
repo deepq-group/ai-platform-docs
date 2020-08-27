@@ -27,10 +27,10 @@ Please check your dataset and image format before uploading.
 ### Dataset format: zip file
 
 * **Without annotation:** Only a folder of images should be present here. Please note that the folder name must be “**image**,” entirely in lowercase letters.   
-* **With annotation:** A folder named as “**image**” __ and a file specifying the label of each image, “**label.csv**” should be present here. ~~Please note that the image folder name should be named as “image,” entirely in lowercase letters. For the CSV file, the number of columns can only be two for image classification and six for object detection.~~ You can either zip “image/” and “label.csv” or put them into another folder and zip that folder. For annotation file format, please see [Annotation Data Formats](annotation-data-formats.md)   
+* **With annotation:** ~~****A folder named as “**image**” __ and a file specifying the label of each image, “**label.csv**” should be present here~~. ~~Please note that the image folder name should be named as “image,” entirely in lowercase letters. For the CSV file, the number of columns can only be two for image classification and six for object detection.~~ ~~You can either zip “image/” and “label.csv” or put them into another folder and zip that folder. For annotation file format, please see~~ [~~Annotation Data Formats~~](annotation-data-formats.md) ~~~~  
   
   \(elly\)  
-  A folder named as “**image**” __in lowercase and a file specifying the label of each image, “**label.csv**” should be present here. You can either zip “image” and “label.csv” or put them into another folder and zip that folder.
+  A folder named “**image**” __in lowercase and a file specifying the label of each image, “**label.csv**” should be present here. You can either zip “image” and “label.csv” or put them into another folder and zip that folder.
 
   * CSV file: - For image classification: 2 columns - For object detection: 6 columns  
 
