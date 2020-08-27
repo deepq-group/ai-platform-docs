@@ -1,4 +1,4 @@
-# 2. Select Model
+# 2. Select Model \(Elly\)
 
 ![](../../../.gitbook/assets/image%20%28109%29.png)
 

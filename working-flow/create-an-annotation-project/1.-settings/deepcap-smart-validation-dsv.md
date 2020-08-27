@@ -1,4 +1,4 @@
-# Annotation Quality Control
+# Annotation Quality Control \(Edzer\)
 
 DeepCap Smart Validation provides a consistent rate based on DeepQ original algorithm for an iterative annotation process. The system suggests annotations and provides accurate ground truths for model training.
 

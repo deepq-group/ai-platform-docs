@@ -1,4 +1,4 @@
-# About Deep Learning Models
+# About Deep Learning Models \(to be deleted or moved to appendix?\)
 
 ## Residual Network
 

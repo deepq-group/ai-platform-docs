@@ -1,4 +1,4 @@
-# 1. Settings
+# 1. Settings \(Elly\)
 
 ## Create Project
 
