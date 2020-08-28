@@ -1,4 +1,4 @@
-# Deploying Your Model\(s\) Elsewhere \(To be revised by DL/backend: Tang Li\)
+# Deploying Your Model\(s\) Elsewhere \(To be revised by DL/backend: Tang Lee\)
 
 After your training is completed, the next step is to test the performance of your trained model. This tutorial introduces how to download the trained model as well as the prediction script and the way to run the prediction on your machine locally.
 
