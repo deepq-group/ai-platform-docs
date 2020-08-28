@@ -1,8 +1,8 @@
 # Start Annotation
 
-~~After you~~ click on the “My Job” tab, you can view the job list that was assigned by the project owner. ~~Each job presents the annotation progress, including the total cases that have been assigned to you and the cases that have not been annotated.~~ **The total cases that have been assigned to you and the cases that have not been annotated is shown in each job.** ~~Click on “START” and begin the annotation process.~~ **沒有START**  
-  
+~~After you click on the “My Job” tab, you can view the job list that was assigned by the project owner. Each job presents the annotation progress, including the total cases that have been assigned to you and the cases that have not been annotated. ****The total cases that have been assigned to you and the cases that have not been annotated is shown in each job. Click on “START” and begin the annotation process.~~ **沒有START**
 
+Click on the "My Job" tab,  you can view the job list that was assigned by the project owner. The total cases that have been assigned to you and the cases that have not been annotated is shown in each job. Click on "ANNOTATE" and begin the annotation process. 
 
 ![](../../.gitbook/assets/image%20%2883%29.png)
 
