@@ -20,11 +20,11 @@
 
 
 
-![](../.gitbook/assets/image%20%28119%29.png)
 
 
 
 
+manage user profile / password \(screenshot\)
 
-![](../.gitbook/assets/image%20%2840%29.png)
+
 
