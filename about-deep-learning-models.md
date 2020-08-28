@@ -20,25 +20,25 @@ _**With network depth increasing, accuracy gets saturated \(which might be unsur
 
 During backpropagation, partial derivative of the error function has the effect of multiplying n numbers to compute gradients in an n-layer network. When the network is deep, multiplying n of small numbers will become zero which also called vanished. And of course, multiplying n of large number make the number explode.
 
-![](../../../.gitbook/assets/prior_network.png)
+![](.gitbook/assets/prior_network.png)
 
 ### Shortcut Connection in Residual Network \(ResNet\)
 
-![](../../../.gitbook/assets/resnet_buildingblock.png)
+![](.gitbook/assets/resnet_buildingblock.png)
 
 It reformulates the fundamental building block to H\(x\) = F\(x\) + x. Even if the vanishing gradient occurs, it still has the identity x to transfer back.
 
 ### ResNet Architecture
 
-![](../../../.gitbook/assets/resnet_structure.png)
+![](.gitbook/assets/resnet_structure.png)
 
 ResNet architecture can be easily seen as above figure. With the benefit of shortcut connection, we can now focus on building residual blocks instead of building layers and this helps us creating deeper networks. Here we demonstrate ResNet family in below.
 
-![](../../../.gitbook/assets/resnet_18.png)
+![](.gitbook/assets/resnet_18.png)
 
-![](../../../.gitbook/assets/resnet_20.png)
+![](.gitbook/assets/resnet_20.png)
 
-![](../../../.gitbook/assets/resnet_50.png)
+![](.gitbook/assets/resnet_50.png)
 
 
 

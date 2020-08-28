@@ -26,8 +26,7 @@
 * [DeepQ AI Training](account-management/README.md)
   * [Create Training Tasks](account-management/create-training-tasks/README.md)
     * [1. Select Dataset \(Elly\)](account-management/create-training-tasks/1.-select-dataset.md)
-    * [2. Select Model \(Elly\)](account-management/create-training-tasks/2.-select-model/README.md)
-      * [About Deep Learning Models \(to be deleted or moved to appendix?\)](account-management/create-training-tasks/2.-select-model/about-deep-learning-models.md)
+    * [2. Select Model \(Elly\)](account-management/create-training-tasks/2.-select-model.md)
     * [3. Start Task \(Elly\)](account-management/create-training-tasks/3.-start-task.md)
   * [View/Manage Training Tasks](account-management/manage-training-tasks.md)
   * [Running Your Models](account-management/running-your-models/README.md)
@@ -42,4 +41,5 @@
 * [Untitled](untitled.md)
 * [Train an Object Detection Model \(TBD\)](untitled-2.md)
 * [Train an Image Classification Model \(TBD\)](train-an-image-classification-model.md)
+* [About Deep Learning Models \(to be deleted or moved to appendix?\)](about-deep-learning-models.md)
 
