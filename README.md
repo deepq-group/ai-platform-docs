@@ -2,6 +2,10 @@
 
 This is a quick start or getting started guide to introduce how to use DeepQ AI Platform from data preparing to AI training. Check out these tutorials and get started your DeepCap and AI training experience.
 
+
+
+
+
 ### DeepCap: Tutorial of data preparing
 
 * [DeepCap Main Page Introduction](working-flow-1/deepcap-main-page-introduction.md) **跟左邊menu的字沒有對應**

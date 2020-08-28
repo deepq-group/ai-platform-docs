@@ -30,7 +30,7 @@ description: data format shown in excel
 &gt;   Graphical interpretation of model performance & provide insight  
 &gt;   GPU Scheduling & intelligent queuing of training tasks
 
-![Two main modules of DeepQ AI Platform-- DeepCap \(image annotation module\) and DeepQ AI Training \(Model training module\)\)](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%28139%29.png)
 
 
 
