@@ -1,14 +1,13 @@
-# 1. Settings \(Elly\)
+# 1. Settings- finalized
 
 ## Create Project
 
-\*\*\*\*![](../../../.gitbook/assets/image%20%2816%29.png) **CREATE PROJECT:** Click on this button and select “Image Classification” or “Object Detection” for your annotation project. **沒有segmentation?**
+\*\*\*\*![](../../../.gitbook/assets/image%20%2816%29.png)**CREATE PROJECT:** Click on this button and start the project settings. 
 
 ## Settings
 
-I~~nput project information and the annotation method to be used~~. ~~Please note that annotation methods of “Image Classification” and “Object Detection” are different. The changes made using these methods cannot be edited once the project is published. For “Image Classification”, at least two labels are required for each annotation project.~~
-
 * Input project information, annotation instruction, and select one of the validation method from the below options.
+* The project schedule setting is optional. 
 
 ![](../../../.gitbook/assets/image%20%2856%29.png)
 
