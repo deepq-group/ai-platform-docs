@@ -1,8 +1,8 @@
-# User roles & Account Management
+# User roles & Account Management \(Edzer\)
 
-### There are three ~~types of~~ roles in DeepQ AI Platform: Project Owner, Reviewer and Annotator. 
+### There are three roles in DeepQ AI Platform: Project Owner, Reviewer and Annotator. 
 
-**Project Owner:** The owner of an annotation project & training task. He/ She can upload/manage datasts, create /manage annotation projects, create/manage training tasks. 
+**Project Owner:** The owner of an annotation project & training task. He/ She can upload, create and manage datasts, annotation projects, and training tasks. 
 
 **Reviewer:** Assigned by the project owner to review the labeling results pass down by annotators.
 
@@ -10,11 +10,11 @@
 
 ![](../.gitbook/assets/image%20%2894%29.png)
 
-\(remove roles, focus on modules and workflow\)
+**\(remove roles, focus on modules and workflow\)**
 
 
 
-\(add role icons\)
+\(**add role icons\)**
 
 ![ The Function/Role matrix of DeepQ AI Platform](../.gitbook/assets/image%20%28103%29.png)
 

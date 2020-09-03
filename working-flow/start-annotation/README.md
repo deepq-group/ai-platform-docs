@@ -1,29 +1,17 @@
 # Start Annotation
 
-~~After you click on the “My Job” tab, you can view the job list that was assigned by the project owner. Each job presents the annotation progress, including the total cases that have been assigned to you and the cases that have not been annotated. ****The total cases that have been assigned to you and the cases that have not been annotated is shown in each job. Click on “START” and begin the annotation process.~~ **沒有START**
-
 Click on the "My Job" tab,  you can view the job list that was assigned by the project owner. The total cases that have been assigned to you and the cases that have not been annotated is shown in each job. Click on "ANNOTATE" and begin the annotation process. 
 
 ![](../../.gitbook/assets/image%20%2883%29.png)
 
 ## Detail View
 
-**\(代號???\)  
-A:** Project settings information 
-
-**B:** View the annotation progress of your job. 
-
-**C:** Click on “start” to being the annotation process. 
-
-**D:** Filter the jobs based on the annotation status.
-
 | Annotation Status |  |
 | :--- | :--- |
-| Remaining | ~~These cases~~ **Cases that** have not been annotated. |
-| Saved | ~~These cases~~ **Cases that** have been annotated and saved. |
-| Returned | ~~These cases~~ **Cases that** have been returned by the project owner. |
-
-**E:** Click on each thumbnail image to annotate. “Saved” cases are indicated with a “green tick”.
+| My annotation job | Cases that ****have not been annotated. |
+| Progress | Project progress will be shown in this field. |
+| Annotation Method | Project settings information. |
+| Study | All the cases will be shown here, you can choose whichever you want to start the annotation job.  |
 
 ![](../../.gitbook/assets/image%20%28120%29.png)
 
@@ -35,9 +23,8 @@ A:** Project settings information
 
 Annotation view instructions: 
 
-**\(代號???\)  
-A:** You can select one of the labels for the entire case. If there are no labels can be  
-annotated, please select “problematic image”. 
+  
+**A:** You can select one of the labels for the entire case. If there are no labels can be annotated, please select “problematic image”. 
 
 **B:** The left number is the order number of cases from your entire jobs. The right number presents the total number of cases assigned to you. 
 

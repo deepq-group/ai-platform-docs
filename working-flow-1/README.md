@@ -2,7 +2,7 @@
 description: data format shown in excel
 ---
 
-# DeepQ AI Platform overview
+# DeepQ AI Platform overview \(Q\)
 
 ### DeepQ AI Platform provide one-stop software products from medical data annotation to AI model training via web browser.
 
@@ -10,25 +10,25 @@ description: data format shown in excel
 
 ### **Data preparation \(功能?\)** 
 
-&gt; **The ability** \(???\) to import & manage medical image data from PACS database  
-&gt; De-identification & anonymize of the imported medical image data **有此功能?**  
-&gt;   ~~Annotation tools to produce labeled data~~ \(classification, detection & segmentation\) **To produce labeled data using annotation tools**   
-&gt;   To create , manage & monitor annotation projects and to ensure the quality of labeled data  
-&gt;   To create, manage & conduct **rater \(???\)** training programs to increase worker base & maintain worker quality through certification. **\(語意看不懂\)**  
-&gt;   To import labeled data from other sources.
+* To import & manage medical image data from PACS database **\(PACS?\)**
+*  De-identification & anonymize of the imported medical image data **有此功能?**
+*  To produce labeled data using annotation tools \(classification, detection & segmentation\)
+*  To create , manage & monitor annotation projects and to ensure the quality of labeled data
+* To create, manage & conduct **rater \(???\)** training programs to increase worker base & maintain worker quality through certification. **\(語意看不懂\)**
+* To import labeled data from other sources.
 
 ### **AI training**
 
-&gt;  Provide various AI models for training ~~\(classification, detection & segmentation\)~~  
-&gt;  To create , manage & monitor AI training projects  
-&gt;   Automatic hyper-parameter tuning for minimal IT manpower  
-&gt;   Provide metrics to evaluate the training progress & outcome of the models
+* Provide various AI models for training
+* To create , manage & monitor AI training projects
+* Automatic hyper-parameter tuning for minimal IT manpower
+*  Provide metrics to evaluate the training progress & outcome of the models
 
 ### **Model deployment**
 
-&gt;   Produce ~~quantitative~~ **\(qualitative?\)**  inference results  
-&gt;   Graphical interpretation of model performance & provide insight  
-&gt;   GPU Scheduling & intelligent queuing of training tasks
+* Produce qualitative inference results
+* Graphical interpretation of model performance & provide insight
+* GPU Scheduling & intelligent queuing of training tasks
 
 ![](../.gitbook/assets/image%20%28139%29.png)
 

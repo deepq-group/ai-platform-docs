@@ -2,7 +2,7 @@
 description: 'Classification, Detection & Segmentation'
 ---
 
-# What is Deep Learning?
+# What is Deep Learning? \(Edzer\)
 
 ### Deep Learning and its application in image analysis
 

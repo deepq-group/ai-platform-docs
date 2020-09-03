@@ -1,11 +1,11 @@
 # Table of contents
 
 * [DeepQ AI Platform - User Guide](README.md)
-* [DeepQ AI Platform overview](working-flow-1/README.md)
-  * [What is Deep Learning?](working-flow-1/what-is-deep-learning.md)
-  * [DeepCap Overview](working-flow-1/deepcap-main-page-introduction.md)
-  * [\(DeepQ\) AI Training Overview](working-flow-1/ai-training-overview.md)
-  * [User roles & Account Management](working-flow-1/untitled-1.md)
+* [DeepQ AI Platform overview \(Q\)](working-flow-1/README.md)
+  * [What is Deep Learning? \(Edzer\)](working-flow-1/what-is-deep-learning.md)
+  * [DeepCap Overview- finalized](working-flow-1/deepcap-main-page-introduction.md)
+  * [DeepQ AI Training Overview- finalized](working-flow-1/ai-training-overview.md)
+  * [User roles & Account Management \(Edzer\)](working-flow-1/untitled-1.md)
 * [Account Management \(to be deleted\)](account-management-1.md)
 * [Dataset](dataset/README.md)
   * [Preparing Datasets](dataset/preparing-datasets.md)
