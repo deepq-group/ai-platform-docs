@@ -15,7 +15,11 @@ The alert message of “preparation failed” is presented if the dataset format
 
 ![](../.gitbook/assets/picture58.png)
 
-![](../.gitbook/assets/picture59.png)
+改圖
+
+![&#x6539;&#x5716;](../.gitbook/assets/picture59.png)
+
+改圖
 
 
 

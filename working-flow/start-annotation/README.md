@@ -4,7 +4,7 @@ Click on the "My Job" tab,  you can view the job list that was assigned by the p
 
 ![](../../.gitbook/assets/image%20%2883%29.png)
 
-## Detail View
+## Detail Page
 
 | Annotation Status |  |
 | :--- | :--- |
@@ -16,6 +16,10 @@ Click on the "My Job" tab,  you can view the job list that was assigned by the p
 ![](../../.gitbook/assets/image%20%28120%29.png)
 
 ![](../../.gitbook/assets/image%20%2886%29.png)
+
+改完整的圖 \(拉線\)
+
+
 
 
 

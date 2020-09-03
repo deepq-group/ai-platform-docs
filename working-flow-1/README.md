@@ -2,7 +2,7 @@
 description: data format shown in excel
 ---
 
-# DeepQ AI Platform overview- finalized
+# DeepQ AI Platform overview \(圖\)
 
 ### DeepQ AI Platform provide one-stop software products from medical data annotation to AI model training via web browser.
 
