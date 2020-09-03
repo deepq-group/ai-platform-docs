@@ -8,7 +8,6 @@
   * [User roles & Account Management \(Edzer\)](working-flow-1/untitled-1.md)
 * [Account Management \(to be deleted\)](account-management-1.md)
 * [Dataset](dataset/README.md)
-  * [Preparing Datasets](dataset/preparing-datasets.md)
   * [Upload Datasets](dataset/upload-dataset/README.md)
     * [Annotation Data Formats](dataset/upload-dataset/annotation-data-formats.md)
   * [Manage Datasets \(Q\)](dataset/untitled.md)
