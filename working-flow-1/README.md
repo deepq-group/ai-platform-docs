@@ -2,19 +2,17 @@
 description: data format shown in excel
 ---
 
-# DeepQ AI Platform overview \(Q\)
+# DeepQ AI Platform overview- finalized
 
 ### DeepQ AI Platform provide one-stop software products from medical data annotation to AI model training via web browser.
 
 ![](../.gitbook/assets/image%20%2828%29.png)
 
-### **Data preparation \(功能?\)** 
+### **Data preparation**
 
-* To import & manage medical image data from PACS database **\(PACS?\)**
-*  De-identification & anonymize of the imported medical image data **有此功能?**
+*  De-identification & anonymize of the imported medical image data.
 *  To produce labeled data using annotation tools \(classification, detection & segmentation\)
 *  To create , manage & monitor annotation projects and to ensure the quality of labeled data
-* To create, manage & conduct **rater \(???\)** training programs to increase worker base & maintain worker quality through certification. **\(語意看不懂\)**
 * To import labeled data from other sources.
 
 ### **AI training**

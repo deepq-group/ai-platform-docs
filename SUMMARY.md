@@ -1,7 +1,7 @@
 # Table of contents
 
 * [DeepQ AI Platform - User Guide](README.md)
-* [DeepQ AI Platform overview \(Q\)](working-flow-1/README.md)
+* [DeepQ AI Platform overview- finalized](working-flow-1/README.md)
   * [What is Deep Learning? \(Edzer\)](working-flow-1/what-is-deep-learning.md)
   * [DeepCap Overview- finalized](working-flow-1/deepcap-main-page-introduction.md)
   * [DeepQ AI Training Overview- finalized](working-flow-1/ai-training-overview.md)
@@ -11,7 +11,7 @@
   * [Preparing Datasets](dataset/preparing-datasets.md)
   * [Upload Datasets](dataset/upload-dataset/README.md)
     * [Annotation Data Formats](dataset/upload-dataset/annotation-data-formats.md)
-  * [Manage Datasets](dataset/untitled.md)
+  * [Manage Datasets \(Q\)](dataset/untitled.md)
 * [DeepCap \(Annotation tool\)-finalized](working-flow/README.md)
   * [Create an Annotation Project-finalized](working-flow/create-an-annotation-project/README.md)
     * [1. Settings- finalized](working-flow/create-an-annotation-project/1.-settings/README.md)
