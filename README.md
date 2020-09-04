@@ -9,7 +9,7 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 ### DeepCap: Tutorial of data preparing
 
 * [DeepCap Main Page Introduction](working-flow-1/deepcap-main-page-introduction.md) **跟左邊menu的字沒有對應**
-* [Upload Dataset](dataset/upload-dataset/)
+* [Upload Dataset](dataset/upload-dataset.md)
 * [Create an Annotation Project](working-flow/create-an-annotation-project/)
 * [Start Annotation](working-flow/start-annotation/)
 * [DeepCap Smart Validation \(DSV\)](working-flow/create-an-annotation-project/1.-settings/deepcap-smart-validation-dsv.md)  **跟左邊menu的字沒有對應**

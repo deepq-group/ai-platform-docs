@@ -4,7 +4,7 @@ Object detection is conducted to detect objects in images, and to output the bou
 
 ### **1. Prepare the dataset ABCD**
 
-Download ABCD.zip [here](https://storage.googleapis.com/aip-sample-dataset/ABCD.zip). The dataset contains images of cats and dogs, and a file known as label.csv that includes the bounding box annotations. You can learn more about how to prepare your own dataset for DeepQ AI Platform in the [tutorial](dataset/upload-dataset/).
+Download ABCD.zip [here](https://storage.googleapis.com/aip-sample-dataset/ABCD.zip). The dataset contains images of cats and dogs, and a file known as label.csv that includes the bounding box annotations. You can learn more about how to prepare your own dataset for DeepQ AI Platform in the [tutorial](dataset/upload-dataset.md).
 
 ### 2. Upload ABCD.zip to DeepQ AI Platform
 

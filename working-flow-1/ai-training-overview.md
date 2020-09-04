@@ -8,7 +8,7 @@
 
 ## Side Menu
 
-**Task**: Person who create a task will be the project owner.  The project owner can check and manage all the tasks in this tab.
+**Task**: Person who create a task will be the project owner. The project owner can check and manage all the tasks in this tab.
 
 **Dataset**: You can upload datasets in this tab.The system has imposes some limitations on your dataset, please refer to the “Upload Data” tab for detailed information. 
 

@@ -2,7 +2,7 @@
 
 ### Image Classification: 
 
-![\*\*replace with actual csv instead of table](../../.gitbook/assets/image%20%28104%29.png)
+![\*\*replace with actual csv instead of table](../.gitbook/assets/image%20%28104%29.png)
 
 * Each line specifies the name of an image file and its category label that are separated by a comma. **圖片沒有comma**
 * The same image should be repeated N times, where N is the number of classes assigned. 
@@ -11,7 +11,7 @@
 
 ### Object Detection:
 
-![\*\*replace with actual csv instead of table](../../.gitbook/assets/image%20%2860%29.png)
+![\*\*replace with actual csv instead of table](../.gitbook/assets/image%20%2860%29.png)
 
 * Each line specifies a bounding box of an object.
 * Each line must include 6 fields, separated by a comma: image file name, category label, xLeft, yTop, width, height.  **沒comma**

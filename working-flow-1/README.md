@@ -1,24 +1,20 @@
----
-description: data format shown in excel
----
-
-# DeepQ AI Platform overview \(圖\)
+# DeepQ AI Platform overview- finalized
 
 ### DeepQ AI Platform provide one-stop software products from medical data annotation to AI model training via web browser.
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/aip-overview.png)
 
 ### **Data preparation**
 
 *  De-identification & anonymize of the imported medical image data.
 *  To produce labeled data using annotation tools \(classification, detection & segmentation\)
-*  To create , manage & monitor annotation projects and to ensure the quality of labeled data
+*  To create, manage & monitor annotation projects and to ensure the quality of labeled data
 * To import labeled data from other sources.
 
 ### **AI training**
 
 * Provide various AI models for training
-* To create , manage & monitor AI training projects
+* To create**,** manage & monitor AI training projects
 * Automatic hyper-parameter tuning for minimal IT manpower
 *  Provide metrics to evaluate the training progress & outcome of the models
 
