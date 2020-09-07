@@ -6,7 +6,6 @@
   * [DeepCap Overview- finalized](working-flow-1/deepcap-main-page-introduction.md)
   * [DeepQ AI Training Overview- finalized](working-flow-1/ai-training-overview.md)
   * [User roles & Account Management \(User profile screenshot\)](working-flow-1/untitled-1.md)
-* [Account Management \(to be deleted\)](account-management-1.md)
 * [Dataset \(Edzer\)](dataset/README.md)
   * [Dataset Format](dataset/upload-dataset.md)
   * [Annotation Data Formats](dataset/annotation-data-formats.md)

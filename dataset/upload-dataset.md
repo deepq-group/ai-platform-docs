@@ -6,25 +6,26 @@ description: >-
 
 # Dataset Format
 
-![](../.gitbook/assets/image%20%2843%29.png)
-
-![](../.gitbook/assets/image%20%2844%29.png)
-
-
-
-deepcap 的dataset跟 Ai training 的dataset是同樣的
-
 補 dataset and annotation format 表   
 highlight 上方  
 下面說明四種功能
+
+![](../.gitbook/assets/xie-qu-.png)
+
+The dataset is shared between DeepCap and DeepQ AI Training.
 
 ## **Introduction**
 
 \*\*\*\*![](../.gitbook/assets/image%20%2822%29.png) **Upload Dataset:** Click on this button and upload your dataset in DICOM/ JPG, PNG form. 
 
-\*\*\*\*![](../.gitbook/assets/image%20%2819%29.png) **Help:** Detailed description of dataset format. \(???\) 
+\*\*\*\*![](../.gitbook/assets/image%20%289%29.png) **Search:** Search for your uploaded dataset by its name.
 
-\*\*\*\*![](../.gitbook/assets/image%20%289%29.png) **Search: S**earch for your uploaded dataset by its name.
+## Define the task 
+
+* **Image Classification Single Label**
+* **Image Classification Multi Label**
+* **Object Detection**
+* **Image Segmentation** 
 
 ## Dataset Format
 
@@ -48,8 +49,6 @@ Please check your dataset and image format before uploading.
 ### Import multi-class data from separate folders 
 
 ![](../.gitbook/assets/image%20%28134%29.png)
-
-
 
 #### Notice:
 
