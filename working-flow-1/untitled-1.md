@@ -1,6 +1,6 @@
-# User roles & Account Management \(User profile screenshot\)
+# User roles & Account Management \(User profile screenshot修圖\)
 
-### There are three roles in DeepQ AI Platform: Project Owner, Reviewer and Annotator
+### Three roles in DeepQ AI Platform
 
 * **Project Owner:** The owner of an annotation project & training task. He/ She can upload, create and manage datasts, annotation projects, and training tasks.
 * **Reviewer:** Assigned by the project owner to review the labeling results pass down by annotators.
@@ -17,7 +17,10 @@
 | Create/ manage AI Training task | V |  |  |
 | Create AI inference/ view results | V |  |  |
 
-**manage user profile / password \(screenshot\)- Edzer**
+### **Manage user profile / Change Password**
 
+![](../.gitbook/assets/user-guide-screenshot-materials.jpg)
 
+* Click on the profile picture and select "view my profile" tab. 
+* Click on the top right tab \(加圖\) to change password. 
 

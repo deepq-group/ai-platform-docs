@@ -4,7 +4,7 @@ description: >-
   “Dataset” tab.
 ---
 
-# Dataset Format
+# Dataset Format \(加圖, definition\)
 
 補 dataset and annotation format 表   
 highlight 上方  
@@ -22,9 +22,9 @@ The dataset is shared between DeepCap and DeepQ AI Training.
 
 ## Define the task 
 
-* **Image Classification Single Label**
-* **Image Classification Multi Label**
-* **Object Detection**
+* **Image Classification Single Label:**  Only one label can be marked on a case. 
+* **Image Classification Multi Label:**  Multiple labels can be marked on a case. 
+* **Object Detection:**  Use bounding box to detect and identify target objects. 
 * **Image Segmentation** 
 
 ## Dataset Format
