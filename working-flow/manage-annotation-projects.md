@@ -1,8 +1,8 @@
-# Manage Annotation Projects
+# Manage Annotation Projects \(換圖\)
 
 ![](../.gitbook/assets/image%20%2888%29.png)
 
-## View Details \(內容需再精簡\)
+## View Details 
 
 Click on “VIEW DETAILS” to check annotation details of each project that you published. 
 
@@ -58,18 +58,12 @@ Click on one of the cases to view the annotation status. You can return \( \) th
 
 ## Export Annotated Dataset for Training
 
-~~The following annotated dataset~~  **\(Dataset that\)** cannot be exported for training.
+Dataset that cannot be exported for training.
 
 * Without annotation result: There is no any saved annotations for this dataset. 
 * User exclude: A project Owner excludes \(![](../.gitbook/assets/image%20%2814%29.png)\) that case. 
 * System exclude: The DSV result excludes that case because of an unacceptably lower consistency rate. 
 * Problematic image: Annotated as “Problematic image” by an annotator. 
-
-~~The following annotated dataset would be excluded from export for training.~~ 
-
-* ~~User exclude: A project Owner excludes \(~~![](../.gitbook/assets/image%20%2814%29.png)~~\) that case.~~ 
-* ~~System exclude: The DSV result excludes that case because of an unacceptably lower consistency rate.~~ 
-* ~~Problematic image: Annotated as “Problematic image” by an annotator.~~
 
 ## Annotation Conditions for Training
 

@@ -1,4 +1,4 @@
-# Start Annotation
+# Start Annotation \(文\)
 
 Click on the "My Job" tab,  you can view the job list that was assigned by the project owner. The total cases that have been assigned to you and the cases that have not been annotated is shown in each job. Click on "ANNOTATE" and begin the annotation process. 
 
@@ -40,7 +40,7 @@ Annotation view instructions:
 
 ![](../../.gitbook/assets/image%20%28116%29.png)
 
-## Object Detection Annotation
+## Image Annotation--Object Detection 
 
 ![](../../.gitbook/assets/image%20%2879%29.png)
 

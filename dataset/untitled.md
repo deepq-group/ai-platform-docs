@@ -2,7 +2,7 @@
 description: View/Delete Dataset
 ---
 
-# Manage Datasets \(Q\)
+# Manage Datasets \(改圖\)
 
 ![](../.gitbook/assets/image%20%28112%29.png)
 
@@ -15,8 +15,6 @@ The alert message of “preparation failed” is presented if the dataset format
 
 ![](../.gitbook/assets/picture58.png)
 
-改圖
-
 ![&#x6539;&#x5716;](../.gitbook/assets/picture59.png)
 
 改圖
@@ -27,6 +25,5 @@ The alert message of “preparation failed” is presented if the dataset format
 
 Rules of deleting a dataset: 
 
-* The dataset you want to delete should not be related to any existing annotation project. If it is related, then you need to delete that project first and then delete the dataset. 好像可以更精簡
-* The dataset you want to delete should not be related to any existing training task and annotated dataset. If it is related, then you need to delete that training task first and then delete the annotated dataset. Finally, you can delete the dataset. 好像可以更精簡
+* The dataset you want to delete should not be related to any existing annotation project or training task. If it is related, then you need to delete that project/ task first and then delete the dataset. 
 
