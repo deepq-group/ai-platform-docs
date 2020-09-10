@@ -1,60 +1,27 @@
-# Manage Annotation Projects \(換圖\)
+# Manage Annotation Projects \(table\)
 
 ![](../.gitbook/assets/image%20%2888%29.png)
 
 ## View Details 
 
-Click on “VIEW DETAILS” to check annotation details of each project that you published. 
+![](../.gitbook/assets/manage1.jpg)
 
-**A:** Project settings information 
+![](../.gitbook/assets/manage2.jpg)
 
-**B:** You can monitor the annotation progress of your project. If the iteration you set is three, then the quantity of “saved cases” is equal to the annotation quantity that is completed by three annotators. 
+* _**Suspend:** An annotator’s job will be released when they are suspended from the project. The suspended status can be resumed._ 
+* _**Remove:** An annotator’s job will be released when they are removed from the project. A removed annotator cannot be added again once removed by a project owner._
 
-**C:** Export your dataset to DeepQ AI training service in one click. 
+![](../.gitbook/assets/manage3.jpg)
 
-**D:** Use the “Edit project name”, “Edit instruction for annotator”, “Stop project” and “Delete  
-project” functions as required from the menu button. 
-
-**E:** Filter cases based on the annotation status.
-
-| Annotation Status |  |
+| Filter |  |
 | :--- | :--- |
-| Remaining     | These cases have not been annotated by all assigned annotators.  |
-| Saved  | These cases have been annotated and saved by all assigned annotators.  |
-| Returned | These cases have been returned to one of the assigned annotators. |
-| Revised | These cases have received all the requested revisions.  |
-| Excluded | These cases have been manually set to exclude from export.  |
-| DSV failed | These cases did not pass the consistency standard. |
+| Study name |  |
+| Last finished |  |
+| Lowest DSV: classification |  |
+| Lowest DSV: segmentation |  |
+| Lowest DSV: detection |  |
 
-**F:** Click on each thumbnail image to annotate. “Saved” cases might be indicated using a  
-“green tick”. Thus, you can also view the annotation status on this preview mode. 
-
-**G:** Export to an annotated dataset. 
-
-**H:** You can add new annotators before the project is stopped and completed. The cases will be re-allocated once you add new annotators. 
-
-**I:** An annotator can be suspended and removed from you project.
-
-* **Suspend:** An annotator’s job will be released when they are suspended from the project. The suspended status can be resumed. 
-* **Remove:** An annotator’s job will be released when they are removed from the project. A removed annotator cannot be added again once removed by a project owner.
-
-![](../.gitbook/assets/picture8.png)
-
-![](../.gitbook/assets/picture2.png)
-
-Click on one of the cases to view the annotation status. You can return \( \) this case to an annotator or exclude \(![](../.gitbook/assets/image%20%2814%29.png)\) this case from AI training if the annotation result is not qualified based on your consideration.
-
-![](../.gitbook/assets/picture1%20%2810%29.png)
-
-
-
-![](../.gitbook/assets/image%20%28121%29.png)
-
-![](../.gitbook/assets/image%20%28102%29.png)
-
-
-
-![](../.gitbook/assets/image%20%2852%29.png)
+![](../.gitbook/assets/manage4.jpg)
 
 ## Export Annotated Dataset for Training
 
@@ -71,23 +38,23 @@ To deliver the best possible training performance, please ensure that your annot
 
 *   **Image Classification**:
 
-The annotated dataset should contain at least two categories and each category should be used as an annotation on at least two cases. For example: Category “Dog” was used on cases A and B, and category “Cat” was used on cases C and D.
+The annotated dataset should contain at least two categories and each category should be used as an annotation on at least two cases. For example: Class“A” was used on case 001 and case 002, and Class“B” was used on case 003 and case 004.
 
 | Dataset | Annotation |
 | :--- | :--- |
-| Case A | Dog |
-| Case B | Dog |
-| Case C | Cat |
-| Case D | Cat |
+| Case 001 | A |
+| Case 002 | A |
+| Case 003 | B |
+| Case 004 | B |
 
 *  **Object Detection**
 
-The annotated dataset must contain at least three cases, and each case should be annotated with at least one bounding box. **\(描述看不懂\)**  
-For example, Cases A, B, and C should be annotated with at least One bounding box.
+The annotated dataset must contain at least three cases, and each case should be annotated with at least one bounding box.   
+For example, Cases 001, 002, and 003 should be annotated with at least One bounding box.
 
 | Dataset | Annotation |
 | :--- | :--- |
-| Case A | Bounding Box with Tag “Dog” |
-| Case B | Bounding Box with Tag “Dog” |
-| Case C | Bounding Box with Tag “Cat” |
+| Case 001 | Bounding Box with Tag “A” |
+| Case 002 | Bounding Box with Tag “A” |
+| Case 003 | Bounding Box with Tag “B” |
 

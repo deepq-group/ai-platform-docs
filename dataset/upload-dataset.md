@@ -4,11 +4,9 @@ description: >-
   “Dataset” tab.
 ---
 
-# Dataset Format \(加圖\)
+# Dataset Format-finalized
 
-補 dataset and annotation format 表   
-highlight 上方  
-下面說明四種功能
+![](../.gitbook/assets/cat1.jpg)
 
 ![](../.gitbook/assets/xie-qu-.png)
 
@@ -22,8 +20,7 @@ The dataset is shared between DeepCap and DeepQ AI Training.
 
 ## Define the task 
 
-* **Image Classification Single Label:**  Only one label can be marked on a case. 
-* **Image Classification Multi Label:**  Multiple labels can be marked on a case. 
+* **Image Classification:**  One or multiple label can be marked on a case. 
 * **Object Detection:**  Use bounding box to detect and identify target objects.  
 * **Image Segmentation:** To segment and define the target object. ****
 

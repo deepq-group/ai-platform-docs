@@ -1,8 +1,6 @@
-# Create an Annotation Project
+# Create an Annotation Project-finalized
 
-DeepCap is an annotation tool with a project-based workflow and a simple interface. 
-
-_**You can create projects, complete settings, import datasets, add annotators, enable DSV and publish projects to scale-up qualified training data. Let’s start.**_ 
+DeepCap is an annotation tool with a project-based workflow and a simple interface. You can create project, import dataset, complete label and annotation quality control setting, and add members to the project. 
 
 
 

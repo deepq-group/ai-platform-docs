@@ -1,4 +1,4 @@
-# User roles & Account Management \(User profile screenshot修圖\)
+# User roles & Account Management-finalized
 
 ### Three roles in DeepQ AI Platform
 
@@ -19,8 +19,8 @@
 
 ### **Manage user profile / Change Password**
 
-![](../.gitbook/assets/user-guide-screenshot-materials.jpg)
+![](../.gitbook/assets/wechat-tu-pian-20200910181325.jpg)
 
 * Click on the profile picture and select "view my profile" tab. 
-* Click on the top right tab \(加圖\) to change password. 
+* Click on the top right tab ![](../.gitbook/assets/xie-qu-%20%281%29.png)  to change password. 
 
