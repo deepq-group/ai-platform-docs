@@ -1,4 +1,4 @@
-# 1. Settings- finalized
+# 1. Settings
 
 ## Create Project
 

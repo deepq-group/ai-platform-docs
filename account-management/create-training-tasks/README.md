@@ -1,4 +1,4 @@
-# Create Training Tasks-finalized
+# Create Training Tasks
 
 ![](../../.gitbook/assets/image%20%28147%29.png)
 

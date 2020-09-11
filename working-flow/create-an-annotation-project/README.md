@@ -1,4 +1,4 @@
-# Create an Annotation Project-finalized
+# Create an Annotation Project
 
 DeepCap is an annotation tool with a project-based workflow and a simple interface. You can create project, import dataset, complete label and annotation quality control setting, and add members to the project. 
 

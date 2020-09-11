@@ -1,4 +1,4 @@
-# Annotation Data Formats-finalized
+# Annotation Data Formats
 
 ![](../.gitbook/assets/label-format.jpg)
 

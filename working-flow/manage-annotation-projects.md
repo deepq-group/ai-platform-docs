@@ -1,4 +1,4 @@
-# Manage Annotation Projects-finalized
+# Manage Annotation Projects
 
 ![](../.gitbook/assets/image%20%2888%29.png)
 

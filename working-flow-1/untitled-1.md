@@ -1,4 +1,4 @@
-# User roles & Account Management-finalized
+# User roles & Account Management
 
 ### Three roles in DeepQ AI Platform
 

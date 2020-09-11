@@ -1,4 +1,4 @@
-# Running Your Models-finalized
+# Running Your Models
 
 ## Deploy Model & Inference
 
