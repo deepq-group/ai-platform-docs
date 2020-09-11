@@ -6,7 +6,7 @@
 
 ![](../.gitbook/assets/image%20%28131%29.png)
 
-* Name the 
+* Name the annotation data that you want to export. 
 
 ![](../.gitbook/assets/image%20%28130%29.png)
 

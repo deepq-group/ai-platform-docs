@@ -1,4 +1,4 @@
-# Manage Annotation Projects \(table\)
+# Manage Annotation Projects-finalized
 
 ![](../.gitbook/assets/image%20%2888%29.png)
 
@@ -13,13 +13,7 @@
 
 ![](../.gitbook/assets/manage3.jpg)
 
-| Filter |  |
-| :--- | :--- |
-| Study name |  |
-| Last finished |  |
-| Lowest DSV: classification |  |
-| Lowest DSV: segmentation |  |
-| Lowest DSV: detection |  |
+* _**Sort by:** Study name, Last finished, Lowest DSV: classification, Lowest DSV: segmentation, Lowest DSV: detection, depends on the project type._
 
 ![](../.gitbook/assets/manage4.jpg)
 

@@ -1,4 +1,4 @@
-# View/Manage Training Tasks
+# View/Manage Training Tasks- finalized
 
 * The task overview will be shown at the "Task" tab. 
 
@@ -10,9 +10,9 @@
 
 ![](../.gitbook/assets/image%20%2897%29.png)
 
-* Task Description
-* Hyperparameters
-* Inference List 
+* Task Description will be shown here if any. 
+* Hyperparameters: Unfold the column to see the detailed hyperparameters, you can also download it to deploy on your own model. 
+* Inference List: You can view the inference detail about the dataset, accuracy, and status. 
 
 ![](../.gitbook/assets/image%20%2890%29.png)
 
