@@ -1,5 +1,7 @@
 # Annotation Data Formats-finalized
 
+![](../.gitbook/assets/label-format.jpg)
+
 ### Image Classification: 
 
 ![](../.gitbook/assets/labelcsv1%20%281%29.jpg)

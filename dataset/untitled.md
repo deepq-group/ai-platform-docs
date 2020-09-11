@@ -15,8 +15,6 @@ The alert message of “preparation failed” is presented if the dataset format
 
 ![](../.gitbook/assets/picture58.png)
 
-
-
 ## Delete a Dataset
 
 Rules of deleting a dataset: 

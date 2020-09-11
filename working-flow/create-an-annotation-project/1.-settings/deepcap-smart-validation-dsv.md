@@ -1,4 +1,4 @@
-# Annotation Quality Control \(換圖\)
+# Annotation Quality Control-finalized
 
 DeepCap Smart Validation provides a consistent rate based on DeepQ original algorithm for an iterative annotation process. The system suggests annotations and provides accurate ground truths for model training.
 
@@ -20,30 +20,25 @@ As a project owner, you can view the DSV result suggested for each image and can
 
 #### Image Classification:
 
-* **DSV result \(A\):** The suggested label and the consistency rate are shown in this section. The DSV calculation for image classification is simple as the DSV result is determined by estimating the majority consensus. For example, if there were three annotators work on each image, two of them select the same label for one image, the consistency rate would be 67%. The DSV result is presented as “failed” if the consistency rate is less than or equal to 50%. In this case, you can return \(![](../../../.gitbook/assets/picture24.png)\) this case to the annotator or exclude \(![](../../../.gitbook/assets/image%20%2814%29.png)\) this case from AI training.  
-* **Annotator result \(B\):** You can view the result labeled by each annotator in this section.
+* **DSV result:** The suggested label and the consistency rate are shown in this section. The DSV calculation for image classification is simple as the DSV result is determined by estimating the majority consensus. For example, if there were three annotators work on each image, two of them select the same label for one image, the consistency rate would be 67%. The DSV result is presented as “failed” if the consistency rate is less than or equal to 50%. In this case, you can return \(![](../../../.gitbook/assets/picture24.png)\) this case to the annotator or exclude \(![](../../../.gitbook/assets/image%20%2814%29.png)\) this case from AI training. 
 
-![](../../../.gitbook/assets/picture25.png)
+![](../../../.gitbook/assets/classification.jpg)
 
 #### Object Detection:
 
-* **DSV result \(A\):** The suggested bounding box and consistency rate might be presented in this area. You can hide the DSV bounding box ****label by clicking “![](../../../.gitbook/assets/picture26.png)”. The DSV result for object detection is based on the following calculation steps.
+* **DSV result:** The suggested bounding box and consistency rate ****will ****be presented in this area. You can hide the DSV bounding box ****label by clicking “![](../../../.gitbook/assets/picture26.png)”. The DSV result for object detection is based on the following calculation steps.
 
-1. Calculate IoU for each ~~two~~ bounding box from different annotator.
+1. Calculate IoU for each bounding box from different annotator.
 2. Grouping the bounding boxes. 
 3. Calculate the average of the bounding box groups.
 
-* **Annotator result \(B\):** You can enable “annotator result” to view all bounding boxes annotated by each annotator on the image. The remaining bounding boxes will be presented on the image.
-
 **\[Disable annotator result\]**   
 
-![](../../../.gitbook/assets/picture27.png)
+![](../../../.gitbook/assets/detection1.jpg)
 
 **\[Enable annotator result\]**
 
-![](../../../.gitbook/assets/picture28.png)
+* **Annotator result:** You can enable “annotator result” to view all bounding boxes annotated by each annotator on the image. The remaining bounding boxes will be presented on the image.
 
-**\[Disable DSV and any annotator’s annotation\]**
-
-![](../../../.gitbook/assets/picture29.png)
+![](../../../.gitbook/assets/detection2.jpg)
 

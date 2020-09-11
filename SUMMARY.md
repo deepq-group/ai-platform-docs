@@ -13,7 +13,7 @@
 * [DeepCap \(Annotation tool\)-finalized](working-flow/README.md)
   * [Create an Annotation Project-finalized](working-flow/create-an-annotation-project/README.md)
     * [1. Settings- finalized](working-flow/create-an-annotation-project/1.-settings/README.md)
-      * [Annotation Quality Control \(換圖\)](working-flow/create-an-annotation-project/1.-settings/deepcap-smart-validation-dsv.md)
+      * [Annotation Quality Control-finalized](working-flow/create-an-annotation-project/1.-settings/deepcap-smart-validation-dsv.md)
     * [2. Dataset & Labels- finalized](working-flow/create-an-annotation-project/2.-dataset-and-labels.md)
     * [3. Members- finalized](working-flow/create-an-annotation-project/3.-members.md)
     * [4. Publishing \(preview圖不清楚\)](working-flow/create-an-annotation-project/4.-publishing.md)
