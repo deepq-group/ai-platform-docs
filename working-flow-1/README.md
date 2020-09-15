@@ -7,22 +7,22 @@
 ### **Data preparation**
 
 *  De-identification & anonymize of the imported medical image data.
-*  To produce labeled data using annotation tools \(classification, detection & segmentation\)
-*  To create, manage & monitor annotation projects and to ensure the quality of labeled data
+*  To produce labeled data using annotation tools \(classification, detection & segmentation\).
+*  To create, manage & monitor annotation projects and to ensure the quality of labeled data.
 * To import labeled data from other sources.
 
 ### **AI training**
 
-* Provide various AI models for training
-* To create**,** manage & monitor AI training projects
-* Automatic hyper-parameter tuning for minimal IT manpower
-*  Provide metrics to evaluate the training progress & outcome of the models
+* Provide various AI models for training.
+* To create**,** manage & monitor AI training projects.
+* Automatic hyper-parameter tuning for minimal IT manpower.
+*  Provide metrics to evaluate the training progress & outcome of the models.
 
 ### **Model deployment**
 
-* Produce qualitative inference results
-* Graphical interpretation of model performance & provide insight
-* GPU Scheduling & intelligent queuing of training tasks
+* Produce qualitative inference results.
+* Graphical interpretation of model performance & provide insight.
+* GPU scheduling & intelligent queuing of training tasks.
 
 ![](../.gitbook/assets/image%20%28139%29.png)
 
