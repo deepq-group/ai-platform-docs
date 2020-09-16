@@ -8,7 +8,7 @@ description: >-
 
 ![](../.gitbook/assets/cat1.jpg)
 
-![](../.gitbook/assets/xie-qu-.png)
+![](../.gitbook/assets/dataset.jpg)
 
 The dataset is shared between DeepCap and DeepQ AI Training.
 
