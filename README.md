@@ -24,7 +24,7 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 3. [Members](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow/create-an-annotation-project/3.-members)
 4. [Publishing](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow/create-an-annotation-project/4.-publishing)
 
-* [Start Annotation](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow/start-annotation) [- Hotkeys functions for annotation](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow/start-annotation/hotkeys-functions-for-annotation)
+* [Start Annotation](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow/start-annotation)
 * [Manage Annotation Projects](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow/manage-annotation-projects)
 
 ### [DeepQ AI Training: ](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/account-management)

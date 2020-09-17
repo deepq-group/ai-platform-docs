@@ -21,6 +21,6 @@
 
 ![](../.gitbook/assets/wechat-tu-pian-20200910181325.jpg)
 
-* Click on the profile picture and select "view my profile" tab. 
+* Click on the account button, and select "view my profile" tab. 
 * Click on the top right tab ![](../.gitbook/assets/xie-qu-%20%281%29.png)  to change password. 
 
