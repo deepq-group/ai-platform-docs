@@ -2,9 +2,7 @@
 description: View/Delete Dataset
 ---
 
-# Manage Datasets
-
-![](../.gitbook/assets/image%20%28112%29.png)
+# Manage Datasets \(alert message\)
 
 ## Dataset List
 
