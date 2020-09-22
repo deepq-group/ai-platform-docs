@@ -4,7 +4,7 @@
 
 
 
-![Dataset overview](../.gitbook/assets/image%20%28140%29.png)
+![Dataset overview](../.gitbook/assets/dataset-overview.png)
 
 JPG and PNG are acceptable image format. Both width and height should be between 16px and 4096px.
 

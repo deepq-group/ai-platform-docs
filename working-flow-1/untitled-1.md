@@ -1,8 +1,8 @@
-# User roles & Account Management
+# User roles & Account Management \(補icon\)
 
 ### Three roles in DeepQ AI Platform
 
-* **Project Owner:** The owner of an annotation project & training task. He/ She can upload, create and manage datasts, annotation projects, and training tasks.
+* **Project Owner:** The owner of an annotation project & training task. He/ She can upload, create and manage datasets, annotation projects, and training tasks.
 * **Reviewer:** Assigned by the project owner to review the labeling results pass down by annotators.
 * **Annotator:** Assigned by the project owner to annotate the data. 
 
@@ -19,8 +19,8 @@
 
 ### **Manage user profile / Change Password**
 
-![](../.gitbook/assets/wechat-tu-pian-20200910181325.jpg)
+![](../.gitbook/assets/jian-bao-1.png)
 
-* Click on the account button, and select "view my profile" tab. 
-* Click on the top right tab ![](../.gitbook/assets/xie-qu-%20%281%29.png)  to change password. 
+* Click on the account button "圖", and select "view my profile" link. 
+* Click on the top right tab “三個點點圖” to change password. 
 
