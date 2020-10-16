@@ -9,7 +9,7 @@
 * [Dataset](dataset/README.md)
   * [Dataset Format](dataset/upload-dataset.md)
   * [Annotation Data Formats](dataset/annotation-data-formats.md)
-  * [Manage Datasets \(alert message\)](dataset/untitled.md)
+  * [Manage Datasets](dataset/untitled.md)
 * [DeepCap \(Annotation tool\)](working-flow/README.md)
   * [Create an Annotation Project](working-flow/create-an-annotation-project/README.md)
     * [1. Settings](working-flow/create-an-annotation-project/1.-settings/README.md)

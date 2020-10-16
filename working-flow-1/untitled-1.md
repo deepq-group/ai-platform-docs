@@ -19,7 +19,7 @@
 
 ### **Manage user profile / Change Password**
 
-![](../.gitbook/assets/jian-bao-1.png)
+![](../.gitbook/assets/account-management-.png)
 
 * Click on the account button "圖", and select "view my profile" link. 
 * Click on the top right tab “三個點點圖” to change password. 

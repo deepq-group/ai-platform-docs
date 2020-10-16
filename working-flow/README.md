@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/image%20%28142%29.png)
 
-![](../.gitbook/assets/deepcap-overview.png)
+![](../.gitbook/assets/deepcap-overview%20%282%29.png)
 
 ## Project List
 

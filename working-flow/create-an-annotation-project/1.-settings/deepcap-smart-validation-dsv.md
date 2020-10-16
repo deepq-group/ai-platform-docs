@@ -12,7 +12,7 @@ Cases from the dataset are automatically distributed to the annotators. To prepa
 * The DSV result is applied as the default value to export for training. 
 * You can return each case to the annotator or exclude it from artificial intelligence \(AI\) training if the DSV result is not acceptable to your requirements.
 
-![](../../../.gitbook/assets/xie-qu-%20%284%29.png)
+![](../../../.gitbook/assets/dsv%20%281%29.png)
 
 ## View DSV result from Annotation Details
 
