@@ -27,7 +27,7 @@
   * [View/Manage Training Tasks](account-management/manage-training-tasks.md)
   * [Running Your Models](account-management/running-your-models/README.md)
     * [AI Assisted Annotation](account-management/running-your-models/ai-assisted-annotation.md)
-  * [Deploying Your Model\(s\) Elsewhere \(To be revised by DL/backend: Jingkai\)](account-management/how-to-test-the-model-on-your-machine.md)
+  * [Deploying Your Model\(s\) Elsewhere](account-management/how-to-test-the-model-on-your-machine.md)
 * [Legal Documents](legal-documents.md)
 * [FAQ](faq/README.md)
   * [Using DeepQ AI Platform](faq/using-deepq-ai-platform.md)
