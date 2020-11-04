@@ -1,3 +1,9 @@
 {
-  "plugins": ["theme-official"]
+  "plugins": ["insert-logo"],
+  "pluginsConfig": {
+    "insert-logo": {
+      "url": "/aip-logo.png",
+      "style": "background: none; height: 48px; margin: 8px;"
+    }
+  }
 }
