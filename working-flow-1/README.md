@@ -14,7 +14,7 @@
 ### **AI training**
 
 * Provide various AI models for training.
-* To create**,** manage & monitor AI training projects.
+* To create**,** manage & monitor AI training tasks.
 * Automatic hyper-parameter tuning for minimal IT manpower.
 *  Provide metrics to evaluate the training progress & outcome of the models.
 

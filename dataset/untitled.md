@@ -17,5 +17,5 @@ The alert message of “preparation failed” is presented if the dataset format
 
 Rules of deleting a dataset: 
 
-* The dataset you want to delete should not be related to any existing annotation project or training task. If it is related, then you need to delete that project/ task first and then delete the dataset. 
+* The dataset you want to delete should not be related to any existing annotation project or training task. If it is related, then you need to delete that project/ task first before deleting the dataset. 
 
