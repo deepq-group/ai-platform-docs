@@ -16,12 +16,6 @@ description: >-
 
 \*\*\*\*![](../.gitbook/assets/image%20%289%29.png) **Search:** Search for your uploaded dataset by its name.
 
-## Define the task 
-
-* **Image Classification:**  One or multiple label can be marked on a case. 
-* **Object Detection:**  Use bounding box to detect and identify target objects.  
-* **Image Segmentation:** To segment and define the ROI \(range of interest\). ****
-
 ## Dataset Format
 
 Please check your dataset and image format before uploading. 
@@ -30,11 +24,11 @@ Please check your dataset and image format before uploading.
 
 * **Image only:**  Only a folder of images should be presented here. Please note that the folder name must be “**image**,” entirely in lowercase letters.    
 * **With annotation:**  
-  A folder named “**image**” __in lowercase and a file specifying the label of each image, “**label.csv**” should be present here. You can either zip “image” and “label.csv” or put them into another folder and zip that folder.
+  A folder named “**image**” __in lowercase and a file specifying the label of each image, “**label.csv**” should be presented here. You can either zip “image” and “label.csv” or put them into another folder and zip that folder.
 
   * CSV file: - For image classification: 3 columns - For object detection: 6 columns  
 
-   For annotation file format, please see [Annotation Data Formats](annotation-data-formats.md) 
+   **For annotation file \(label.csv\) format, please refer to** [**Annotation Data Formats**](annotation-data-formats.md) ****
 
 ![](../.gitbook/assets/image%20%28127%29.png)
 

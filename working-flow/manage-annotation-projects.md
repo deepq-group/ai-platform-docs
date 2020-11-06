@@ -1,21 +1,27 @@
 # Manage Annotation Projects
 
-![](../.gitbook/assets/image%20%2888%29.png)
+![](../.gitbook/assets/manage-annotation-project-.png)
 
 ## View Details 
 
-![](../.gitbook/assets/manage1.jpg)
+![](../.gitbook/assets/view-detail.png)
 
-![](../.gitbook/assets/manage2.jpg)
+* **Project schedule:** The summary of project schedule is shown here to help the project owner review the progress. 
+* **Annotation progress:** If the iteration you set is three, then the quantity of "Annotated" is equal to the annotation quantity that is completed by three annotators.
+* **Review progress:** This column shows the review progress that has completed by the reviewer. 
+* **Export to training:** You can directly export the annotated data to DeepQ AI Training service by clicking on the bottom. 
 
-* _**Suspend:** An annotator’s job will be released when they are suspended from the project. The suspended status can be resumed._ 
-* _**Remove:** An annotator’s job will be released when they are removed from the project. A removed annotator cannot be added again once removed by a project owner._
+![](../.gitbook/assets/add-member.png)
 
-![](../.gitbook/assets/manage3.jpg)
+* You can add new annotators before the project is stopped and completed. The cases will be re-allocated once you add new annotators. 
+* An annotator/ reviewer can be suspended or removed from the project. 
+  * **Suspend:** An annotator’s job will be released when they are suspended from the project. The suspended status can be resumed. 
+  * **Remove:** An annotator’s job will be released when they are removed from the project. A removed annotator cannot be added again once removed by a project owner.
 
-* _**Sort by:** Study name, Last finished, Lowest DSV: classification, Lowest DSV: segmentation, Lowest DSV: detection, depends on the project type._
+![](../.gitbook/assets/annotation-dataset.png)
 
-![](../.gitbook/assets/manage4.jpg)
+* **Filter \| Sort by:** Study name, Last finished, Lowest DSV: classification, Lowest DSV: segmentation, Lowest DSV: detection, depends on the project type.
+* **Export:** You can also export the annotated data to DeepQ AI Training service directly. 
 
 ## Export Annotated Dataset for Training
 

@@ -17,7 +17,7 @@
     * [2. Dataset & Labels](working-flow/create-an-annotation-project/2.-dataset-and-labels.md)
     * [3. Members](working-flow/create-an-annotation-project/3.-members.md)
     * [4. Publishing](working-flow/create-an-annotation-project/4.-publishing.md)
-  * [Start Annotation](working-flow/start-annotation.md)
+  * [Start Annotation \(補icon\)](working-flow/start-annotation.md)
   * [Manage Annotation Projects](working-flow/manage-annotation-projects.md)
 * [DeepQ AI Training](account-management/README.md)
   * [Create Training Tasks](account-management/create-training-tasks/README.md)

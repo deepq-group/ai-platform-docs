@@ -1,35 +1,47 @@
-# Start Annotation
+# Start Annotation \(補icon\)
 
 Click on the "My Job" tab,  you can view the job list that was assigned by the project owner. The total cases that have been assigned to you and the cases that have not been annotated is shown in each job. Click on "ANNOTATE" and begin the annotation process. 
 
-![](../.gitbook/assets/image%20%2883%29.png)
+![](../.gitbook/assets/my-job.png)
 
 ## Detail Page
 
-![](../.gitbook/assets/annotation1.jpg)
+![](../.gitbook/assets/detail-page-.png)
 
-![](../.gitbook/assets/annotation2.jpg)
+![](../.gitbook/assets/detail-page-2.png)
+
+| Column Name  | Description |
+| :--- | :--- |
+| My annotation job | Cases that have not been annotated.  |
+| Progress | The completion percentage of this project. |
+| Annotation Method  | Annotation Method setting information. |
+| Study | All the cases will be shown here, you can choose whichever you want to annotate.  |
+
+You can filter the studies by annotation status: Remaining, Finished, Returned. 
+
+## Image Annotation
+
+### Annotation view instructions: 
+
+![](../.gitbook/assets/annotation-labels.png)
+
+* Choose the annotation labels from the right column to add on the image.
+* You can select one of the labels for the entire case. If there are no labels can be annotated, please select “Nothing to Label”. 
+
+![](../.gitbook/assets/ww-wl.png)
+
+* You can view the WW/WL of that image by the top left button, select it to adjust the WW/WL of the image. 
+* Click **\(放大鏡icon\)** and slide to zoom in and zoom out the images. 
 
 
 
-## Image Annotation--Classification
+#### After labeling the case: 
 
-Annotation view instructions: 
+Click on “SUBMIT” after annotating each case. You can also click on “&lt;&lt;” to go back to the last case or click on “&gt;&gt;” to go to the next page without submission.
 
-* You can select one of the labels for the entire case. If there are no labels can be annotated, please select “Nothing to Label”.  
-* Please click on “SUBMIT” after annotating each case. You can also click on “&lt;&lt;” to go back to the last case or click on “&gt;&gt;” to go to the next page.
-* Click ![](../.gitbook/assets/xie-qu-%20%282%29.png) and slide to zoom in and zoom out the images. 
+#### Notice: 
 
-![](../.gitbook/assets/image%20%28116%29.png)
+Once the case is submitted, the label cannot be changed.
 
-## Image Annotation--Object Detection 
 
-* You can view the WW/WL of that image by the top left button.
-* Select the top left button to adjust the WW/WL of the image. 
-
-![](../.gitbook/assets/wwwl.jpg)
-
-* Choose the annotation tool from the right column to label on the image. 
-
-![](../.gitbook/assets/annotation-tool.jpg)
 
