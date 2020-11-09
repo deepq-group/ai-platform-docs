@@ -1,4 +1,4 @@
-# Start Annotation \(補icon\)
+# Start Annotation
 
 Click on the "My Job" tab,  you can view the job list that was assigned by the project owner. The total cases that have been assigned to you and the cases that have not been annotated is shown in each job. Click on "ANNOTATE" and begin the annotation process. 
 
@@ -31,7 +31,7 @@ You can filter the studies by annotation status: Remaining, Finished, Returned.
 ![](../.gitbook/assets/ww-wl.png)
 
 * You can view the WW/WL of that image by the top left button, select it to adjust the WW/WL of the image. 
-* Click **\(放大鏡icon\)** and slide to zoom in and zoom out the images. 
+* Click on ![](../.gitbook/assets/filled-copy-2-1-.svg) **** and slide to zoom in and zoom out the images. 
 
 
 

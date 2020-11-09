@@ -1,4 +1,4 @@
-# User roles & Account Management \(補icon\)
+# User roles & Account Management
 
 ### Three roles in DeepQ AI Platform
 
@@ -21,6 +21,6 @@
 
 ![](../.gitbook/assets/account-management-.png)
 
-* Click on the account button "圖", and select "view my profile" link. 
-* Click on the top right tab “三個點點圖” to change password. 
+* Click on the account button![](../.gitbook/assets/filled.svg), and select "view my profile" link. 
+* Click on the top right tab “ ![](../.gitbook/assets/filled-copy.svg) ” to change password. 
 
