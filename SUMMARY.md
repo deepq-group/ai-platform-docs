@@ -23,7 +23,7 @@
   * [Create Training Tasks](account-management/create-training-tasks/README.md)
     * [1. Select Dataset](account-management/create-training-tasks/1.-select-dataset.md)
     * [2. Select Model](account-management/create-training-tasks/2.-select-model.md)
-    * [3. Start Task](account-management/create-training-tasks/3.-start-task.md)
+    * [3. Start Training Task](account-management/create-training-tasks/3.-start-task.md)
   * [View/Manage Training Tasks](account-management/manage-training-tasks.md)
   * [Running Your Models](account-management/running-your-models/README.md)
     * [AI Assisted Annotation](account-management/running-your-models/ai-assisted-annotation.md)

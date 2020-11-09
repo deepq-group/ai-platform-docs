@@ -2,11 +2,21 @@
 
 ## Deploy Model & Inference
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+* You have to deploy the model before creating any inference task.
 
-* Two modes of model inference: batch & real-time.
+![](../../.gitbook/assets/deploy.png)
 
-![](../../.gitbook/assets/image%20%28110%29.png)
+* There are two modes of model inference: batch & real-time.
+
+![](../../.gitbook/assets/batch-and-realtime.png)
+
+* Real-time inference: Select and open one JPG/ PNG image from your local device, the inference result will be shown automatically . 
+
+![](../../.gitbook/assets/inference-test.png)
+
+* Batch inference: Select one of the dataset that you have uploaded, 
+
+![](../../.gitbook/assets/batch-inference-.png)
 
 * The task description, hyperparameter, and the inference details will be show in below. 
 
