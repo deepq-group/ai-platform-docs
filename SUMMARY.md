@@ -34,7 +34,6 @@
   * [Dataset Related issues](faq/dataset-related-issues.md)
   * [Annotation Related Issues](faq/annotation-related-issues.md)
   * [AI Training Related Issues](faq/ai-training-related-issues.md)
-* [Untitled](untitled.md)
 * [Train an Object Detection Model \(TBD\)](untitled-2.md)
 * [Train an Image Classification Model \(TBD\)](train-an-image-classification-model.md)
 * [About Deep Learning Models \(to be deleted or moved to appendix?\)](about-deep-learning-models.md)
