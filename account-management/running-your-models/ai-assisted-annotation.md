@@ -2,7 +2,10 @@
 
 ![](../../.gitbook/assets/image%20%28126%29%20%281%29.png)
 
-* Select the annotated dataset from the inference list, and click on the "EXPORT TO ANNOTATE" tab to start the AI assisted annotation task.
+### AI Training 
+
+* Create an prediction only batch inference. 
+* Select the dataset from the inference list, and click on the "EXPORT TO ANNOTATE" tab to start the AI assisted annotation task.
 
 ![](../../.gitbook/assets/image%20%28131%29.png)
 
@@ -14,8 +17,10 @@
 
 ![](../../.gitbook/assets/image%20%28136%29.png)
 
+### DeepCap
+
 * Back to DeepCap, and create an annotation project. 
-* Select the dataset that have been annotated by AI, enable the option "Include annotation data".
+* Select the dataset from the drop list, enable the option "Include annotation data", and choose the one that have been annotated by AI.
 
 ![](../../.gitbook/assets/image%20%28133%29.png)
 
