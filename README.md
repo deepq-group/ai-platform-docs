@@ -2,46 +2,46 @@
 
 This is a quick start or getting started guide to introduce how to use DeepQ AI Platform from data preparing to AI training. Check out these tutorials and get started your DeepCap and AI training experience.
 
-### [DeepQ AI Platform overview:](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow-1)
+### DeepQ AI Platform overview:
 
-* [What is Deep Learning?](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow-1/what-is-deep-learning)
-* [DeepCap Overview](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow-1/deepcap-main-page-introduction)
-* [DeepQ AI Training Overview](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow-1/ai-training-overview)
-* [User role & Account Management](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow-1/untitled-1)
+* What is Deep Learning?
+* DeepCap Overview
+* DeepQ AI Training Overview
+* User role & Account Management
 
-### [Dataset:](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/dataset)
+### Dataset:
 
-* [Dataset Format](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/dataset/upload-dataset)
-* [Annotation Data Formats](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/dataset/annotation-data-formats)
-* [Manage Datasets](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/dataset/untitled)
+* Dataset Format
+* Annotation Data Formats
+* Manage Datasets
 
-### [DeepCap \(Annotation tool\):](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow)
+### DeepCap \(Annotation tool\):
 
-* [Create an Annotation Project ](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow/create-an-annotation-project)
+* Create an Annotation Project 
 
-1. [Settings](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow/create-an-annotation-project/1.-settings) [- Annotation Quality Control ](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow/create-an-annotation-project/1.-settings/deepcap-smart-validation-dsv)
-2. [Dataset & Labels](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow/create-an-annotation-project/2.-dataset-and-labels)
-3. [Members](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow/create-an-annotation-project/3.-members)
-4. [Publishing](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow/create-an-annotation-project/4.-publishing)
+1. Settings - Annotation Quality Control 
+2. Dataset & Labels
+3. Members
+4. Publishing
 
-* [Start Annotation](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow/start-annotation)
-* [Manage Annotation Projects](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/working-flow/manage-annotation-projects)
+* Start Annotation
+* Manage Annotation Projects
 
-### [DeepQ AI Training: ](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/account-management)
+### DeepQ AI Training: 
 
-* [Create Training Tasks](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/account-management/create-training-tasks)
+* Create Training Tasks
 
-1. [Select Dataset](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/account-management/create-training-tasks/1.-select-dataset)
-2. [Select Model ](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/account-management/create-training-tasks/2.-select-model)
-3. [Start Task](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/account-management/create-training-tasks/3.-start-task)
+1. Select Dataset
+2. Select Model 
+3. Start Task
 
-* [View/Manage Training Tasks](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/account-management/manage-training-tasks)
-* [Running Your Models](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/account-management/running-your-models) [- AI Assisted Annotation ](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/account-management/running-your-models/ai-assisted-annotation)
-* [Deploying Your Models Elsewhere](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/account-management/how-to-test-the-model-on-your-machine)
+* View/Manage Training Tasks
+* Running Your Models - AI Assisted Annotation 
+* Deploying Your Models Elsewhere
 
-### [Legal Documents](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/legal-documents)
+### Legal Documents
 
-### [FAQ](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MGvXaBLSwKstCCCgrp3/faq)
+### FAQ
 
 
 
