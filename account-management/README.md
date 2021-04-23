@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/image%20%28138%29.png)
 
-![](../.gitbook/assets/training-overview%20%281%29.png)
+![](../.gitbook/assets/training-overview%20%281%29%20%281%29.png)
 
 ## Project List
 

@@ -12,7 +12,7 @@
 
 * **Input project name and related instruction.** 
 
-![](../../../.gitbook/assets/project-name.png)
+![](../../../.gitbook/assets/project-name%20%281%29%20%281%29.png)
 
 * **Choose one of the validation method from the below options. For the detailed explanation of DSV, please refer to** [**Annotation Quality Control.** ](https://app.gitbook.com/@deepq/s/aip/~/drafts/-MLQW5Rc6CLE9mln1sRi/working-flow/create-an-annotation-project/1.-settings/deepcap-smart-validation-dsv)\*\*\*\*
 

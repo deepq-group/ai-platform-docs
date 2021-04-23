@@ -35,7 +35,7 @@
 
 * The quality of the inference result is presented by the accuracy and the ROC score. 
 
-![](../../.gitbook/assets/inference-report%20%281%29.png)
+![](../../.gitbook/assets/inference-report%20%281%29%20%281%29.png)
 
 ### Prediction only
 
