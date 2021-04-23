@@ -14,7 +14,7 @@ Evaluating your machine learning algorithm is an essential part of any project. 
 
 To evaluate a model’s performance, run batch inference under a completed training task and assign a test set \(data with ground truth\)
 
-![](../../.gitbook/assets/image%20%28185%29.png)
+![](../../.gitbook/assets/image%20%28194%29.png)
 
 An inference job will appear on the list once the batch inference is complete, click on the job to view the quantitative results.
 
