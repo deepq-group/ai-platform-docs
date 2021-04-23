@@ -55,7 +55,7 @@ When annotating serial images such as CT or MRI, the user might want to duplicat
 
 
 
-![](../.gitbook/assets/image%20%28182%29.png)
+![](../.gitbook/assets/image%20%28184%29.png)
 
 In the annotation viewer, “propagate label” will automatically show up if the job is annotating continuous slices.
 
@@ -63,11 +63,11 @@ In the annotation viewer, “propagate label” will automatically show up if th
 
 
 
-![](../.gitbook/assets/image%20%28206%29.png)
+![](../.gitbook/assets/image%20%28208%29.png)
 
 By clicking on “propagate labels”, the user is able to choose which slices will be tagged with the same label, and the type of label that will be assigned to these slices. For detection and segmentation, the user can simply assign “nothing to label” where the object does not exist. User can also exclude continuous slices in the same way by toggling “Exclude image”
 
-![](../.gitbook/assets/image%20%28205%29.png)
+![](../.gitbook/assets/image%20%28207%29.png)
 
 After assigning specific slices with the same label, the slice indicator below will show that the slices have been labeled \(colored segments, representing labeled slices\).
 
@@ -75,7 +75,7 @@ After assigning specific slices with the same label, the slice indicator below w
 
 In image classification tasks, although the idea of training a single algorithm to identify numerous classes is appealing, splitting training data among these classes might result in less data per class and eventually causing the neural network unable to learn from the data successfully, thus poor performance.
 
-![](../.gitbook/assets/image%20%28188%29.png)
+![](../.gitbook/assets/image%20%28190%29.png)
 
 Splitting data among more classes causes less data per class, reducing the effective data size for the neural network to learn from.
 

@@ -1,6 +1,8 @@
 # Object Segmentation
 
-![Inference report: Object segmentation](../../.gitbook/assets/image%20%28161%29.png)
+#### Inference report: Object segmentation
+
+![](../../.gitbook/assets/image%20%28161%29.png)
 
 In object segmentation, **F\_1, Precision, Recall, Specificity & Accuracy** calculation is based on threshold 0.5. \(Please see object detection section for details\)
 
@@ -8,7 +10,7 @@
 
 The Intersection-Over-Union \(IoU\), also known as the Jaccard Index, is one of the most commonly used metrics in semantic segmentation… and for good reason. The IoU is a very straightforward metric that’s extremely effective.
 
-![IoU calculation visualized. Source: Wikipedia](../../.gitbook/assets/image%20%28185%29.png)
+![IoU calculation visualized. Source: Wikipedia](../../.gitbook/assets/image%20%28187%29.png)
 
 The IoU is the area of overlap between the predicted segmentation and the ground truth divided by the area of union between the predicted segmentation and the ground truth. This metric ranges from 0–1 with 0 signifying no overlap and 1 signifying perfectly overlapping segmentation. For binary \(two classes\) or multi-class segmentation, the mean IoU of the image is calculated by taking the IoU of each class and averaging them.
 

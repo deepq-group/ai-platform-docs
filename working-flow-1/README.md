@@ -24,7 +24,7 @@
 * Graphical interpretation of model performance & provide insight.
 * GPU scheduling & intelligent queuing of training tasks.
 
-![](../.gitbook/assets/image%20%28139%29.png)
+
 
 ![](../.gitbook/assets/image%20%2866%29.png)
 

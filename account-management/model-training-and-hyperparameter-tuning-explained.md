@@ -14,13 +14,13 @@ description: this section will explain model training & Hyperparameter tuning
 
 
 
-![DeepQ AI platform&#x2014;AI Training: Manual model training options](../.gitbook/assets/image%20%28172%29.png)
+![DeepQ AI platform&#x2014;AI Training: Manual model training options](../.gitbook/assets/image%20%28174%29.png)
 
 ### Setting Hyperparameters: 
 
 Hyperparameter setting in DeepQ AI platform involves three different sections: Data Loader, Tuning Type & Data Augmentation.
 
-![](../.gitbook/assets/image%20%28189%29.png)
+![](../.gitbook/assets/image%20%28191%29.png)
 
 ### **Data Loader:**
 
@@ -40,7 +40,7 @@ Tips: When setting validation data percentage, there are two competing concerns:
 
 ### Tuning methods:
 
-![](../.gitbook/assets/image%20%28193%29.png)
+![](../.gitbook/assets/image%20%28195%29.png)
 
 Fig. 1 Hyperparameter tuning problem with a 2D search space.  Each point represents a specific hyperparameter configuration and warmer colors correspond to better performance.  Notice that adaptive selection methods for hyperparameter tuning proceed sequentially and concentrate on promising regions of the search space.  
 
@@ -60,13 +60,13 @@ The traditional way of performing hyperparameter optimization has been grid sear
 
 Random Search replaces the exhaustive enumeration of all combinations by selecting them randomly. This can be simply applied to the discrete setting described above, but also generalizes to continuous and mixed spaces. It can outperform Grid search, especially when only a small number of hyperparameters affects the final performance of the machine learning algorithm. Random Search additionally allows the inclusion of prior knowledge by specifying the distribution from which to sample.
 
-![](../.gitbook/assets/image%20%28199%29.png)
+![](../.gitbook/assets/image%20%28201%29.png)
 
 **Population based tuning \(Adaptive selection\):**
 
 Population Based Training \(PBT\) learns both hyperparameter values and network weights. Multiple learning processes operate independently, using different hyperparameters. As with evolutionary methods, poorly performing models are iteratively replaced with models that adopt modified hyperparameter values and weights based on the better performers. PBT thus allows the hyperparameters to evolve and eliminates the need for manual tuning. The process makes no assumptions regarding model architecture, loss functions or training procedures. PBT is the default automatic tuning method in DeepQ AI platform.
 
-![](../.gitbook/assets/image%20%28178%29.png)
+![](../.gitbook/assets/image%20%28180%29.png)
 
 ### **Tuning Method—parameters:**
 

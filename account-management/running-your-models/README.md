@@ -25,13 +25,13 @@
 
 ## View Inference
 
-### Annotation Data \(with label\)
+### Annotation Data \(with ground truth/label\)
 
 * The inference detail, including  training task, dataset, and annotation data will be shown here. 
 
 ![](../../.gitbook/assets/inference-setting-.png)
 
-* The quality of the inference result is presented by the accuracy and the ROC score. 
+* The performance of each inference job is presented by the metrics of each type of application. for more information, please see [Deep Learning metrics explained](../deep-learning-metrics-explained/). 
 
 ![](../../.gitbook/assets/inference-report%20%281%29%20%281%29.png)
 
