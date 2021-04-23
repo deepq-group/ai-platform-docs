@@ -4,9 +4,9 @@
 
 ## Enable DeepCap Smart Validation \(DSV\)
 
-Cases from the dataset are automatically distributed to the annotators. To deliver qualified data for training, the DeepCap Smart Validation \(DSV\) function can be enabled if the annotator number is greater than or equal to two in the project. 
+Cases from the dataset are automatically distributed to the annotators. To deliver qualified data for training, the DeepCap Smart Validation \(DSV\) function can be enabled if the annotator number is greater than or equal to two in the project.
 
-For example, if the project contains three annotators, two or three annotators can be selected to work on each study.  The maximum number of annotators that can be assigned to work on each case is five. The DSV function provides a consistent rate based on the DeepQ original algorithm for an iterative annotation process, and it will suggest accurate ground truths for model training. 
+For example, if the project contains three annotators, two or three annotators can be selected to work on each study. The maximum number of annotators that can be assigned to work on each case is five. The DSV function provides a consistent rate based on the DeepQ original algorithm for an iterative annotation process, and it will suggest accurate ground truths for model training.
 
 ### **Notice:**
 
@@ -18,7 +18,7 @@ For example, if the project contains three annotators, two or three annotators c
 
 ## View DSV result from Annotation Details
 
-As a project owner, you can view the suggested DSV result  for each image and can also check annotation results from each annotator. 
+As a project owner, you can view the suggested DSV result for each image and can also check annotation results from each annotator.
 
 #### Image Classification:
 
@@ -29,14 +29,13 @@ As a project owner, you can view the suggested DSV result  for each image and ca
 #### Object Detection:
 
 * **The DSV result for object detection is based on the following calculation steps:**
+* Calculate IoU for each bounding box from different annotator.
+* Grouping the bounding boxes. 
+* Calculate the average of the bounding box groups.
 
-1. Calculate IoU for each bounding box from different annotator.
-2. Grouping the bounding boxes. 
-3. Calculate the average of the bounding box groups.
+**\[Disable annotator result\]**
 
-**\[Disable annotator result\]**   
-
-* **DSV result:** The suggested bounding box and consistency rate ****will ****be presented in this area, you can hide the DSV bounding box ****label by clicking “![](../../../.gitbook/assets/picture26.png)”. 
+* **DSV result:** The suggested bounding box and consistency rate **will** be presented in this area, you can hide the DSV bounding box _\*\*_label by clicking “![](../../../.gitbook/assets/picture26.png)”. 
 
 ![](../../../.gitbook/assets/detection1.jpg)
 

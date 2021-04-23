@@ -2,11 +2,11 @@
 
 Object detection is conducted to detect objects in images, and to output the bounding boxes of the objects. This tutorial discusses how to train an object detection model to detect dogs and cats in the simple dataset “ABCD”. \(A Bunch of Cats and Dogs\)
 
-### **1. Prepare the dataset ABCD**
+## **1. Prepare the dataset ABCD**
 
 Download ABCD.zip [here](https://storage.googleapis.com/aip-sample-dataset/ABCD.zip). The dataset contains images of cats and dogs, and a file known as label.csv that includes the bounding box annotations. You can learn more about how to prepare your own dataset for DeepQ AI Platform in the [tutorial](../../dataset/upload-dataset/).
 
-### 2. Upload ABCD.zip to DeepQ AI Platform
+## 2. Upload ABCD.zip to DeepQ AI Platform
 
 Click on“Upload Dataset” to upload ABCD.zip.
 
@@ -20,7 +20,7 @@ After scrolling down, you can see the “Annotation Data”. This implies that t
 
 Now, you can click on“Start Training”.
 
-### 3. Start training
+## 3. Start training
 
 If this is your first time using DeepQ AI Platform, you will be first directed to a page to add your credit card and invoice details. Subsequently, you can come back to the training console to begin the training again.
 
@@ -28,19 +28,19 @@ In the ”Select Dataset” step, ensure that you are using the“ABCD” datase
 
 ![](../../.gitbook/assets/picture33.png)
 
-### 4. Select a model
+## 4. Select a model
 
 In the “Select Model” step, please use the default object detection model “Faster RCNN”, which is a powerful and fast object detection model. Now, click on“NEXT”.
 
 ![](../../.gitbook/assets/picture34.png)
 
-### 5. Enter the task name and verify the details
+## 5. Enter the task name and verify the details
 
 This is the final step. Please assign the name “ABCD”to the task and click on “START” to begin the training task.
 
 ![](../../.gitbook/assets/picture35.png)
 
-### 6. To be trained!
+## 6. To be trained!
 
 The task is displayed on the task dashboard. Initially, the status is presented as“Waiting”. This implies that the DeepQ AI Platform is preparing the necessary resources for the training. Within 15 minutes, the status will switches to “Running”.
 
@@ -52,7 +52,7 @@ After the training, you can see the results:
 
 ![](../../.gitbook/assets/undefined.png)
 
-### 7. Predict an image
+## 7. Predict an image
 
 The system provides two different ways to use the trained model:
 

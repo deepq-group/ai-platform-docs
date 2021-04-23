@@ -20,7 +20,3 @@
 
 ![](../.gitbook/assets/inference-dataset.png)
 
-
-
-
-

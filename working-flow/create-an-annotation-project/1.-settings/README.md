@@ -2,7 +2,7 @@
 
 ## Create Project
 
-\*\*\*\*![](../../../.gitbook/assets/image%20%2816%29.png)**CREATE PROJECT:** Click on this button and start the project settings. 
+\*\*\*\*![](../../../.gitbook/assets/image%20%2816%29.png)**CREATE PROJECT:** Click on this button and start the project settings.
 
 ## Settings
 
@@ -21,12 +21,4 @@
 * **Schedule the project progress \(optional\).**
 
 ![](../../../.gitbook/assets/project-schedule.png)
-
-
-
-
-
-
-
-
 

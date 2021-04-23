@@ -10,7 +10,7 @@
 
 ![](../../.gitbook/assets/batch-and-realtime.png)
 
-### Real-time inference 
+### Real-time inference
 
 * **Real-time inference:** Select and open one JPG/ PNG image from your local device, the inference result will be shown automatically . 
 
@@ -22,8 +22,6 @@
   * Prediction only: For datasets without annotation data, inference result will only provide prediction results without an inference report.
 
 ![](../../.gitbook/assets/batch-inference-.png)
-
-
 
 ## View Inference
 
@@ -42,10 +40,4 @@
 * Each image of the selected dataset will be shown in the last column, you can check the result by clicking on the image. 
 
 ![](../../.gitbook/assets/batch-inference-dataset.png)
-
-
-
-
-
-
 
