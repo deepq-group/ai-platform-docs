@@ -4,11 +4,11 @@
 
           Other than DeepQ AI platform’s annotation format, we also support other annotation produced by other popular image labeling tools such as LabelMe. LabelMe is a project created by the MIT Computer Science and Artificial Intelligence Laboratory \(CSAIL\) and is widely used in computer vision research. DeepQ AI platform supports 3 types of annotation created by LabelMe: Classification, Detection & Segmentation.
 
-![Annotation type nomenclatures](../.gitbook/assets/image%20%28175%29.png)
-
-![](../.gitbook/assets/image%20%28168%29.png)
+![Annotation type nomenclatures](../.gitbook/assets/image%20%28177%29.png)
 
 ![](../.gitbook/assets/image%20%28169%29.png)
+
+![](../.gitbook/assets/image%20%28171%29.png)
 
 * LabelMe annotation file consists of the following coding segments: Label Data, Image path & Image data 
 * A single LabelMe .json contains all types of annotation data of a single image, therefore the number of .json files should match the number of images. 
@@ -26,7 +26,7 @@ If “Save with Image Data” is checked with LabelMe settings, image data will 
   
           Once the LabelMe zip is successfully uploaded, the system will automatically create annotation data from the .json files. Note that each .json zip will produce at least one classification annotation, on top of other types of label data. \(Detection & segmentation\)
 
-![](../.gitbook/assets/image%20%28174%29.png)
+![](../.gitbook/assets/image%20%28176%29.png)
 
 \*\*\*\*
 
