@@ -10,17 +10,17 @@ description: this section will explain model training & Hyperparameter tuning
 
 
 
-![](../.gitbook/assets/image%20%28155%29.png)
+![](../.gitbook/assets/image%20%28158%29.png)
 
 
 
-![DeepQ AI platform&#x2014;AI Training: Manual model training options](../.gitbook/assets/image%20%28165%29.png)
+![DeepQ AI platform&#x2014;AI Training: Manual model training options](../.gitbook/assets/image%20%28172%29.png)
 
 ### Setting Hyperparameters: 
 
 Hyperparameter setting in DeepQ AI platform involves three different sections: Data Loader, Tuning Type & Data Augmentation.
 
-![](../.gitbook/assets/image%20%28180%29.png)
+![](../.gitbook/assets/image%20%28189%29.png)
 
 ### **Data Loader:**
 
@@ -40,7 +40,7 @@ Tips: When setting validation data percentage, there are two competing concerns:
 
 ### Tuning methods:
 
-![](../.gitbook/assets/image%20%28184%29.png)
+![](../.gitbook/assets/image%20%28193%29.png)
 
 Fig. 1 Hyperparameter tuning problem with a 2D search space.  Each point represents a specific hyperparameter configuration and warmer colors correspond to better performance.  Notice that adaptive selection methods for hyperparameter tuning proceed sequentially and concentrate on promising regions of the search space.  
 
@@ -48,25 +48,25 @@ Fig. 1 Hyperparameter tuning problem with a 2D search space.  Each point represe
 
 User assigns a single combination of hyperparameter and running a single training job. There is no searching whatsoever,
 
-![](../.gitbook/assets/image%20%2899%29.png)
+![](../.gitbook/assets/image%20%28100%29.png)
 
 **Grid search:**
 
 The traditional way of performing hyperparameter optimization has been grid search, or a parameter sweep, which is simply an exhaustive searching through a manually specified subset of the hyperparameter space of a learning algorithm. Since the parameter space of a machine learner may include real-valued or unbounded value spaces for certain parameters, manually set bounds and discretization may be necessary before applying grid search.
 
-![](../.gitbook/assets/image%20%2854%29.png)
+![](../.gitbook/assets/image%20%2876%29.png)
 
 **Random search:**
 
 Random Search replaces the exhaustive enumeration of all combinations by selecting them randomly. This can be simply applied to the discrete setting described above, but also generalizes to continuous and mixed spaces. It can outperform Grid search, especially when only a small number of hyperparameters affects the final performance of the machine learning algorithm. Random Search additionally allows the inclusion of prior knowledge by specifying the distribution from which to sample.
 
-![](../.gitbook/assets/image%20%28190%29.png)
+![](../.gitbook/assets/image%20%28199%29.png)
 
 **Population based tuning \(Adaptive selection\):**
 
 Population Based Training \(PBT\) learns both hyperparameter values and network weights. Multiple learning processes operate independently, using different hyperparameters. As with evolutionary methods, poorly performing models are iteratively replaced with models that adopt modified hyperparameter values and weights based on the better performers. PBT thus allows the hyperparameters to evolve and eliminates the need for manual tuning. The process makes no assumptions regarding model architecture, loss functions or training procedures. PBT is the default automatic tuning method in DeepQ AI platform.
 
-![](../.gitbook/assets/image%20%28171%29.png)
+![](../.gitbook/assets/image%20%28178%29.png)
 
 ### **Tuning Method—parameters:**
 
@@ -86,7 +86,7 @@ Population Based Training \(PBT\) learns both hyperparameter values and network 
 
 Data augmentation in data analysis are techniques used to increase the amount of data by adding slightly modified copies of already existing data or newly created synthetic data from existing data. It acts as a regularizer and helps reduce overfitting when training a machine learning model.
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2854%29.png)
 
 **Random Horizontal flip:** flipping the image horizontally with a probability of 50%.
 

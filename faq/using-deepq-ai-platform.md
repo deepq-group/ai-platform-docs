@@ -3,3 +3,10 @@
 1. General Requirements
 2. Managing Your Account
 
+Q. I forgot my password, what should I do?  
+A. 
+
+
+
+
+
