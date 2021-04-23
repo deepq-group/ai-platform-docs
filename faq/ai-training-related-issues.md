@@ -1,21 +1,11 @@
 # AI Training Related Issues
 
-## Q.
-
-Q.  
-A.
-
-Q.  
-A.
-
-A.
-
 ## Navigation Bar icons
 
 ![](../.gitbook/assets/image%20%284%29.png)**Account:** Your profile information here, including profile details, credit card details, billing information, invoice, and redeem code  
-information, are available under this tab. 
+information, are available under this tab.
 
-\*\*\*\*![](../.gitbook/assets/image%20%2810%29.png)**Notifications:** A red dot is presented if the software must present any system notifications. Notifications are provided for the following events.
+\*\*\*\*![](../.gitbook/assets/image%20%283%29%20%281%29.png)**Notifications:** A red dot is presented if the software must present any system notifications. Notifications are provided for the following events.
 
 <table>
   <thead>
@@ -44,7 +34,6 @@ information, are available under this tab.
         </ul>
       </td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li>Training finished</li>
           <li>Training failure</li>

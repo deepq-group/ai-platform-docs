@@ -15,5 +15,3 @@ The Minimum Browser Requirements for DeepQ AI Platform are as follows:
 
 The recommended screen resolution for DeepQ AI Platform is 1024 x 768.
 
-#### 
-

@@ -1,8 +1,8 @@
 # DeepCap Overview
 
-![](../.gitbook/assets/image%20%28142%29.png)
+![](../.gitbook/assets/image%20%28143%29.png)
 
-![](../.gitbook/assets/deepcap-overview.png)
+![](../.gitbook/assets/deepcap-overview%20%282%29%20%281%29.png)
 
 ## Side Menu
 

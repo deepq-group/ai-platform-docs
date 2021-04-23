@@ -40,5 +40,3 @@ ResNet architecture can be easily seen as above figure. With the benefit of shor
 
 ![](.gitbook/assets/resnet_50.png)
 
-
-

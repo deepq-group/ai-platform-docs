@@ -2,7 +2,7 @@
 
 * The task overview will be shown at the "Task" tab. 
 
-![](../.gitbook/assets/training-overview.png)
+![](../.gitbook/assets/training-overview%20%281%29.png)
 
 * Training Accuracy demonstrates the relation between training progress and accuracy. 
 * Progress shows the training progress of this task. 
@@ -19,8 +19,4 @@
 * Inference Dataset shows all the cases that have been trained in this task. 
 
 ![](../.gitbook/assets/inference-dataset.png)
-
-
-
-
 

@@ -10,7 +10,7 @@
 
 ![](../../.gitbook/assets/batch-and-realtime.png)
 
-### Real-time inference 
+### Real-time inference
 
 * **Real-time inference:** Select and open one JPG/ PNG image from your local device, the inference result will be shown automatically . 
 
@@ -23,8 +23,6 @@
 
 ![](../../.gitbook/assets/batch-inference-.png)
 
-
-
 ## View Inference
 
 ### Annotation Data \(with label\)
@@ -35,17 +33,11 @@
 
 * The quality of the inference result is presented by the accuracy and the ROC score. 
 
-![](../../.gitbook/assets/inference-report%20%281%29.png)
+![](../../.gitbook/assets/inference-report%20%281%29%20%281%29.png)
 
 ### Prediction only
 
 * Each image of the selected dataset will be shown in the last column, you can check the result by clicking on the image. 
 
 ![](../../.gitbook/assets/batch-inference-dataset.png)
-
-
-
-
-
-
 
