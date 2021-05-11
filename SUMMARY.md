@@ -38,7 +38,4 @@
 * [FAQ](faq/README.md)
   * [System notifications](faq/ai-training-related-issues.md)
   * [GPU usage](faq/gpu-usage.md)
-  * [Train an Image Classification Model \(Old\)](faq/train-an-image-classification-model.md)
-  * [Train an Object Detection Model \(Old\)](faq/untitled-2.md)
-  * [About Deep Learning Models \(to be deleted or moved to appendix?\)](faq/about-deep-learning-models.md)
 
