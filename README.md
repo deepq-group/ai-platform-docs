@@ -1,47 +1,49 @@
-# DeepQ AI Platform - User Guide
+# 0. DeepQ AI Platform - User Guide
 
 This is a quick start or getting started guide to introduce how to use DeepQ AI Platform from data preparing to AI training. Check out these tutorials and get started your DeepCap and AI training experience.
 
-### DeepQ AI Platform overview:
+## [DeepQ AI Platform overview:](working-flow-1/)
 
-* What is Deep Learning?
-* DeepCap Overview
-* DeepQ AI Training Overview
-* User role & Account Management
+* [What is Deep Learning?](working-flow-1/what-is-deep-learning.md)
+* [DeepQ AI Platform Overview](working-flow-1/deepcap-main-page-introduction.md)
+* [User role & Account Management](working-flow-1/untitled-1.md)
 
-### Dataset:
+## [Dataset:](dataset/)
 
-* Dataset Format
-* Annotation Data Formats
-* Manage Datasets
+* [Dataset Format](dataset/upload-dataset.md)
+* [Annotation Data Formats](dataset/annotation-data-formats.md)
+* [Import LabelMe annotation](dataset/import-labelme-annotation.md)
+* [Manage Datasets](dataset/untitled.md)
 
-### DeepCap \(Annotation tool\):
+## [DeepCap \(Annotation tool\):](working-flow/)
 
-* Create an Annotation Project 
+* [Create an Annotation Project ](working-flow/working-flow/)
+* [Settings](working-flow/working-flow/1.-settings/)
+* [Annotation Quality Control ](working-flow/working-flow/1.-settings/deepcap-smart-validation-dsv.md)
+* [Dataset & Labels](working-flow/working-flow/2.-dataset-and-labels.md)
+* [Members](working-flow/working-flow/3.-members.md)
+* [Publishing](working-flow/working-flow/4.-publishing.md)
+* [Start Annotation](working-flow/start-annotation.md)
+* [Manage Annotation Projects](working-flow/manage-annotation-projects.md)
+* [Advanced functions](working-flow/advanced-annotation-features.md)
 
-1. Settings - Annotation Quality Control 
-2. Dataset & Labels
-3. Members
-4. Publishing
+## [DeepQ AI Training: ](account-management/)
 
-* Start Annotation
-* Manage Annotation Projects
+* [Create Training Tasks](account-management/create-training-tasks/)
+* [Select Dataset](account-management/create-training-tasks/1.-select-dataset.md)
+* [Select Model & Tuning methods](account-management/create-training-tasks/2.-select-model.md)
+* [Start Training Task](account-management/create-training-tasks/3.-start-task.md)
+* [View/Manage Training Tasks](account-management/manage-training-tasks.md)
+* [Running Your Models ](account-management/running-your-models/)
+* [AI Assisted Annotation ](account-management/running-your-models/ai-assisted-annotation.md)
+* [Deploying Your Model\(s\) Elsewhere](account-management/how-to-test-the-model-on-your-machine.md)
+* [Model Training & Hyperparameter tuning explained](account-management/model-training-and-hyperparameter-tuning-explained.md)
+* [Deep Learning metrics explained](account-management/deep-learning-metrics-explained/)
 
-### DeepQ AI Training: 
+## [Legal Documents](legal-documents.md)
 
-* Create Training Tasks
+## [FAQ](faq/)
 
-1. Select Dataset
-2. Select Model 
-3. Start Task
-
-* View/Manage Training Tasks
-* Running Your Models - AI Assisted Annotation 
-* Deploying Your Models Elsewhere
-
-### Legal Documents
-
-### FAQ
-
-
+* [System notifications](faq/ai-training-related-issues.md)
+* [GPU usage](faq/gpu-usage.md)
 
