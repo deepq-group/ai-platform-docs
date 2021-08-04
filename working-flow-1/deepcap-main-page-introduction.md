@@ -1,18 +1,18 @@
-# DeepQ AI Platform overview
+# 1.2 DeepQ AI Platform overview
 
-![](../.gitbook/assets/image%20%28170%29.png)
+![](../.gitbook/assets/1-2.1-300012.png)
 
-![](../.gitbook/assets/image%20%28165%29.png)
+![](../.gitbook/assets/1-2.1-300011.png)
 
 ## Platform overview
 
-![](../.gitbook/assets/image%20%28139%29.png)
+![](../.gitbook/assets/1-2.1-300010.png)
 
 ## DeepCap Overview
 
-![](../.gitbook/assets/image%20%28143%29.png)
+![](../.gitbook/assets/1-2.1-300009.png)
 
-![](../.gitbook/assets/deepcap-overview%20%282%29%20%281%29.png)
+![](../.gitbook/assets/1-2.1-300003.png)
 
 ### Side Menu
 
@@ -26,12 +26,12 @@
 
 \*\*\*\*
 
-![](../.gitbook/assets/image%20%28138%29.png)
+![](../.gitbook/assets/1-2.1-300008.png)
 
   
 ​
 
-![](../.gitbook/assets/ai-training-overview.png)
+![](../.gitbook/assets/1-2.1-300002.png)
 
 ‌
 

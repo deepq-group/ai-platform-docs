@@ -1,4 +1,4 @@
-# View/Manage Training Tasks
+# 4.2 View/Manage Training Tasks
 
 * The task overview will be shown at the "Task" tab. 
 

@@ -1,4 +1,4 @@
-# DeepQ AI Platform - User Guide
+# 0. DeepQ AI Platform - User Guide
 
 This is a quick start or getting started guide to introduce how to use DeepQ AI Platform from data preparing to AI training. Check out these tutorials and get started your DeepCap and AI training experience.
 
@@ -17,12 +17,12 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 ## [DeepCap \(Annotation tool\):](working-flow/)
 
-* [Create an Annotation Project ](working-flow/create-an-annotation-project/)
-* [Settings](working-flow/create-an-annotation-project/1.-settings/)
-* [Annotation Quality Control ](working-flow/create-an-annotation-project/1.-settings/deepcap-smart-validation-dsv.md)
-* [Dataset & Labels](working-flow/create-an-annotation-project/2.-dataset-and-labels.md)
-* [Members](working-flow/create-an-annotation-project/3.-members.md)
-* [Publishing](working-flow/create-an-annotation-project/4.-publishing.md)
+* [Create an Annotation Project ](working-flow/working-flow/)
+* [Settings](working-flow/working-flow/1.-settings/)
+* [Annotation Quality Control ](working-flow/working-flow/1.-settings/deepcap-smart-validation-dsv.md)
+* [Dataset & Labels](working-flow/working-flow/2.-dataset-and-labels.md)
+* [Members](working-flow/working-flow/3.-members.md)
+* [Publishing](working-flow/working-flow/4.-publishing.md)
 * [Start Annotation](working-flow/start-annotation.md)
 * [Manage Annotation Projects](working-flow/manage-annotation-projects.md)
 * [Advanced functions](working-flow/advanced-annotation-features.md)

@@ -1,4 +1,4 @@
-# Image Classification
+# 4.6.1 Image Classification
 
 ### Inference report: Classification
 

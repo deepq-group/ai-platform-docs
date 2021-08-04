@@ -1,4 +1,4 @@
-# GPU usage
+# 6.2 GPU usage
 
 ### **Training task & jobs**
 

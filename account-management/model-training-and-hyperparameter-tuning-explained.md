@@ -2,7 +2,7 @@
 description: this section will explain model training & Hyperparameter tuning
 ---
 
-# Model Training & Hyperparameter tuning explained
+# 4.5 Model Training & Hyperparameter tuning explained
 
 ### **What is hyperparameter tuning：**
 

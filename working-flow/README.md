@@ -1,4 +1,4 @@
-# DeepCap \(Annotation tool\)
+# 3. DeepCap \(Annotation tool\)
 
 ![](../.gitbook/assets/image%20%28143%29.png)
 

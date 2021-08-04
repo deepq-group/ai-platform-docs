@@ -1,4 +1,4 @@
-# Manage Annotation Projects
+# 3.3 Manage Annotation Projects
 
 ![](../.gitbook/assets/manage-annotation-project-.png)
 

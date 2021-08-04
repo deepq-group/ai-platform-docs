@@ -1,4 +1,4 @@
-# Start Annotation
+# 3.2 Start Annotation
 
 Click on the "My Job" tab, you can view the job list that was assigned by the project owner. The total cases that have been assigned to you and the cases that have not been annotated is shown in each job. Click on "ANNOTATE" and begin the annotation process.
 

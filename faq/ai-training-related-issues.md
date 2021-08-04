@@ -1,4 +1,4 @@
-# System notifications
+# 6.1 System notifications
 
 \*\*\*\*![](../.gitbook/assets/image%20%283%29%20%281%29.png)**Notifications:** A red dot is presented if the software must present any system notifications. Notifications are provided for the following events.
 
