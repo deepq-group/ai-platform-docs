@@ -2,7 +2,7 @@
 description: View/Delete Dataset
 ---
 
-# Manage Datasets
+# 2.4 Manage Datasets
 
 ## Dataset List
 

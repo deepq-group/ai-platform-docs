@@ -2,7 +2,7 @@
 description: Special features
 ---
 
-# Advanced functions
+# 3.4 Advanced functions
 
 ## **Propagate labels**
 

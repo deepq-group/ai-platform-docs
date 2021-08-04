@@ -1,36 +1,33 @@
-# DeepQ AI Platform - User Guide
+# 0. DeepQ AI Platform - User Guide
 
 This is a quick start or getting started guide to introduce how to use DeepQ AI Platform from data preparing to AI training. Check out these tutorials and get started your DeepCap and AI training experience.
 
-### [DeepQ AI Platform overview:](working-flow-1/)
+## [DeepQ AI Platform overview:](working-flow-1/)
 
 - [What is Deep Learning?](working-flow-1/what-is-deep-learning.md)
 - [DeepQ AI Platform Overview](working-flow-1/deepcap-main-page-introduction.md)
 - [User role & Account Management](working-flow-1/untitled-1.md)
 
-### [Dataset:](dataset/)
+## [Dataset:](dataset/)
 
 - [Dataset Format](dataset/upload-dataset.md)
 - [Annotation Data Formats](dataset/annotation-data-formats.md)
 - [Import LabelMe annotation](dataset/import-labelme-annotation.md)
 - [Manage Datasets](dataset/untitled.md)
 
-### [DeepCap \(Annotation tool\):](working-flow/)
+## [DeepCap \(Annotation tool\):](working-flow/)
 
-- [Create an Annotation Project ](working-flow/create-an-annotation-project/)
-- [Settings](working-flow/create-an-annotation-project/1.-settings/)
-- [Annotation Quality Control ](working-flow/create-an-annotation-project/1.-settings/deepcap-smart-validation-dsv.md)
-- [Dataset & Labels](working-flow/create-an-annotation-project/2.-dataset-and-labels.md)
-- [Members](working-flow/create-an-annotation-project/3.-members.md)
-- [Publishing](working-flow/create-an-annotation-project/4.-publishing.md)
+- [Create an Annotation Project ](working-flow/working-flow/)
+- [Settings](working-flow/working-flow/1.-settings/)
+- [Annotation Quality Control ](working-flow/working-flow/1.-settings/deepcap-smart-validation-dsv.md)
+- [Dataset & Labels](working-flow/working-flow/2.-dataset-and-labels.md)
+- [Members](working-flow/working-flow/3.-members.md)
+- [Publishing](working-flow/working-flow/4.-publishing.md)
 - [Start Annotation](working-flow/start-annotation.md)
 - [Manage Annotation Projects](working-flow/manage-annotation-projects.md)
 - [Advanced functions](working-flow/advanced-annotation-features.md)
 
-1. [Settings](working-flow/create-an-annotation-project/1.-settings/) [- Annotation Quality Control ](working-flow/create-an-annotation-project/1.-settings/deepcap-smart-validation-dsv.md)
-2. [Dataset & Labels](working-flow/create-an-annotation-project/2.-dataset-and-labels.md)
-3. [Members](working-flow/create-an-annotation-project/3.-members.md)
-4. [Publishing](working-flow/create-an-annotation-project/4.-publishing.md)
+## [DeepQ AI Training: ](account-management/)
 
 - [Create Training Tasks](account-management/create-training-tasks/)
 - [Select Dataset](account-management/create-training-tasks/1.-select-dataset.md)

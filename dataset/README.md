@@ -1,6 +1,6 @@
-# Dataset
+# 2. Dataset
 
-![](../.gitbook/assets/image%20%28145%29.png)
+![](../.gitbook/assets/1-2.1-300006.png)
 
 ![Dataset overview](../.gitbook/assets/dataset-overview.png)
 

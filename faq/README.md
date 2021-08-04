@@ -1,4 +1,4 @@
-# FAQ
+# 6. FAQ
 
 ### General issues
 

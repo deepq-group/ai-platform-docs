@@ -1,4 +1,4 @@
-# DeepQ AI Training
+# 4. DeepQ AI Training
 
 ![](../.gitbook/assets/image%20%28138%29.png)
 

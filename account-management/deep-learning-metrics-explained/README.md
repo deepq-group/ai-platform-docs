@@ -2,7 +2,7 @@
 description: evaluation metrics for different types of applications
 ---
 
-# Deep Learning metrics explained
+# 4.6 Deep Learning metrics explained
 
 ### Evaluating the performance of the Model:
 
