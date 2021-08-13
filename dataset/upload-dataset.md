@@ -28,25 +28,27 @@ Please check your dataset and image format before uploading.
 
     **For annotation file \(label.csv\) format, please refer to** [**Annotation Data Formats**](annotation-data-formats.md) _\*\*_
 
-![](../.gitbook/assets/200001.png)
+![Upload dataset structure, label.csv is optional](../.gitbook/assets/200001.png)
 
-### Special case \#1: Import single-label classification data from separate folders
+### Special case \#1: Import single-label classification data from separate class folders
 
-![](../.gitbook/assets/2-1-000004.png)
+In the case of single-label classification \(each image can only be assigned to one class, as opposed to multi-label classification\) data, images can be organized in different class folders under "Classes". by uploading such dataset, DeepQ AI platform will automatically assign classification labels to the images according to the name of user defined class folders, an annotation file should appear when dataset upload is complete..
 
-In the case of single-label classification \(each image can only be assigned to one class, as opposed to multi-label classification\) data, 
+![Dataset structure of &quot;classification by folders&quot;](../.gitbook/assets/2-1-000004.png)
 
 ## Special case \#2: structured jpg/png
 
-In some cases, DICOM image data has to be converted into jpg/png and might lose hierarchical information embedded in DICOM tags. As a result, computer programs will view each image as an independent entity make viewing/annotating/organizing images difficult.
+In some cases, DICOM image data has to be converted into jpg/png and might lose hierarchical information embedded in DICOM tags. As a result, computer programs will view each image as an independent entity make viewing/annotating image studies/series difficult. The illustration below shows how to organize jpg/png in order to retain their hierarchical relation. 
+
+Also, filenames in the Label.csv should also include study name & series number. for example: Filename ---&gt; StudyName/Series\_Number/Filename
 
 
 
+![](../.gitbook/assets/2-1-000006%20%281%29.png)
 
+\*\* In the file structures illustrated above, all **folder names in red should strictly follow the naming rules** while other file/folder names can be defined by users.
 
-
-
-#### Notice:
+### Compressing your dataset into .zip files
 
 For Windows users, please compress your file by "Bandizip" tool and process as the following steps if the name of your images are non-English format.
 

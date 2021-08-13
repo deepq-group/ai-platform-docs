@@ -1,6 +1,6 @@
 # 1. DeepQ AI Platform overview
 
-## DeepQ AI Platform provide one-stop software products from medical data annotation to AI model training via web browser.
+### DeepQ AI Platform provide one-stop software products from medical data annotation to AI model training via web browser.
 
 ![](../.gitbook/assets/1-000001%20%281%29.png)
 
