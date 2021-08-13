@@ -4,12 +4,6 @@
 
 ![](../.gitbook/assets/3-000002.png)
 
-## Define the task
-
-* **Image Classification:**  One or multiple label can be marked on a case. 
-* **Object Detection:**  Use bounding box to detect and identify target objects.  
-* **Image Segmentation:** To segment and define the ROI \(range of interest\). _\*\*_
-
 ## Project List
 
 In the “Project” tab, you can view the annotation status of all the projects that you have created.

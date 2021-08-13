@@ -1,12 +1,8 @@
-# 1. Settings
-
-## Create Project
-
-\*\*\*\*![](../../../.gitbook/assets/image%20%2816%29.png)**CREATE PROJECT:** Click on this button and start the project settings.
+# 3.1.1 Settings
 
 ## Settings
 
-* **Interface overview** 
+* **4-step project setup overview** 
 
 ![](../../../.gitbook/assets/3-1-1-000001.png)
 

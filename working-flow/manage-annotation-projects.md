@@ -32,7 +32,7 @@ Dataset that cannot be exported for training.
 * System exclude: The DSV result excludes that case because of an unacceptably lower consistency rate. 
 * Problematic image: Annotated as “Problematic image” by an annotator. 
 
-## Annotation Conditions for Training
+## Annotation requirements for Training
 
 To deliver the best possible training performance, please ensure that your annotation meets our system requirements.
 

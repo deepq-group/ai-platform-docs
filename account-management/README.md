@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/4-02.png)
 
-## Project List
+## Training Task List
 
 In the “Task” tab, you can view the training status of all the tasks that you have created.
 

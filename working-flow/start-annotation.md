@@ -4,7 +4,7 @@ Click on the "My Job" tab, you can view the job list that was assigned by the pr
 
 ![](../.gitbook/assets/3-2-000001.png)
 
-## Detail Page
+## Annotation job overview & detail
 
 ![](../.gitbook/assets/3-2-000002.png)
 
@@ -25,17 +25,34 @@ You can filter the studies by annotation status: Remaining, Finished, Returned.
 
 ![](../.gitbook/assets/3-2-000004.png)
 
-* Choose the annotation labels from the right column to add on the image.
-* You can select one of the labels for the entire case. If there are no labels can be annotated, please select “Nothing to Label”. 
+* Choose the annotation labels from the right column to add on the image, the respective annotation tools will light up. 
+* You may annotate the image according to the project instructions, and modify each annotated objects by clicking the right mouse button over the object to open the object menu.
+* If there are no objects can be annotated or classes assigned to this current image, please select “Nothing to Label”. 
 
 ![](../.gitbook/assets/3-2-000005.png)
 
 * You can view the WW/WL of that image by the top left button, select it to adjust the WW/WL of the image. 
 * Click on ![](../.gitbook/assets/filled-copy-2-1-.svg) _\*\*_ and slide to zoom in and zoom out the images. 
 
-#### After labeling the case:
+### Adding comments:
 
-Click on “SUBMIT” after annotating each case. You can also click on “&lt;&lt;” to go back to the last case or click on “&gt;&gt;” to go to the next page without submission.
+In order to take notes/communicate with your team members, annotators can leave comments about the whole image or a specific object.
+
+![](../.gitbook/assets/3-2-000006%20%281%29.png)
+
+* Object-level comment\(s\) can be added from the object menu, while Image-level comment\(s\) can be added from the comment section in the viewer.
+
+![](../.gitbook/assets/3-2-000007%20%281%29.png)
+
+* A dialogue box will appear for the user to leave an object-level comment
+
+![](../.gitbook/assets/3-2-000008%20%281%29.png)
+
+* All saved annotation comments are listed under the comment section in the viewer
+
+### After labeling the case:
+
+Click on “SUBMIT” after annotating each case. You can also click on “&lt;&lt;” to go back to the last case or click on “&gt;&gt;” to go to the next page without submission. Please do not worry, any annotation state will be automatically saved so you can continue from where you left off.
 
 #### Notice:
 

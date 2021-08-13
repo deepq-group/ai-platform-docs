@@ -5,7 +5,7 @@
 ![](../../.gitbook/assets/4.6.1-14.png)
 
    
- The inference report of multi-class classification shows the overall accuracy & the ROC curve
+ The inference report of classification shows the overall accuracy & the ROC curve
 
 ![](../../.gitbook/assets/4.6.1-15.png)
 

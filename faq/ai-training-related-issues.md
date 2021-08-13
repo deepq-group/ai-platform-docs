@@ -20,11 +20,12 @@
       </td>
       <td style="text-align:left">
         <ul>
-          <li>project invitation (annotator/reviewer)</li>
+          <li>Project invitation (annotator/reviewer)</li>
           <li>Project initiated</li>
           <li>Project renamed</li>
           <li>Project stopped</li>
           <li>Project restarted</li>
+          <li>Project Overdue (when assigned due dates )</li>
           <li>Number of cases increased</li>
           <li>Number of cases reduced</li>
           <li>Add a new annotator/reviewer</li>

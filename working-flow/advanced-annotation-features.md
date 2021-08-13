@@ -4,7 +4,7 @@ description: Special features
 
 # 3.4 Advanced functions
 
-## **Propagate labels**
+## 3.4.1 **Propagate labels**
 
 When annotating serial images such as CT or MRI, the user might want to duplicate labels for continuous slices such as the example shown below. Instead of clicking through each slice, “propagate label” function allows users to label multiple slices with ease.
 
@@ -30,7 +30,7 @@ In the annotation viewer, “propagate label” will automatically show up if th
 
 After assigning specific slices with the same label, the slice indicator below will show that the slices have been labeled \(colored segments, representing labeled slices\).
 
-### Combine labels
+## 3.4.2 Combine labels
 
 In image classification tasks, although the idea of training a single algorithm to identify numerous classes is appealing, splitting training data among these classes might result in less data per class and eventually causing the neural network unable to learn from the data successfully, thus poor performance.
 
@@ -58,7 +58,7 @@ The combined labels will appear in the new annotation data.
 
 
 
-### **Convert labels**
+## 3.4.3 **Convert labels**
 
           It happens when a user wants to train a classification AI with object detection annotation data. In order to do so, the labels have to be converted into classification for the algorithms to learn from. DeepQ AI platform provides an easy way for users to convert their label type and try out different applications with the same annotation data.
 

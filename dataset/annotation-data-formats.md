@@ -22,6 +22,7 @@
 * If an image contain more than 1 bounding boxes, it can be shown in multiple lines.
 * The bounding box lines must start from the first line. That is, there is no CSV header in the label file. 
 * Pure number \(e.g. 001\) as class names must be double quoted. \(e.g. "001"\). 
+* In some cases the user will want to include images to improve the performance of negative cases \(image contains no object\), please fill in "nothing to label" as the "Object name" and leave the bounding box coordinates blank.
 
 ## Object Segmentation:
 
