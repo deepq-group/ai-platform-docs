@@ -1,6 +1,6 @@
 # 5. Legal Documents
 
-## [Terms of Use](https://github.com/deepq-group/ai-platform-docs/tree/c0ef537c3285437fb2baa7552d34822274d683ce/storage/aim-assets/legal/AI_Platform_Terms_of_Use_EN_20210407.pdf)
+## [Terms of Use](https://github.com/deepq-group/ai-platform-docs/tree/d0e7b89c16a44398d918b64bb257a8c42f4d151b/storage/aim-assets/legal/AI_Platform_Terms_of_Use_EN_20210407.pdf)
 
 ## [Privacy Policy](https://github.com/deepq-group/ai-platform-docs/tree/c0ef537c3285437fb2baa7552d34822274d683ce/storage/aim-assets/legal/AI_Platform_Privacy_Policy_EN_20200101.pdf)
 
