@@ -2,46 +2,46 @@
 
 This is a quick start or getting started guide to introduce how to use DeepQ AI Platform from data preparing to AI training. Check out these tutorials and get started your DeepCap and AI training experience.
 
-### DeepQ AI Platform overview:
+### [DeepQ AI Platform overview:](working-flow-1/)
 
-* What is Deep Learning?
-* DeepCap Overview
-* DeepQ AI Training Overview
-* User role & Account Management
+* [What is Deep Learning?](working-flow-1/what-is-deep-learning.md)
+* [DeepCap Overview](working-flow-1/deepcap-main-page-introduction.md)
+* [DeepQ AI Training Overview](working-flow-1/ai-training-overview.md)
+* [User role & Account Management](working-flow-1/untitled-1.md)
 
-### Dataset:
+### [Dataset:](dataset/)
 
-* Dataset Format
-* Annotation Data Formats
-* Manage Datasets
+* [Dataset Format](dataset/upload-dataset.md)
+* [Annotation Data Formats](dataset/annotation-data-formats.md)
+* [Manage Datasets](dataset/untitled.md)
 
-### DeepCap \(Annotation tool\):
+### [DeepCap \(Annotation tool\):](working-flow/)
 
-* Create an Annotation Project 
+* [Create an Annotation Project ](working-flow/create-an-annotation-project/)
 
-1. Settings - Annotation Quality Control 
-2. Dataset & Labels
-3. Members
-4. Publishing
+1. [Settings](working-flow/create-an-annotation-project/1.-settings/) [- Annotation Quality Control ](working-flow/create-an-annotation-project/1.-settings/deepcap-smart-validation-dsv.md)
+2. [Dataset & Labels](working-flow/create-an-annotation-project/2.-dataset-and-labels.md)
+3. [Members](working-flow/create-an-annotation-project/3.-members.md)
+4. [Publishing](working-flow/create-an-annotation-project/4.-publishing.md)
 
-* Start Annotation
-* Manage Annotation Projects
+* [Start Annotation](working-flow/start-annotation.md)
+* [Manage Annotation Projects](working-flow/manage-annotation-projects.md)
 
-### DeepQ AI Training: 
+### [DeepQ AI Training: ](account-management/)
 
-* Create Training Tasks
+* [Create Training Tasks](account-management/create-training-tasks/)
 
-1. Select Dataset
-2. Select Model 
-3. Start Task
+1. [Select Dataset](account-management/create-training-tasks/1.-select-dataset.md)
+2. [Select Model ](account-management/create-training-tasks/2.-select-model.md)
+3. [Start Task](account-management/create-training-tasks/3.-start-task.md)
 
-* View/Manage Training Tasks
-* Running Your Models - AI Assisted Annotation 
-* Deploying Your Models Elsewhere
+* [View/Manage Training Tasks](account-management/manage-training-tasks.md)
+* [Running Your Models](account-management/running-your-models/) [- AI Assisted Annotation ](account-management/running-your-models/ai-assisted-annotation.md)
+* [Deploying Your Models Elsewhere](account-management/how-to-test-the-model-on-your-machine.md)
 
-### Legal Documents
+### [Legal Documents](legal-documents.md)
 
-### FAQ
+### [FAQ](faq/)
 
 
 
