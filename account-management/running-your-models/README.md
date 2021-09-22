@@ -1,4 +1,4 @@
-# Running Your Models
+# 4.3 Running Your Models
 
 ## Deploy Model & Inference
 
@@ -10,7 +10,7 @@
 
 ![](../../.gitbook/assets/batch-and-realtime.png)
 
-### Real-time inference 
+### Real-time inference
 
 * **Real-time inference:** Select and open one JPG/ PNG image from your local device, the inference result will be shown automatically . 
 
@@ -23,17 +23,15 @@
 
 ![](../../.gitbook/assets/batch-inference-.png)
 
-
-
 ## View Inference
 
-### Annotation Data \(with label\)
+### Annotation Data \(with ground truth/label\)
 
 * The inference detail, including  training task, dataset, and annotation data will be shown here. 
 
 ![](../../.gitbook/assets/inference-setting-.png)
 
-* The quality of the inference result is presented by the accuracy and the ROC score. 
+* The performance of each inference job is presented by the metrics of each type of application. for more information, please see [Deep Learning metrics explained](../deep-learning-metrics-explained/). 
 
 ![](../../.gitbook/assets/inference-report%20%281%29%20%281%29.png)
 
@@ -42,10 +40,4 @@
 * Each image of the selected dataset will be shown in the last column, you can check the result by clicking on the image. 
 
 ![](../../.gitbook/assets/batch-inference-dataset.png)
-
-
-
-
-
-
 

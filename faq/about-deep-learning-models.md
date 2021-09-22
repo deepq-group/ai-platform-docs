@@ -1,4 +1,4 @@
-# Selecting Models Introduction
+# About Deep Learning Models \(to be deleted or moved to appendix?\)
 
 ## Residual Network
 

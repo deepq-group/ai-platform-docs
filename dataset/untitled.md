@@ -2,11 +2,11 @@
 description: View/Delete Dataset
 ---
 
-# Manage Datasets
+# 2.4 Manage Datasets
 
 ## Dataset List
 
-After uploading the dataset successfully, you can view the datasets in the “Dataset” tab. 
+After uploading the dataset successfully, you can view the datasets in the “Dataset” tab.
 
 ### Alert Message
 
@@ -16,7 +16,7 @@ The alert message of “preparation failed” is presented if the dataset format
 
 ## Delete a Dataset
 
-Rules of deleting a dataset: 
+Rules of deleting a dataset:
 
 * The dataset you want to delete should not be related to any existing annotation project or training task. If it is related, then you need to delete that project/ task first before deleting the dataset. 
 

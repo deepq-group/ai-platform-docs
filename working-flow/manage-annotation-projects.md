@@ -1,8 +1,8 @@
-# Manage Annotation Projects
+# 3.3 Manage Annotation Projects
 
 ![](../.gitbook/assets/manage-annotation-project-.png)
 
-## View Details 
+## View Details
 
 ![](../.gitbook/assets/view-detail.png)
 
@@ -36,7 +36,7 @@ Dataset that cannot be exported for training.
 
 To deliver the best possible training performance, please ensure that your annotation meets our system requirements.
 
-*   **Image Classification**:
+* **Image Classification**:
 
 The annotated dataset should contain at least two categories and each category should be used as an annotation on at least two cases. For example: Class“A” was used on case 001 and case 002, and Class“B” was used on case 003 and case 004.
 
@@ -47,9 +47,9 @@ The annotated dataset should contain at least two categories and each category s
 | Case 003 | B |
 | Case 004 | B |
 
-*  **Object Detection**
+* **Object Detection**
 
-The annotated dataset must contain at least three cases, and each case should be annotated with at least one bounding box.   
+The annotated dataset must contain at least three cases, and each case should be annotated with at least one bounding box.  
 For example, Cases 001, 002, and 003 should be annotated with at least One bounding box.
 
 | Dataset | Annotation |

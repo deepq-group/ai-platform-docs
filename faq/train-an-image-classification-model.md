@@ -1,4 +1,4 @@
-# Train an Image Classification Model
+# Train an Image Classification Model \(Old\)
 
 This is a simple tutorial on using DeepQ AI Platform. In this tutorial, we will illustrate how to train a deep learning model for an image classification application in five steps. After the training is finished, we will upload a testing image and use the trained model to predict the category of the testing image.
 
@@ -8,7 +8,7 @@ Let’s start!
 
 [MNIST](http://yann.lecun.com/exdb/mnist/) is a classic handwritten digits \(0-9\) dataset. We prepared a smaller version of MNIST as our example dataset for our tutorial. The example MNIST dataset can be downloaded from [here](https://storage.googleapis.com/aip-sample-dataset/mnist_example.zip).
 
-The MNIST example dataset contains 1,000 images. DeepQ AI Platform splits the dataset images into training and validation sets. If you are interested in the dataset format, you can unzip mnist_example.zip and see the structure as follows:
+The MNIST example dataset contains 1,000 images. DeepQ AI Platform splits the dataset images into training and validation sets. If you are interested in the dataset format, you can unzip mnist\_example.zip and see the structure as follows:
 
 ![](../.gitbook/assets/picture42.png)
 
@@ -16,9 +16,9 @@ There are a folder of images, "image", and a file specifying the label of each i
 
 ## 2. Upload MNIST example
 
-Click on “Upload Dataset” to upload mnist_example.zip.
+Click on “Upload Dataset” to upload mnist\_example.zip.
 
-Wait for the uploading and the following processing. Then, we can click “mnist_example” to see the images of handwritten digits.
+Wait for the uploading and the following processing. Then, we can click “mnist\_example” to see the images of handwritten digits.
 
 ![](../.gitbook/assets/picture43.png)
 
@@ -30,9 +30,9 @@ Click the "Start Training" button.
 
 If this is your first time using DeepQ AI Platform, it will direct you to the page of the credit card and invoice settings first. After that, you can come back to the training console to start the training again.
 
-![](../.gitbook/assets/picture54.png)
+![](../.gitbook/assets/picture54%20%281%29.png)
 
-At the ”Select Dataset” step, we can see we are using “mnist_example” dataset. Click “NEXT”.
+At the ”Select Dataset” step, we can see we are using “mnist\_example” dataset. Click “NEXT”.
 
 ![](../.gitbook/assets/picture46.png)
 
@@ -66,8 +66,8 @@ Click the task, and we will see the details of the task, including the training 
 
 We provide two different ways to use the trained model:
 
-- Download and run the inference script with the model.
-- Upload an image for the online prediction.
+* Download and run the inference script with the model.
+* Upload an image for the online prediction.
 
 Once the status becomes "Finished", you will see a button "DOWNLOAD MODEL" in the task detail page.
 
@@ -78,3 +78,4 @@ You can download the trained model and run the inference script. However, this t
 At the bottom of the task detail page, there is a panel for image classification. Click "UPLOAD IMAGE" to select an image from your disk. After uploading the image, the prediction will start automatically. Please wait for a few seconds, and the table will show the top-5 labels along with their confidence scores.
 
 ![](../.gitbook/assets/picture52.png)
+
