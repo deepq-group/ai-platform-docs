@@ -1,6 +1,6 @@
-# Dataset
+# 2. Dataset
 
-![](../.gitbook/assets/2-000001.png)
+![](../.gitbook/assets/1-2.1-300006.png)
 
 ![Dataset overview](../.gitbook/assets/dataset-overview.png)
 
@@ -8,3 +8,4 @@
 * The dataset is shared between DeepCap and DeepQ AI Training.
 
 ![](../.gitbook/assets/cat.jpg)
+
