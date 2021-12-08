@@ -11,7 +11,6 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 ## [2. Dataset:](dataset/)
 
 * [2.1 Dataset Format](dataset/upload-dataset.md)
-* ## fdf
 * [2.2 Annotation Data Formats](dataset/annotation-data-formats.md)
 * [2.3 Import LabelMe annotation](dataset/import-labelme-annotation.md)
 * [2.4 Manage Datasets](dataset/untitled.md)
