@@ -46,5 +46,6 @@
   * [5.2 AI viewer](5.-deeploy/5.2-ai-viewer.md)
   * [5.3 Authorized Models](5.-deeploy/5.3-authorized-models.md)
 * [FAQ](faq/README.md)
+  * [Page 1](faq/page-1.md)
   * [7.1 System notifications](faq/ai-training-related-issues.md)
   * [7.2 GPU usage](faq/gpu-usage.md)
