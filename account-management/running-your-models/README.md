@@ -8,20 +8,20 @@
 
 * There are two modes of model inference: batch & real-time.
 
-![](<../../.gitbook/assets/batch and realtime.png>)
+![](../../.gitbook/assets/batch-and-realtime.png)
 
 ### Real-time inference
 
 * **Real-time inference:** Select and open one JPG/ PNG image from your local device, the inference result will be shown automatically .
 
-![](<../../.gitbook/assets/inference test.png>)
+![](../../.gitbook/assets/inference-test.png)
 
 ### Batch inference
 
 * **Batch inference:** Select one of the dataset that you have uploaded from the drop list, enter the inference name and complete the creation process.
   * Prediction only: For datasets without annotation data, inference result will only provide prediction results without an inference report.
 
-![](<../../.gitbook/assets/batch inference .png>)
+![](../../.gitbook/assets/batch-inference-.png)
 
 ## View Inference
 
@@ -29,14 +29,14 @@
 
 * The inference detail, including training task, dataset, and annotation data will be shown here.
 
-![](<../../.gitbook/assets/inference setting .png>)
+![](<../../.gitbook/assets/inference-setting- (1).png>)
 
 * The performance of each inference job is presented by the metrics of each type of application. for more information, please see [Deep Learning metrics explained](../deep-learning-metrics-explained/).
 
-![](<../../.gitbook/assets/inference report.png>)
+![](<../../.gitbook/assets/inference-report (1) (1) (1).png>)
 
 ### Prediction only
 
 * Each image of the selected dataset will be shown in the last column, you can check the result by clicking on the image.
 
-![](<../../.gitbook/assets/batch inference dataset.png>)
+![](../../.gitbook/assets/batch-inference-dataset.png)

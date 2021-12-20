@@ -1,4 +1,4 @@
-# GPU usage
+# 7.2 GPU usage
 
 ### **Training task & jobs**
 
@@ -8,17 +8,17 @@ Users can set up a training task by selecting training data, model & tuning meth
 
 Given a specific set of hyperparameter, manual assignment task will only run one job.
 
-![](<../.gitbook/assets/image (159).png>)
+![](<../.gitbook/assets/image (10).png>)
 
 **Grid search**
 
 The number of jobs in grid search is determined by the number of search points in hyperparameter space. The total numbers of jobs is limited to 48 job max.
 
-![](<../.gitbook/assets/image (160).png>)
+![](<../.gitbook/assets/image (204).png>)
 
 The total number of jobs (search points) = “# of learning rate x # of weight decays x # of momentum”
 
-![](<../.gitbook/assets/image (161).png>)
+![](<../.gitbook/assets/image (181).png>)
 
 An error will appear if the number of jobs exceed 48, this task cannot be started unless the numbers are fixed.
 
@@ -26,12 +26,12 @@ An error will appear if the number of jobs exceed 48, this task cannot be starte
 
 Random search runs multiple jobs with random hyperparameter combination within the given range (min-max of each hyperparameter), the min. number of jobs is 8 and the max number of jobs is 48.
 
-![](<../.gitbook/assets/image (162).png>)
+![](<../.gitbook/assets/image (192).png>)
 
 **Population based tuning**
 
 PBT also runs multiple jobs with different hyperparameter combination within the given range (min-max of each hyperparameter), where the DeepQ AutoML engine will search for the optimal hyperparameter adaptively. The min. number of jobs is 8 and the max number of jobs is 48. (Default setting of DeepQ AutoML is PBT-24 jobs)
 
-![](<../.gitbook/assets/image (163).png>)
+![](<../.gitbook/assets/image (167).png>)
 
-![Tuning methods and jobs/GPUs](<../.gitbook/assets/image (164).png>)
+![Tuning methods and jobs/GPUs](<../.gitbook/assets/image (152).png>)

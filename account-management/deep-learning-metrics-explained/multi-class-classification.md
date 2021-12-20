@@ -4,11 +4,11 @@
 
 Inference report: Classification
 
-![](<../../.gitbook/assets/image (172).png>)
+![](<../../.gitbook/assets/image (153).png>)
 
 The inference report of multi-class classification shows the overall accuracy & the ROC curve
 
-![](<../../.gitbook/assets/image (173).png>)
+![](<../../.gitbook/assets/image (43) (1).png>)
 
 Confusion matrix and other metrics are listed in the table
 
@@ -16,7 +16,7 @@ Confusion matrix and other metrics are listed in the table
 
 Confusion matrix is a performance measurement for machine learning classification problem where output can be two or more classes. It is a table with 4 different combinations of predicted and actual values. The confusion matrix is extremely useful for measuring Recall, Precision, Specificity, Accuracy and most importantly AUC-ROC Curve. Let’s understand TP, FP, FN, TN in terms of pregnancy analogy.
 
-![](<../../.gitbook/assets/image (174).png>)
+![](<../../.gitbook/assets/image (179).png>)
 
 **True Positive (TP):** You predicted positive and it’s true.\
 You predicted that a woman is pregnant and she actually is.
@@ -32,13 +32,13 @@ You predicted that a woman is not pregnant but she actually is.
 
 Just Remember, We describe predicted values as Positive and Negative and actual values as True and False.
 
-![](<../../.gitbook/assets/image (175).png>)
+![](<../../.gitbook/assets/image (172).png>)
 
 ### **How to Calculate Confusion Matrix**
 
 Let’s understand confusion matrix through math.
 
-![](<../../.gitbook/assets/image (176).png>)
+![](<../../.gitbook/assets/image (212).png>)
 
 The output of classification models consists of classes and confidence levels (0\~1). An output threshold is set to determine whether the output is seen as “positive”. Here the threshold is set at 0.6, meaning that the predictions with confidence value >0.6 will be counted as “y positive -- 1”, otherwise “y negative -- 0”.
 
@@ -46,33 +46,33 @@ The output of classification models consists of classes and confidence levels (0
 
 Sensitivity measures the proportion of positives that are correctly identified (i.e. the proportion of those who have some condition (affected) who are correctly identified as having the condition).
 
-![](<../../.gitbook/assets/image (177).png>)
+![](<../../.gitbook/assets/image (26).png>)
 
 ### · **Specificity (True Negative rate, 0\~1, the greater the better)**
 
 Specificity measures the proportion of negatives that are correctly identified (i.e. the proportion of those who do not have the condition (unaffected) who are correctly identified as not having the condition).
 
-![](<../../.gitbook/assets/image (179).png>)
+![](<../../.gitbook/assets/image (142).png>)
 
 ### · **Recall (0\~1, the greater the better)**
 
-![](<../../.gitbook/assets/image (180).png>)
+![](<../../.gitbook/assets/image (198).png>)
 
 Out of all the positive classes, how much we predicted correctly. It should be high as possible.
 
 ### · **Precision(0\~1, the greater the better)**
 
-![](<../../.gitbook/assets/image (181).png>)
+![](<../../.gitbook/assets/image (185).png>)
 
 Out of all the positive classes we have predicted correctly, how many are actually positive, and **Accuracy** will be
 
-![](<../../.gitbook/assets/image (182).png>)
+![](<../../.gitbook/assets/image (168).png>)
 
 Out of all the classes, how much we predicted correctly, it should be high as possible.
 
 ### · **F-measure (0\~1, the greater the better)**
 
-![](<../../.gitbook/assets/image (188).png>)
+![](<../../.gitbook/assets/image (27).png>)
 
 It is difficult to compare two models with low precision and high recall or vice versa. So to make them comparable, we use F-Score. F-score helps to measure Recall and Precision at the same time. It uses Harmonic Mean in place of Arithmetic Mean by punishing the extreme values more.
 
@@ -80,7 +80,7 @@ It is difficult to compare two models with low precision and high recall or vice
 
 In medical testing with binary classification, the diagnostic odds ratio (DOR) is a measure of the effectiveness of a diagnostic test. It is defined as the ratio of the odds of the test being positive if the subject has a disease relative to the odds of the test being positive if the subject does not have the disease.
 
-![](<../../.gitbook/assets/image (187).png>)
+![](<../../.gitbook/assets/image (148).png>)
 
 ### **AUC - ROC Curve**
 
@@ -88,15 +88,15 @@ AUC - ROC curve is a performance measurement for the classification problems at 
 
 The ROC curve is plotted with TPR against the FPR where TPR is on the y-axis and FPR is on the x-axis.
 
-![AUC - ROC Curve](<../../.gitbook/assets/image (185).png>)
+![AUC - ROC Curve](<../../.gitbook/assets/image (186).png>)
 
 **Defining terms used in AUC and ROC Curve.**
 
 TPR (True Positive Rate) / Recall /Sensitivity & FPR (False Positive Rate)
 
-![](<../../.gitbook/assets/image (186).png>)
+![](<../../.gitbook/assets/image (211).png>)
 
-![](<../../.gitbook/assets/image (189).png>)
+![](<../../.gitbook/assets/image (156).png>)
 
 ### · **Understanding AUROC curve**
 
@@ -104,19 +104,19 @@ An excellent model has AUC near to the 1 which means it has a good measure of se
 
 As we know, ROC is a curve of probability. So let's plot the distributions of those probabilities: Note: Red distribution curve is of the positive class (patients with disease) and the green distribution curve is of the negative class (patients with no disease).
 
-![](<../../.gitbook/assets/image (190).png>)
+![](<../../.gitbook/assets/image (209).png>)
 
 This is an ideal situation. When two curves don’t overlap at all means model has an ideal measure of separability. It is perfectly able to distinguish between positive class and negative class.
 
-![](<../../.gitbook/assets/image (191).png>)
+![](<../../.gitbook/assets/image (90).png>)
 
 When two distributions overlap, we introduce type 1 and type 2 errors. Depending upon the threshold, we can minimize or maximize them. When AUC is 0.7, it means there is a 70% chance that the model will be able to distinguish between positive class and negative class.
 
-![](<../../.gitbook/assets/image (192).png>)
+![](<../../.gitbook/assets/image (48).png>)
 
 This is the worst situation. When AUC is approximately 0.5, the model has no discrimination capacity to distinguish between positive class and negative class.
 
-![](<../../.gitbook/assets/image (193).png>)
+![](<../../.gitbook/assets/image (173).png>)
 
 When AUC is approximately 0, the model is actually reciprocating the classes. It means the model is predicting a negative class as a positive class and vice versa.
 
@@ -130,7 +130,7 @@ When we decrease the threshold, we get more positive values thus it increases th
 
 ![](file:///C:/Users/edzer\_wu/AppData/Local/Temp/msohtmlclip1/01/clip\_image022.png)
 
-![DeepQ AI platform inference report: ROC curves of all classes](<../../.gitbook/assets/image (194).png>)
+![DeepQ AI platform inference report: ROC curves of all classes](<../../.gitbook/assets/image (163).png>)
 
 _References:_
 

@@ -1,6 +1,6 @@
 # DeepQ AI Platform overview
 
-![](<../.gitbook/assets/1-2.1-300012 (2).png>)
+![](../.gitbook/assets/1-2.1-300012.png)
 
 ![](<../.gitbook/assets/1-2.1-300011 (1).png>)
 

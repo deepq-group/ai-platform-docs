@@ -12,7 +12,7 @@ After your training is completed, the next step is to test the performance of yo
 
 ### 1. Download training results
 
-![](<../.gitbook/assets/image (74).png>)
+![](<../.gitbook/assets/image (122).png>)
 
 Download the training results with the button, “models”, on the task details page. Extract the zip file, and there will be a folder, `results`. The folder contains at least `inference.py`, `model_X.bin` (X is the best step during training), and `label_name.csv`.
 

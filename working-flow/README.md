@@ -1,8 +1,8 @@
 # DeepCap (Annotation tool)
 
-![](<../.gitbook/assets/image (143) (2).png>)
+![](<../.gitbook/assets/image (143).png>)
 
-![](<../.gitbook/assets/deepcap-overview (2) (2).png>)
+![](<../.gitbook/assets/deepcap-overview (2).png>)
 
 ## Define the task
 
@@ -16,6 +16,6 @@ In the “Project” tab, you can view the annotation status of all the projects
 
 **PUBLICATION DATE:** Sort your projects by using the “Publication Date” and “Last Modified”.
 
-\*\*\*\*![](<../.gitbook/assets/image (12).png>)**STATUS:** Filter your projects by using the project status: “On going”, "Finished" and “Stopped”.
+\*\*\*\*![](<../.gitbook/assets/image (7).png>)**STATUS:** Filter your projects by using the project status: “On going”, "Finished" and “Stopped”.
 
-\*\*\*\*![](<../.gitbook/assets/image (13).png>) **SEARCH**: Search your projects using project name.
+\*\*\*\*![](<../.gitbook/assets/image (21).png>) **SEARCH**: Search your projects using project name.

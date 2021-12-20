@@ -1,24 +1,24 @@
 # Manage Annotation Projects
 
-![](<../.gitbook/assets/manage annotation project .png>)
+![](../.gitbook/assets/manage-annotation-project-.png)
 
 ## View Details
 
-![](<../.gitbook/assets/view detail.png>)
+![](../.gitbook/assets/view-detail.png)
 
 * **Project schedule:** The summary of project schedule is shown here to help the project owner review the progress.
 * **Annotation progress:** If the iteration you set is three, then the quantity of "Annotated" is equal to the annotation quantity that is completed by three annotators.
 * **Review progress:** This column shows the review progress that has completed by the reviewer.
 * **Export to training:** You can directly export the annotated data to DeepQ AI Training service by clicking on the bottom.
 
-![](<../.gitbook/assets/add member (1).png>)
+![](../.gitbook/assets/add-member.png)
 
 * You can add new annotators before the project is stopped and completed. The cases will be re-allocated once you add new annotators.
 * An annotator/ reviewer can be suspended or removed from the project.
   * **Suspend:** An annotator’s job will be released when they are suspended from the project. The suspended status can be resumed.
   * **Remove:** An annotator’s job will be released when they are removed from the project. A removed annotator cannot be added again once removed by a project owner.
 
-![](<../.gitbook/assets/annotation dataset.png>)
+![](../.gitbook/assets/annotation-dataset.png)
 
 * **Filter | Sort by:** Study name, Last finished, Lowest DSV: classification, Lowest DSV: segmentation, Lowest DSV: detection, depends on the project type.
 * **Export:** You can also export the annotated data to DeepQ AI Training service directly.
@@ -28,7 +28,7 @@
 Dataset that cannot be exported for training.
 
 * Without annotation result: There is no any saved annotations for this dataset.
-* User exclude: A project Owner excludes (![](<../.gitbook/assets/image (10).png>)) that case.
+* User exclude: A project Owner excludes (![](<../.gitbook/assets/image (14).png>)) that case.
 * System exclude: The DSV result excludes that case because of an unacceptably lower consistency rate.
 * Problematic image: Annotated as “Problematic image” by an annotator.
 

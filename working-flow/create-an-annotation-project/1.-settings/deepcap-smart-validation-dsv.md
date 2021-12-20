@@ -14,7 +14,7 @@ For example, if the project contains three annotators, two or three annotators c
 * The DSV result is applied as the default value to export for training.
 * You can return each case to the annotator or exclude it from artificial intelligence (AI) training if the DSV result is not acceptable to your requirements.
 
-![](../../../.gitbook/assets/DSV.png)
+![](<../../../.gitbook/assets/dsv (1).png>)
 
 ## View DSV result from Annotation Details
 
@@ -22,7 +22,7 @@ As a project owner, you can view the suggested DSV result for each image and can
 
 #### Image Classification:
 
-* **DSV result:** The suggested label and the consistency rate are shown in this section. The DSV calculation for image classification is simple as the DSV result is determined by estimating the majority consensus. For example, if there were three annotators work on each image, two of them select the same label for one image, the consistency rate would be 67%. If The DSV result presented as “failed” means the consistency rate is equal or less than 50%. In this case, you can return (![](../../../.gitbook/assets/Picture24.png)) this study to the annotator or exclude (![](<../../../.gitbook/assets/image (10).png>)) this case from AI training.
+* **DSV result:** The suggested label and the consistency rate are shown in this section. The DSV calculation for image classification is simple as the DSV result is determined by estimating the majority consensus. For example, if there were three annotators work on each image, two of them select the same label for one image, the consistency rate would be 67%. If The DSV result presented as “failed” means the consistency rate is equal or less than 50%. In this case, you can return (![](../../../.gitbook/assets/picture24.png)) this study to the annotator or exclude (![](<../../../.gitbook/assets/image (14).png>)) this case from AI training.
 
 ![](../../../.gitbook/assets/classification.jpg)
 
@@ -35,7 +35,7 @@ As a project owner, you can view the suggested DSV result for each image and can
 
 **\[Disable annotator result]**
 
-* **DSV result:** The suggested bounding box and consistency rate **will** be presented in this area, you can hide the DSV bounding box \_\*\*\_label by clicking “![](../../../.gitbook/assets/Picture26.png)”.
+* **DSV result:** The suggested bounding box and consistency rate **will** be presented in this area, you can hide the DSV bounding box \_\*\*\_label by clicking “![](../../../.gitbook/assets/picture26.png)”.
 
 ![](../../../.gitbook/assets/detection1.jpg)
 

@@ -1,6 +1,6 @@
 # Annotation Data Formats
 
-![](<../.gitbook/assets/label format.jpg>)
+![](../.gitbook/assets/label-format.jpg)
 
 ## Image Classification:
 
