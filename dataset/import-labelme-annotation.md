@@ -1,10 +1,8 @@
-# Import LabelMe annotation
+# 2.3 Import LabelMe annotation
 
 **DeepQ AI platform label format support: LabelMe**
 
-```
-      Other than DeepQ AI platform’s annotation format, we also support other annotation produced by other popular image labeling tools such as LabelMe. LabelMe is a project created by the MIT Computer Science and Artificial Intelligence Laboratory \(CSAIL\) and is widely used in computer vision research. DeepQ AI platform supports 3 types of annotation created by LabelMe: Classification, Detection & Segmentation.
-```
+Other than DeepQ AI platform’s annotation format, we also support other annotation produced by other popular image labeling tools such as LabelMe. LabelMe is a project created by the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and is widely used in computer vision research. DeepQ AI platform supports 3 types of annotation created by LabelMe: Classification, Detection & Segmentation.
 
 ![Annotation type nomenclatures](<../.gitbook/assets/image (177).png>)
 
