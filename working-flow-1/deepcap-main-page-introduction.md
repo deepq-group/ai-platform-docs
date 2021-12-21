@@ -4,6 +4,8 @@
 
 ![](<../.gitbook/assets/1-2.1-300011 (1).png>)
 
+![](<../.gitbook/assets/image (68).png>)
+
 ## Platform overview
 
 The complete DeepQ AI Platform consists of three main modules：
@@ -46,7 +48,7 @@ The complete DeepQ AI Platform consists of three main modules：
 
 ## Deeploy Overview
 
-![](<../.gitbook/assets/image (68).png>)
+![](<../.gitbook/assets/image (68) (1).png>)
 
 ![](<../.gitbook/assets/image (218).png>)
 
