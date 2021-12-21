@@ -40,6 +40,7 @@
     * [Object Segmentation](account-management/deep-learning-metrics-explained/object-segmentation.md)
   * [5.1 AI worklist](account-management/5.1-ai-worklist.md)
   * [5.2 AI viewer](account-management/5.2-ai-viewer.md)
+  * [6.3 Changelog](account-management/6.3-changelog.md)
 * [Legal Documents](legal-documents.md)
 * [5. Deeploy](5.-deeploy/README.md)
   * [5.1 AI worklist](5.-deeploy/5.1-ai-worklist.md)
