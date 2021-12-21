@@ -12,7 +12,7 @@ The complete DeepQ AI Platform consists of three main modules：
 * AI Training：
 * Deeploy：&#x20;
 
-![The complete DeeQ AI Platform](<../.gitbook/assets/image (13).png>)
+![The complete DeeQ AI Platform](<../.gitbook/assets/image (13) (2).png>)
 
 ## DeepCap Overview
 
