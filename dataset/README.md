@@ -1,4 +1,10 @@
-# Dataset
+---
+description: 'Compatible image formats: DICOM, jpeg & png'
+---
+
+# 2. Dataset
+
+
 
 ![](../.gitbook/assets/1-2.1-300006.png)
 

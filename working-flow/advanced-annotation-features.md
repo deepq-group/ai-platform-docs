@@ -2,11 +2,9 @@
 description: Special features
 ---
 
-# Advanced functions
+# 3.4 Advanced functions
 
-##
-
-**Propagate labels**
+### **Propagate labels**
 
 When annotating serial images such as CT or MRI, the user might want to duplicate labels for continuous slices such as the example shown below. Instead of clicking through each slice, “propagate label” function allows users to label multiple slices with ease.
 
@@ -50,19 +48,13 @@ After combining labels, remember to toggle off the existing labels to prevent th
 
 The combined labels will appear in the new annotation data.
 
-###
+### **Convert labels**
 
-**Convert labels**
-
-```
-      It happens when a user wants to train a classification AI with object detection annotation data. In order to do so, the labels have to be converted into classification for the algorithms to learn from. DeepQ AI platform provides an easy way for users to convert their label type and try out different applications with the same annotation data.
-```
+It happens when a user wants to train a classification AI with object detection annotation data. In order to do so, the labels have to be converted into classification for the algorithms to learn from. DeepQ AI platform provides an easy way for users to convert their label type and try out different applications with the same annotation data.
 
 ![](<../.gitbook/assets/image (189).png>)
 
-```
-      During export annotation, choose the annotation type \(target\) you want, DeepQ AI platform will automatically find out & show the available labels \(source\) to convert from. The target-source conversion table is listed below.
-```
+During export annotation, choose the annotation type (target) you want, DeepQ AI platform will automatically find out & show the available labels (source) to convert from. The target-source conversion table is listed below.
 
 ![](<../.gitbook/assets/image (144).png>)
 

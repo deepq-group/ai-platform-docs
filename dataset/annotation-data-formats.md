@@ -1,4 +1,4 @@
-# Annotation Data Formats
+# 2.2 Annotation Data Formats
 
 ![](../.gitbook/assets/label-format.jpg)
 
@@ -10,6 +10,7 @@
 * The same image should be repeated N times, where N is the number of classes assigned.
 * The pairs of an image name and a category label start from the first line. That is, there is no CSV header in the label file.
 * Pure number (e.g. 001) as class names must be double quoted. (e.g. "001").
+* <mark style="color:red;">**The minimum annotation requirement for each class is 3 images. If the dataset contains class(es) with less than 3 images, the dataset will be rejected**</mark>
 
 ## Object Detection:
 
@@ -22,6 +23,9 @@
 * If an image contain more than 1 bounding boxes, it can be shown in multiple lines.
 * The bounding box lines must start from the first line. That is, there is no CSV header in the label file.
 * Pure number (e.g. 001) as class names must be double quoted. (e.g. "001").
+*   <mark style="color:red;">**The minimum annotation requirement for each class is 3 images. If the dataset contains class(es) with less than 3 images, the dataset will be rejected**</mark>
+
+    ## ****
 
 ## Object Segmentation:
 

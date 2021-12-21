@@ -23,10 +23,10 @@ If “Save with Image Data” is checked with LabelMe settings, image data will 
 
 ![](<../.gitbook/assets/image (159).png>)
 
-```
-      Once the LabelMe zip is successfully uploaded, the system will automatically create annotation data from the .json files. Note that each .json zip will produce at least one classification annotation, on top of other types of label data. \(Detection & segmentation\)
-```
+Once the LabelMe zip is successfully uploaded, the system will automatically create annotation data from the .json files. Note that each .json zip will produce at least one classification annotation, on top of other types of label data. \\(Detection & segmentation\\)
 
 ![](<../.gitbook/assets/image (176).png>)
 
-\*\*\*\*
+* <mark style="color:red;">**The minimum annotation requirement for each class is 3 images. If the LabelMe dataset contains class(es) with less than 3 images, the dataset will be rejected**</mark>
+
+## ****

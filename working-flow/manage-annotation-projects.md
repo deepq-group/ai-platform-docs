@@ -1,4 +1,4 @@
-# Manage Annotation Projects
+# 3.3 Manage Annotation Projects
 
 ![](../.gitbook/assets/manage-annotation-project-.png)
 
@@ -31,6 +31,9 @@ Dataset that cannot be exported for training.
 * User exclude: A project Owner excludes (![](<../.gitbook/assets/image (14).png>)) that case.
 * System exclude: The DSV result excludes that case because of an unacceptably lower consistency rate.
 * Problematic image: Annotated as “Problematic image” by an annotator.
+*   <mark style="color:red;">**The minimum annotation requirement for each class is 3 images. If the annotation contains class(es) with less than 3 images, it cannot be exported.**</mark>
+
+    ## ****
 
 ## Annotation Conditions for Training
 

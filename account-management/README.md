@@ -1,6 +1,6 @@
-# DeepQ AI Training
+# 4. DeepQ AI Training
 
-![](<../.gitbook/assets/image (138).png>)
+![](<../.gitbook/assets/4-01 (3).png>)
 
 ![](<../.gitbook/assets/training-overview (1) (1) (1).png>)
 
