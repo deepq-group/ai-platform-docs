@@ -2,15 +2,11 @@
 description: this section will explain model training & Hyperparameter tuning
 ---
 
-# Model Training & Hyperparameter tuning explained
-
-###
+# 4.5 Model Training & Hyperparameter tuning explained
 
 **What is hyperparameter tuning：**
 
-```
-      In machine learning, hyperparameter optimization or tuning is the problem of choosing a set of optimal hyperparameters for a learning algorithm. A hyperparameter is a parameter whose value is used to control the learning process. By contrast, the values of other model parameters \(typically node weights\) are learned. The same kind of machine learning model can require different constraints, weights or learning rates to generalize different data patterns. These measures are called hyperparameters, and have to be tuned so that the model can optimally solve the machine learning problem.
-```
+In machine learning, hyperparameter optimization or tuning is the problem of choosing a set of optimal hyperparameters for a learning algorithm. A hyperparameter is a parameter whose value is used to control the learning process. By contrast, the values of other model parameters \\(typically node weights\\) are learned. The same kind of machine learning model can require different constraints, weights or learning rates to generalize different data patterns. These measures are called hyperparameters, and have to be tuned so that the model can optimally solve the machine learning problem.
 
 ![](<../.gitbook/assets/image (158).png>)
 

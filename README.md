@@ -50,9 +50,15 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 ## 5. Deeploy
 
-## 6. Legal Documents
+1. AI worklist & viewer
+2. Authorized Models/Deployments
 
-## [7. FAQ](faq/)
+## [6. FAQ](faq/)
 
 [6.1 System notifications\
 ](faq/ai-training-related-issues.md)[6.2 GPU usage](faq/gpu-usage.md)
+
+[6.3 Change Log](faq/6.3-change-log/)
+
+## [7. Legal Documents](./#7.-legal-documents)
+
