@@ -1,10 +1,10 @@
 # 1.2 DeepQ AI Platform overview
 
-![](../.gitbook/assets/1-2.1-300012.png)
+![](<../.gitbook/assets/1-2.1-300012 (2).png>)
 
 ![](<../.gitbook/assets/1-2.1-300011 (1).png>)
 
-![](<../.gitbook/assets/image (68).png>)
+![](<../.gitbook/assets/image (232).png>)
 
 ## Platform overview
 
@@ -12,9 +12,9 @@ The complete DeepQ AI Platform consists of three main modules：
 
 * DeepCap：
 * AI Training：
-* Deeploy：&#x20;
+* Deeploy：
 
-![The complete DeeQ AI Platform](<../.gitbook/assets/image (13) (2).png>)
+![The complete DeeQ AI Platform](<../.gitbook/assets/image (221).png>)
 
 ## DeepCap Overview
 
@@ -48,9 +48,9 @@ The complete DeepQ AI Platform consists of three main modules：
 
 ## Deeploy Overview
 
-![](<../.gitbook/assets/image (68) (1).png>)
+![](<../.gitbook/assets/image (68) (1) (1).png>)
 
-![](<../.gitbook/assets/image (218).png>)
+![](<../.gitbook/assets/image (220).png>)
 
 ## Side Menu <a href="#side-menu" id="side-menu"></a>
 
@@ -59,6 +59,3 @@ The complete DeepQ AI Platform consists of three main modules：
 **Worklist**: Person who create a task will be the project owner. The project owner can check and manage all the tasks in this tab.‌
 
 **Authorized Models**: You can upload datasets in this tab.The system has imposes some limitations on your dataset, please refer to the [“Dataset Format”](https://app.gitbook.com/s/-LRpbrznmSNshCiwmSTG-3251841457/dataset/upload-dataset) and ["Annotation Data Format"](https://app.gitbook.com/s/-LRpbrznmSNshCiwmSTG-3251841457/dataset/annotation-data-formats) tab for detailed information
-
-
-

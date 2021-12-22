@@ -4,17 +4,17 @@ description: >-
   “Dataset” tab.
 ---
 
-# Dataset Format
+# 2.1 Dataset Format
 
 ![](../.gitbook/assets/cat1.jpg)
 
-![](../.gitbook/assets/dataset-overview.png)
+![](<../.gitbook/assets/dataset overview.png>)
 
 ## **Introduction**
 
-\*\*\*\*![](<../.gitbook/assets/image (22).png>) **Upload Dataset:** Click on this button and upload your dataset in DICOM/ JPG, PNG form.
+\*\*\*\*![](<../.gitbook/assets/image (4).png>) **Upload Dataset:** Click on this button and upload your dataset in DICOM/ JPG, PNG form.
 
-\*\*\*\*![](<../.gitbook/assets/image (9).png>) **Search:** Search for your uploaded dataset by its name.
+\*\*\*\*![](<../.gitbook/assets/image (6).png>) **Search:** Search for your uploaded dataset by its name.
 
 ## Dataset Format
 
@@ -28,11 +28,11 @@ Please check your dataset and image format before uploading.
 
       **For annotation file (label.csv) format, please refer to** [**Annotation Data Formats**](annotation-data-formats.md) _\*\*_
 
-![](<../.gitbook/assets/image (127).png>)
+![](<../.gitbook/assets/image (105).png>)
 
 ### Import multi-class data from separate folders
 
-![](<../.gitbook/assets/image (134).png>)
+![](<../.gitbook/assets/image (106).png>)
 
 #### Notice:
 

@@ -17,7 +17,7 @@
 
 ## **Manage user profile / Change Password**
 
-![](../../.gitbook/assets/account-management-.png)
+![](<../../.gitbook/assets/account management .png>)
 
-* Click on the account button![](../../.gitbook/assets/filled.svg), and select "view my profile" link.
-* Click on the top right tab “ ![](../../.gitbook/assets/filled-copy.svg) ” to change password.
+* Click on the account button![](../../.gitbook/assets/Filled.svg), and select "view my profile" link.
+* Click on the top right tab “ ![](<../../.gitbook/assets/Filled Copy.svg>) ” to change password.
