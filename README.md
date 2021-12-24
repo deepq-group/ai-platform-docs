@@ -63,7 +63,7 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 ](./#7.-legal-documents)Privacy Policy\
 Product Security\
 Code of Conduct\
-Third Party Notice
+Third Party Notice\\
 
 
 
