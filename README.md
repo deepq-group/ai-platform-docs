@@ -64,7 +64,3 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 Product Security\
 Code of Conduct\
 Third Party Notice\\
-
-
-
-testing
