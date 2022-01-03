@@ -6,7 +6,6 @@
   * [1.2 DeepQ AI Platform overview](working-flow-1/deepcap-main-page-introduction.md)
   * [1.3 User profile & account management](working-flow-1/untitled-1/README.md)
     * [Account roles & authorizations](working-flow-1/untitled-1/account-roles-and-authorizations.md)
-    * [Resource management](working-flow-1/untitled-1/resource-management.md)
 * [2. Dataset](dataset/README.md)
   * [2.1 Dataset Format](dataset/upload-dataset.md)
   * [2.2 Annotation Data Formats](dataset/annotation-data-formats.md)

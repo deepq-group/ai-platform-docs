@@ -39,7 +39,10 @@ Click on “SUBMIT” after annotating each case. You can also click on “<<”
 
 #### Notice:
 
-Once the case is submitted, the label cannot be changed.
+* Once the case is submitted, the label cannot be changed unless returned by reviewer
+*   For larger images (>1000 both side), it may take some time to process complex annotation (e.g. segmentation), therefore it takes a while to reflect the changes after submit.
+
+    ####
 
 ####
 
