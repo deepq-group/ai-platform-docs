@@ -1,3 +1,9 @@
+---
+description: >-
+  DeepQ AI Training module is where users can train their models and evaluate
+  its performance via real-time or batch inference
+---
+
 # 4. DeepQ AI Training
 
 ![](<../.gitbook/assets/4-01 (3).png>)

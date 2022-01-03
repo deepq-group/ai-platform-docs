@@ -1,3 +1,9 @@
+---
+description: >-
+  DeepCap is where users can manage image datasets, create and run annotation
+  projects in order to produce deep-learninig ready datasets
+---
+
 # 3. DeepCap (Annotation tool)
 
 ![](<../.gitbook/assets/image (143) (2).png>)

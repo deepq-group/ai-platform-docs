@@ -1,5 +1,7 @@
 ---
-description: 'Compatible image formats: DICOM, jpeg & png'
+description: >-
+  Dataset is where user stores and manages their image datasets. Everything
+  starts here.
 ---
 
 # 2. Dataset
