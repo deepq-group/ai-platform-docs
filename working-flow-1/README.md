@@ -13,16 +13,17 @@
 
 ## **AI training**
 
-* Provide various AI models for training.
-* To create\*\*,\*\* manage & monitor AI training tasks.
-* Automatic hyper-parameter tuning for minimal IT manpower.
-* Provide metrics to evaluate the training progress & outcome of the models.
+* pre-built AI models for best training results.
+* Create, monitor & manage AI training tasks.
+* No-code automatic hyper-parameter tuning that can leverage advanced techniques such as transfer learning & data augmentation.
+* Evaluate the training progress & outcome of the models with different metrics.
 
-## **Model deployment**
+## **Deeploy (Model deployment)**
 
-* Produce qualitative inference results.
-* Graphical interpretation of model performance & provide insight.
-* GPU scheduling & intelligent queuing of training tasks.
+* Get your AI models up and running with real-world data sent from PACS
+* Inference engine automatically identifies image by DICOM tag and forwards to different AI models
+* Set deployment authorization.  Different users for different model deployments
+* Download inference history for futher analysis and model retrain.
 
 ![](<../.gitbook/assets/1-000002(2) (1).png>)
 
