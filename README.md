@@ -6,7 +6,7 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 [1.1 What is Deep Learning?\
 ](working-flow-1/what-is-deep-learning.md)[1.2 DeepQ AI Platform Overview\
-](working-flow-1/deepcap-main-page-introduction.md)[1.3 User role & Account Management](working-flow-1/untitled-1/)
+](working-flow-1/deepcap-main-page-introduction.md)[1.3 User role & Account Management](working-flow-1/untitled-1.md)
 
 ## [2. Dataset:](dataset/)
 
