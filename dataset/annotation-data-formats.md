@@ -25,7 +25,7 @@
 * Pure number (e.g. 001) as class names must be double quoted. (e.g. "001").
 *   <mark style="color:red;">**The minimum annotation requirement for each class is 3 images. If the dataset contains class(es) with less than 3 images, the dataset will be rejected**</mark>
 
-    ### \*\*\*\*
+    #### \*\*\*\*
 
 ## Object Segmentation:
 

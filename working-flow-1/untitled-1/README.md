@@ -1,6 +1,6 @@
 # 1.3 User profile & account management
 
-## Three roles in DeepQ AI Platform
+## Three roles in DeepCap
 
 * **Project Owner:** The owner of an annotation project & training task. He/ She can upload, create and manage datasets, annotation projects, and training tasks.
 * **Reviewer:** Assigned by the project owner to review the labeling results pass down by annotators.
