@@ -1,6 +1,6 @@
 # 1.2 DeepQ AI Platform overview
 
-![](<../.gitbook/assets/image (216).png>)
+![](<../.gitbook/assets/image (216) (1).png>)
 
 The moment you log into DeepQ AI Platform, you can choose from the three modules to start from. Please contact the system admin for your module authorization.
 
