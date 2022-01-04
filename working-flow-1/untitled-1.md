@@ -11,7 +11,7 @@
 
 ## Module permission
 
-DeepQ AI Platform module & function permission is listed in the table below
+DeepQ AI Platform module & function permission is listed in the table below. Users can click on the upper right corner to switch modules, or contact the system administrator to check which modules do you have permission to access.
 
 | functions                                  | DeepCap | AI Training | Deeploy |
 | ------------------------------------------ | :-----: | :---------: | :-----: |
@@ -24,7 +24,7 @@ DeepQ AI Platform module & function permission is listed in the table below
 
 ## Different roles in DeepCap
 
-Different roles in an annoatation project is explained below:
+For users that have permission to DeepCap module can play different roles in a annotation projecty. The difference of these roles in an annoatation project is explained below:
 
 * **Project Owner:** The owner of an annotation project & training task. He/ She can upload, create and manage datasets, annotation projects, and training tasks.
 * **Reviewer:** Assigned by the project owner to review the labeling results pass down by annotators.

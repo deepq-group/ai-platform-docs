@@ -4,7 +4,7 @@
 
 Users can set up a training task by selecting training data, model & tuning method. For better tuning efficiency, there might be multiple parallel training jobs within one training task, **each job runs on a specific set of hyperparameter and will occupy 1 GPU each**. The training time of each job depends on the GPU spec, model property, data size & other settings such as early stop. A training task will be complete once all training jobs are finished.
 
-![](<../.gitbook/assets/image (217) (1) (1).png>)
+![](<../.gitbook/assets/image (217) (1) (1) (1).png>)
 
 **Manual assignment**
 

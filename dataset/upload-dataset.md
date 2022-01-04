@@ -6,27 +6,17 @@ description: >-
 
 # 2.1 Dataset Format
 
-![](../.gitbook/assets/cat1.jpg)
-
-![](<../.gitbook/assets/dataset overview.png>)
-
-## **Introduction**
-
-\*\*\*\*![](<../.gitbook/assets/image (4).png>) **Upload Dataset:** Click on this button and upload your dataset in DICOM/ JPG, PNG form.
-
-\*\*\*\*![](<../.gitbook/assets/image (6).png>) **Search:** Search for your uploaded dataset by its name.
+![DeepQ AI Platform support three types of annotation: image classification, object detection & object segmentation](<../.gitbook/assets/image (219).png>)
 
 ## Dataset Format
 
-Please check your dataset and image format before uploading.
+The accepted dataset format is described below, please check your dataset and image format before uploading.
 
 ### Dataset format: zip file
 
 * **Image only:** Only a folder of images should be presented here. Please note that the folder name must be “**image**,” entirely in lowercase letters.
 * **With annotation:** A folder named “**image**” \_\_in lowercase and a file specifying the label of each image, “**label.csv**” should be presented here. You can either zip “image” and “label.csv” or put them into another folder and zip that folder.
-  *   CSV file: - For image classification: 3 columns - For object detection: 6 columns
-
-      **For annotation file (label.csv) format, please refer to** [**Annotation Data Formats**](annotation-data-formats.md) _\*\*_
+* **For annotation file (label.csv) format, please refer to** [**Annotation Data Formats**](annotation-data-formats.md) _\*\*_
 
 ![](<../.gitbook/assets/image (105).png>)
 
