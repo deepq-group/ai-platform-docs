@@ -1,10 +1,12 @@
 # 3.2 Start Annotation
 
+## My Job--Job List
+
 Click on the "My Job" tab, you can view the job list that was assigned by the project owner. The total cases that have been assigned to you and the cases that have not been annotated is shown in each job. Click on "ANNOTATE" and begin the annotation process.
 
 ![](<../.gitbook/assets/my job.png>)
 
-## Detail Page
+## Annotation Job--Detail Page
 
 ![](<../.gitbook/assets/detail page .png>)
 
@@ -43,37 +45,3 @@ Click on “SUBMIT” after annotating each case. You can also click on “<<”
 *   For larger images (>1000 both side), it may take some time to process complex annotation (e.g. segmentation), therefore it takes a while to reflect the changes after submit.
 
     ####
-
-####
-
-### Special features
-
-###
-
-**Propagate labels**
-
-When annotating serial images such as CT or MRI, the user might want to duplicate labels for continuous slices such as the example shown below. Instead of clicking through each slice, “propagate label” function allows users to label multiple slices with ease.
-
-![](<../.gitbook/assets/image (142).png>)
-
-“propagate label” will significantly reduce the effort needed to label continuous slices with the same label
-
-![](<../.gitbook/assets/image (145).png>)
-
-In the annotation viewer, “propagate label” will automatically show up if the job is annotating continuous slices.
-
-![](<../.gitbook/assets/image (208) (1).png>)
-
-By clicking on “propagate labels”, the user is able to choose which slices will be tagged with the same label, and the type of label that will be assigned to these slices. For detection and segmentation, the user can simply assign “nothing to label” where the object does not exist. User can also exclude continuous slices in the same way by toggling “Exclude image”
-
-![](<../.gitbook/assets/image (147).png>)
-
-After assigning specific slices with the same label, the slice indicator below will show that the slices have been labeled (colored segments, representing labeled slices).
-
-### Combine labels
-
-In image classification tasks, although the idea of training a single algorithm to identify numerous classes is appealing, splitting training data among these classes might result in less data per class and eventually causing the neural network unable to learn from the data successfully, thus poor performance.
-
-![](<../.gitbook/assets/image (148).png>)
-
-Splitting data among more classes causes less data per class, reducing the effective data size for the neural network to learn from.

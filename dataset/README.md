@@ -6,9 +6,11 @@ description: >-
 
 # 2. Dataset
 
-![The dataset is shared between DeepCap and DeepQ AI Training.](../.gitbook/assets/1-2.1-300006.png)
+The dataset is shared between DeepCap and DeepQ AI Training, and can be used for annotation, model training and testing.
 
-![](<../.gitbook/assets/image (221).png>)
+![](../.gitbook/assets/1-2.1-300006.png)
+
+![](<../.gitbook/assets/image (221) (1).png>)
 
 * ![](<../.gitbook/assets/image (4).png>) **Upload Dataset:** Click on this button and upload your dataset in DICOM/ JPG, PNG form.
 * ![](<../.gitbook/assets/image (6).png>) **Search:** Search for your uploaded dataset by its name.
@@ -32,10 +34,10 @@ description: >-
 
 * Clicking on the thumbnail of raw data(image) opens up the image viewer with essential browsing functions such as pan, zoom in/out & brightness/contrast adjustment.
 
-![](<../.gitbook/assets/image (223).png>)
+![](<../.gitbook/assets/image (223) (1).png>)
 
 * expanding each annotation shows the labels in the form of thumbnails, clicking on each thumbnail opens the image viewer for a more detailed inspection.
 
 ![](<../.gitbook/assets/image (224).png>)
 
-Other than the browsing tools, user can toggle on/off the labels by clicking on the ![](<../.gitbook/assets/image (230).png>)
+Other than the browsing tools, user can toggle on/off the labels by clicking on the ![](<../.gitbook/assets/image (230) (1).png>)

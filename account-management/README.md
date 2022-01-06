@@ -6,6 +6,8 @@ description: >-
 
 # 4. DeepQ AI Training
 
+DeepQ AI Training is where the neural network meets datasets. By training tasks users can create their AI applications with their own data.
+
 ![](<../.gitbook/assets/4-01 (3).png>)
 
 ![](<../.gitbook/assets/training-overview (1) (1) (1).png>)

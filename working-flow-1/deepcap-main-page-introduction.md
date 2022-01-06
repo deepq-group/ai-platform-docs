@@ -1,8 +1,8 @@
 # 1.2 DeepQ AI Platform overview
 
-![](<../.gitbook/assets/image (216) (1).png>)
-
 The moment you log into DeepQ AI Platform, you can choose from the three modules to start from. Please contact the system admin for your module authorization.
+
+![](<../.gitbook/assets/image (216) (1).png>)
 
 ## Platform modules overview
 
@@ -12,7 +12,7 @@ The complete DeepQ AI Platform consists of three main modules：
 * AI Training：Model selection/tuning & evaluation
 * Deeploy：Real-time model deployment, worklist & AI viewer&#x20;
 
-![The complete DeeQ AI Platform](<../.gitbook/assets/image (221) (1) (1).png>)
+![The complete DeeQ AI Platform](<../.gitbook/assets/image (221) (1) (1) (1).png>)
 
 ## DeepCap Overview
 

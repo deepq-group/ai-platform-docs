@@ -6,7 +6,9 @@ description: >-
 
 # 3. DeepCap (Annotation tool)
 
-![](<../.gitbook/assets/image (143) (2).png>)
+DeepCap is where you turn your images into valuable. Since deep learning is a data-driven technology, the quallity of your annotation plays a critical role in your AI development/application.
+
+![](<../.gitbook/assets/image (223).png>)
 
 ![](<../.gitbook/assets/deepcap-overview (2) (2).png>)
 
@@ -20,5 +22,7 @@ In the “Project” tab, you can view the annotation status of all the projects
 
 \*\*\*\*![](<../.gitbook/assets/image (13).png>) **SEARCH**: Search your projects using project name.
 
+### Create Project
 
+\*\*\*\*![](<../.gitbook/assets/image (15).png>)**CREATE PROJECT:** Click on this button and start the project settings.
 

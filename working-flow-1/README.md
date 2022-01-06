@@ -1,6 +1,19 @@
 # 1. DeepQ AI Platform overview
 
-### DeepQ AI Platform provides a one-stop solution for your medical data annotation & AI model training needs via web browser
+### DeepQ AI Platform provides a one-stop solution for your medical image MLOPs cycle via web browser. Enjoy the best experience provided by our no-code environment.
+
+![](<../.gitbook/assets/image (221).png>)
+
+* DeepQ AI Platform dramatically reduces the learning thresholds and the cost of AI model training through efficient image annotation tools, optimized training environment, built-in multiple AI models, fully automated parameter tuning, and a simple user interface.
+* It is different from the existing AI training platforms and services available on the market, users of DeepQ AI Platform can quickly convert their own medical image data into the AI models without the knowledge and skills of deep learning.
+
+
+
+#### The complete DeepQ AI Platform consists of three main modules：
+
+* DeepCap：Dataset management & image annotation
+* AI Training：Model selection/tuning & evaluation
+* Deeploy：Real-time model deployment, worklist & AI viewer&#x20;
 
 ![](../.gitbook/assets/1-000001\(2\).png)
 
@@ -25,6 +38,3 @@
 * Set deployment authorization.  Different users for different model deployments
 * Download inference history for futher analysis and model retrain.
 
-![](<../.gitbook/assets/1-000002(2) (1).png>)
-
-DeepQ AI Platform dramatically reduces the learning thresholds and the cost of AI model training through efficient image annotation tools, optimized training environment, built-in multiple AI models, fully automated parameter tuning, and a simple user interface. It is different from the existing AI training platforms and services available on the market, users of DeepQ AI Platform can quickly convert their own medical image data into the AI models without the knowledge and skills of deep learning.

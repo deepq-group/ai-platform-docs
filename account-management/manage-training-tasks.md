@@ -1,6 +1,6 @@
 # 4.2 View/Manage Training Tasks
 
-* The task overview will be shown at the "Task" tab.
+Once a training task is up and running, the owner may view and manage the task through the task dashboard.
 
 ![](<../.gitbook/assets/training-overview (1) (1).png>)
 

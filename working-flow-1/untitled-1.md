@@ -1,6 +1,6 @@
 # 1.3 User profile & account management
 
-## **Manage user profile / Change Password**
+### **Manage user profile / Change Password**
 
 ![](<../.gitbook/assets/account management .png>)
 
@@ -9,7 +9,7 @@
 
 
 
-## Module permission
+### Module permission
 
 DeepQ AI Platform module & function permission is listed in the table below. Users can click on the upper right corner to switch modules, or contact the system administrator to check which modules do you have permission to access.
 

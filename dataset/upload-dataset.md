@@ -6,7 +6,9 @@ description: >-
 
 # 2.1 Dataset Format
 
-![DeepQ AI Platform support three types of annotation: image classification, object detection & object segmentation](<../.gitbook/assets/image (219).png>)
+DeepQ AI Platform support three types of annotation: image classification, object detection & object segmentation
+
+![](<../.gitbook/assets/image (219).png>)
 
 ## Dataset Format
 

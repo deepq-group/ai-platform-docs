@@ -1,5 +1,7 @@
 # 3.3 Manage Annotation Projects
 
+Once an annotation project has been published and running, the project owner can view and manage the project anytime.
+
 ![](<../.gitbook/assets/manage annotation project .png>)
 
 ## View Details
