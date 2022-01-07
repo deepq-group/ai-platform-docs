@@ -8,7 +8,7 @@ description: >-
 
 DeepCap is where you turn your images into valuable. Since deep learning is a data-driven technology, the quallity of your annotation plays a critical role in your AI development/application.
 
-![](<../.gitbook/assets/image (223) (1).png>)
+![](<../.gitbook/assets/image (223) (1) (1).png>)
 
 ![](<../.gitbook/assets/deepcap-overview (2) (2).png>)
 
