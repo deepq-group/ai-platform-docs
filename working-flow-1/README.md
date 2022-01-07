@@ -2,7 +2,7 @@
 
 ### DeepQ AI Platform provides a one-stop solution for your medical image MLOPs cycle via web browser. Enjoy the best experience provided by our no-code environment.
 
-![](<../.gitbook/assets/image (221).png>)
+![](<../.gitbook/assets/image (221) (1).png>)
 
 * DeepQ AI Platform dramatically reduces the learning thresholds and the cost of AI model training through efficient image annotation tools, optimized training environment, built-in multiple AI models, fully automated parameter tuning, and a simple user interface.
 * It is different from the existing AI training platforms and services available on the market, users of DeepQ AI Platform can quickly convert their own medical image data into the AI models without the knowledge and skills of deep learning.

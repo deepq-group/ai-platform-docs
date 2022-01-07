@@ -1,6 +1,20 @@
 # Annotation Quality Control
 
+Label quality is an important factor in Deep Learning. In order to ensure the best labeling quality in each annotation project, users can choose from three validation method/workflow.
+
 **DeepCap Smart Validation** provides a consistent rate based on DeepQ original algorithm for an iterative annotation process. The system suggests annotations and provides accurate ground truths for model training.
+
+
+
+****
+
+![validation workflow by DeepCap Smart Validation (DSV)](<../../../.gitbook/assets/image (232).png>)
+
+![validation workflow performed only by reviewers](<../../../.gitbook/assets/image (221).png>)
+
+![a hybrid method that combines DSV & reviewe mechanism](<../../../.gitbook/assets/image (222).png>)
+
+****
 
 ## Enable DeepCap Smart Validation (DSV)
 

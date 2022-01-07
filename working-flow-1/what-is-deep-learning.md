@@ -8,7 +8,7 @@ description: Classification, Detection & Segmentation
 
 "Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised" -- **Wikipedia**
 
-![](../.gitbook/assets/1-1-000001\_new.png)
+![](../.gitbook/assets/1-1-000001-new.png)
 
 Deep learning uses multiple layers to progressively extract higher level features from the raw input, achieving great breakthroughs in certain applications, especially in image analysis.
 

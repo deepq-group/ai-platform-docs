@@ -2,7 +2,7 @@
 
 ## My Job--Job List
 
-Click on the "My Job" tab, you can view the job list that was assigned by the project owner. The total cases that have been assigned to you and the cases that have not been annotated is shown in each job. Click on "ANNOTATE" and begin the annotation process.
+Click on the "My Job" tab, you can view the job list that was assigned by the project owner. The total cases that have been assigned to you and the cases that have not been annotated is shown in each job. Click on "**ANNOTATE**" or "**REVIEW**"and begin the annotation process.
 
 ![](<../.gitbook/assets/my job.png>)
 
@@ -45,3 +45,11 @@ Click on “SUBMIT” after annotating each case. You can also click on “<<”
 *   For larger images (>1000 both side), it may take some time to process complex annotation (e.g. segmentation), therefore it takes a while to reflect the changes after submit.
 
     ####
+
+## Review job -- Detail Page
+
+
+
+## Annotation Review
+
+![](<../.gitbook/assets/image (233).png>)

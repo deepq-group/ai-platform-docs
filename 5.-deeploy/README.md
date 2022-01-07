@@ -10,7 +10,7 @@ Running models on a fixed test set is never enough, bringing real-world data to 
 
 ![](<../.gitbook/assets/image (18) (2).png>)
 
-![](<../.gitbook/assets/image (233) (1).png>)
+![](<../.gitbook/assets/image (233) (1) (1).png>)
 
 ### Side Menu <a href="#side-menu" id="side-menu"></a>
 
