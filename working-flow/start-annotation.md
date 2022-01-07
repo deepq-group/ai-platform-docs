@@ -52,4 +52,11 @@ Click on “SUBMIT” after annotating each case. You can also click on “<<”
 
 ## Annotation Review
 
-![](<../.gitbook/assets/image (233).png>)
+![](<../.gitbook/assets/image (230).png>)
+
+* Pass：The annotation result meets the standard of the project and can be sent to training
+* Fail：The annotation or image does not qualify and therefore should be excluded and cannot be used to train models.
+
+Make sure to click on "**SUBMIT**" button to send out your review results
+
+* Return：The annotation is sent back to the annotator with comments attached.

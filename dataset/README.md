@@ -38,6 +38,6 @@ The dataset is shared between DeepCap and DeepQ AI Training, and can be used for
 
 * expanding each annotation shows the labels in the form of thumbnails, clicking on each thumbnail opens the image viewer for a more detailed inspection.
 
-![](<../.gitbook/assets/image (224).png>)
+![](<../.gitbook/assets/image (224) (1).png>)
 
-Other than the browsing tools, user can toggle on/off the labels by clicking on the ![](<../.gitbook/assets/image (230) (1).png>)
+Other than the browsing tools, user can toggle on/off the labels by clicking on the ![](<../.gitbook/assets/image (230) (1) (1).png>)
