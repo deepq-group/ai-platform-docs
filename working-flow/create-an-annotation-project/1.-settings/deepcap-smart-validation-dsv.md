@@ -1,6 +1,6 @@
 # Annotation Quality Control
 
-Label quality is an important factor in Deep Learning. In order to ensure the best labeling quality in each annotation project, users can choose from three validation method/workflow.
+Label quality is an important factor in Deep Learning. In order to ensure the best labeling quality in each annotation project, users can choose from three validation workflows to run your project.
 
 **DeepCap Smart Validation** provides a consistent rate based on DeepQ original algorithm for an iterative annotation process. The system suggests annotations and provides accurate ground truths for model training.
 
