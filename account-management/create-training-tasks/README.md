@@ -3,6 +3,6 @@
 * Click on the "CREATE NEW TASK" tab.
 * Select one of the following task type: Image Classification, Object Detection, and Image Segmentation.
 
-![](<../../.gitbook/assets/create training task.png>)
+![](../../.gitbook/assets/create-training-task.png)
 
 *

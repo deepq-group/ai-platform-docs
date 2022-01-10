@@ -2,7 +2,7 @@
 
 DeepQ AI Platform supports differnt types of labeld data such as classification, detection & segmentation. If a user has labels created by other annotation tools, just convert them into the formats described below then upload to the DeepQ AI platform. Once the dataset is accepted by the platform, you can train your models right away.
 
-![](<../.gitbook/assets/label format.jpg>)
+![](../.gitbook/assets/label-format.jpg)
 
 ## Image Classification:
 

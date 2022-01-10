@@ -50,7 +50,7 @@ AI Training allolws users to train & test their AI models with no coding experti
 
 Deeploy is where your models run on real world data, and provides the inference result to autorized users via AI worklist & viewer.
 
-![](<../.gitbook/assets/image (68) (1) (1).png>)
+![](../.gitbook/assets/image-68-1.png)
 
 ![](<../.gitbook/assets/image (220) (1).png>)
 

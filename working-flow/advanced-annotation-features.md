@@ -16,7 +16,7 @@ When annotating serial images such as CT or MRI, the user might want to duplicat
 
 In the annotation viewer, “propagate label” will automatically show up if the job is annotating continuous slices.
 
-![](<../.gitbook/assets/image (208) (1).png>)
+![](../.gitbook/assets/image-208.png)
 
 By clicking on “propagate labels”, the user is able to choose which slices will be tagged with the same label, and the type of label that will be assigned to these slices. For detection and segmentation, the user can simply assign “nothing to label” where the object does not exist. User can also exclude continuous slices in the same way by toggling “Exclude image”
 

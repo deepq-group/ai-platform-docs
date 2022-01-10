@@ -2,13 +2,13 @@
 
 Once a training task is up and running, the owner may view and manage the task through the task dashboard.
 
-![](<../.gitbook/assets/training-overview (1) (1).png>)
+![](<../.gitbook/assets/training-overview-1 (1).png>)
 
 * Training Accuracy demonstrates the relation between training progress and accuracy.
 * Progress shows the training progress of this task.
 * Training Model reveals the model used in this training task.
 
-![](<../.gitbook/assets/training accuracy.png>)
+![](../.gitbook/assets/training-accuracy.png)
 
 * Task Description will be shown here if any.
 * Hyperparameters: Unfold the column to see the detailed hyperparameters, you can also download it to deploy on your own model.
@@ -18,4 +18,4 @@ Once a training task is up and running, the owner may view and manage the task t
 
 * Inference Dataset shows all the cases that have been trained in this task.
 
-![](<../.gitbook/assets/inference dataset.png>)
+![](../.gitbook/assets/inference-dataset.png)

@@ -22,7 +22,7 @@ Unlike classification, object detection systems make predictions in terms of a b
 
 For each bounding box, we measure an overlap between the predicted bounding box and the ground truth bounding box. This is measured by IoU (intersection over union), illustrated below.
 
-![Intersection over Union (IoU)](<../../.gitbook/assets/image (175) (1).png>)
+![Intersection over Union (IoU)](../../.gitbook/assets/image-175.png)
 
 ![](<../../.gitbook/assets/image (199).png>)
 

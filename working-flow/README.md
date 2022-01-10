@@ -10,7 +10,7 @@ DeepCap is where you turn your images into valuable. Since deep learning is a da
 
 ![](<../.gitbook/assets/image (223) (1) (1).png>)
 
-![](<../.gitbook/assets/deepcap-overview (2) (2).png>)
+![](../.gitbook/assets/deepcap-overview-2.png)
 
 ### Project List
 

@@ -10,7 +10,7 @@ DeepQ AI Training is where the neural network meets datasets. By training tasks 
 
 ![](<../.gitbook/assets/4-01 (3).png>)
 
-![](<../.gitbook/assets/training-overview (1) (1) (1).png>)
+![](../.gitbook/assets/training-overview-1-1.png)
 
 ## Project List
 
