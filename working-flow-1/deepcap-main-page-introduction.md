@@ -2,7 +2,7 @@
 
 The moment you log into DeepQ AI Platform, you can choose from the three modules to start from. Please contact the system admin for your module authorization.
 
-![](<../.gitbook/assets/image (216) (1).png>)
+![](../.gitbook/assets/con-1-2-1.png)
 
 ## Platform modules overview
 
@@ -10,17 +10,17 @@ The complete DeepQ AI Platform consists of three main modules：
 
 * DeepCap：Dataset management & image annotation
 * AI Training：Model selection/tuning & evaluation
-* Deeploy：Real-time model deployment, worklist & AI viewer&#x20;
+* Deeploy：Real-time model deployment, worklist & AI viewer
 
-![The complete DeeQ AI Platform](<../.gitbook/assets/image (221) (1) (1) (1) (1).png>)
+![The complete DeeQ AI Platform](../.gitbook/assets/con-1-2-2.png)
 
 ## DeepCap Overview
 
 DeepCap is where you can create, manage or join an annotation project
 
-![](../.gitbook/assets/1-2.1-300009.png)
+![](../.gitbook/assets/con-1-2-3.png)
 
-![](../.gitbook/assets/1-2.1-300003.png)
+![](../.gitbook/assets/con-1-2-4.png)
 
 ### Side Menu
 
@@ -34,11 +34,11 @@ DeepCap is where you can create, manage or join an annotation project
 
 AI Training allolws users to train & test their AI models with no coding expertise
 
-![](../.gitbook/assets/1-2.1-300008.png)
+![](../.gitbook/assets/con-1-2-5.png)
 
 ​
 
-![](../.gitbook/assets/1-2.1-300002.png)
+![](../.gitbook/assets/con-1-2-6.png)
 
 ### Side Menu <a href="#side-menu" id="side-menu"></a>
 
@@ -50,9 +50,9 @@ AI Training allolws users to train & test their AI models with no coding experti
 
 Deeploy is where your models run on real world data, and provides the inference result to autorized users via AI worklist & viewer.
 
-![](../.gitbook/assets/image-68-1.png)
+![](../.gitbook/assets/con-1-2-7.png)
 
-![](<../.gitbook/assets/image (220) (1).png>)
+![](../.gitbook/assets/con-1-2-8.png)
 
 ### Side Menu <a href="#side-menu" id="side-menu"></a>
 

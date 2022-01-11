@@ -8,15 +8,15 @@ description: Classification, Detection & Segmentation
 
 "Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised" -- **Wikipedia**
 
-![](../.gitbook/assets/1-1-000001\_new.png)
+![](../.gitbook/assets/con-1-1-1.png)
 
 Deep learning uses multiple layers to progressively extract higher level features from the raw input, achieving great breakthroughs in certain applications, especially in image analysis.
 
-![Various applications of deep learning in Medical image analysisA Survey on Deep Learning in Medical Image Analysis](<../.gitbook/assets/image (107).png>)
+![Various applications of deep learning in Medical image analysisA Survey on Deep Learning in Medical Image Analysis](../.gitbook/assets/con-1-1-2.png)
 
 ## Two-phases of Deep Learning model training
 
-![](../.gitbook/assets/1-000005.png)
+![](../.gitbook/assets/con-1-1-3.png)
 
 \~[https://en.wikipedia.org/wiki/Training,\_validation,\_and\_test\_sets](https://en.wikipedia.org/wiki/Training,\_validation,\_and\_test\_sets)\~
 
@@ -26,10 +26,10 @@ Finally, the **test data set** is a data set used to provide an unbiased evaluat
 
 ## What is Transfer Learning?
 
-![](../.gitbook/assets/1-000004.png)
+![](../.gitbook/assets/con-1-1-4.png)
 
 \~[https://en.wikipedia.org/wiki/Transfer\_learning](https://en.wikipedia.org/wiki/Transfer\_learning)\~
 
 **Transfer learning (TL)** is a research problem in machine learning (ML) that focuses on storing knowledge gained while solving one problem (source) and applying it to a different but related problem (target). For example, knowledge gained while learning to recognize cats (source) could apply when trying to recognize tigers (target).
 
-\
+\\

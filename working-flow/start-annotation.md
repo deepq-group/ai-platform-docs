@@ -8,7 +8,7 @@ Click on the "My Job" tab, you can view the job list that was assigned by the pr
 
 ## Annotation Job--Detail Page
 
-All information an annotator needs to know is shown in the annotation job detail page, from annotation progress in terms of # of jobs left & completion percentage, method & labels and the project owners instructions.&#x20;
+All information an annotator needs to know is shown in the annotation job detail page, from annotation progress in terms of # of jobs left & completion percentage, method & labels and the project owners instructions.
 
 ![](<../.gitbook/assets/detail-page .png>)
 
@@ -52,15 +52,15 @@ Click on “**SUBMIT**” after annotating each case. You can also click on “<
 * Once the case is submitted, the label cannot be changed unless returned by reviewer
 *   For larger images (>1000 both side), it may take some time to process complex annotation (e.g. segmentation), therefore it takes a while to reflect the changes after submit.
 
-    ####
+
 
 ## Review job -- Detail Page
 
-Once you click on the review job assigned to you, the ncessary review job information can be found in this overview page:  review progress in terms of # of jobs left & completion percentage, method & labels and the project owners instructions and all review jobs and their respective status listed below.&#x20;
+Once you click on the review job assigned to you, the ncessary review job information can be found in this overview page: review progress in terms of # of jobs left & completion percentage, method & labels and the project owners instructions and all review jobs and their respective status listed below.
 
 ![](<../.gitbook/assets/image (224).png>)
 
-All assigned studies that have been annotated/submitted by annoatators and waiting to be reviewed will appear on the list at the bottom.&#x20;
+All assigned studies that have been annotated/submitted by annoatators and waiting to be reviewed will appear on the list at the bottom.
 
 ![](<../.gitbook/assets/image (217).png>)
 
