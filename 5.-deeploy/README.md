@@ -8,9 +8,9 @@ description: >-
 
 Running models on a fixed test set is never enough, bringing real-world data to the algorithm is the beginning of continual self-improvement. Deeploy receives DICOM images from your PACS and dispatches them to coresponding deployments that runs models of different purposes.
 
-![](../.gitbook/assets/image-18-2.png)
+![](../.gitbook/assets/con-5-0-1.png)
 
-![](<../.gitbook/assets/image (233) (1) (1).png>)
+![](../.gitbook/assets/con-5-0-2.png)
 
 ### Side Menu <a href="#side-menu" id="side-menu"></a>
 

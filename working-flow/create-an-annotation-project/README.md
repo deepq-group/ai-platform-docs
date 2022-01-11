@@ -1,9 +1,5 @@
 # 3.1 Create an Annotation Project
 
-DeepCap is an annotation tool with a project-based workflow and a simple interface. You can create project, import dataset, complete label and annotation quality control setting, and add members to the project.
+DeepCap is an annotation tool with a project-based workflow and a simple interface. You can create a new annotation project by completing the following steps: configure project settings, select dataset & define labels and add project members.
 
-### Create Project
-
-\*\*\*\*![](<../../.gitbook/assets/image (15).png>)**CREATE PROJECT:** Click on this button and start the project settings.
-
-![](<../../.gitbook/assets/image (85).png>)
+![](../../.gitbook/assets/con-3-1-0.png)

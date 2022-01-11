@@ -8,9 +8,9 @@ description: >-
 
 DeepCap is where you turn your images into valuable. Since deep learning is a data-driven technology, the quallity of your annotation plays a critical role in your AI development/application.
 
-![](<../.gitbook/assets/image (223) (1) (1).png>)
+![](../.gitbook/assets/con-3-0-1.png)
 
-![](../.gitbook/assets/deepcap-overview-2.png)
+![](../.gitbook/assets/con-3-0-2.png)
 
 ### Project List
 
@@ -18,11 +18,10 @@ In the “Project” tab, you can view the annotation status of all the projects
 
 **PUBLICATION DATE:** Sort your projects by using the “Publication Date” and “Last Modified”.
 
-\*\*\*\*![](<../.gitbook/assets/image (12).png>)**STATUS:** Filter your projects by using the project status: “On going”, "Finished" and “Stopped”.
+\*\*\*\*![](../.gitbook/assets/con-icon-11.png)**STATUS:** Filter your projects by using the project status: “On going”, "Finished" and “Stopped”.
 
-\*\*\*\*![](<../.gitbook/assets/image (13).png>) **SEARCH**: Search your projects using project name.
+\*\*\*\*![](../.gitbook/assets/con-icon-6.png) **SEARCH**: Search your projects using project name.
 
 ### Create Project
 
-\*\*\*\*![](<../.gitbook/assets/image (15).png>)**CREATE PROJECT:** Click on this button and start the project settings.
-
+\*\*\*\*![](../.gitbook/assets/con-icon-13.png)**CREATE PROJECT:** Click on this button and start the project settings.

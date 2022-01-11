@@ -8,7 +8,7 @@ description: >-
 
 DeepQ AI Platform support three types of annotation: image classification, object detection & object segmentation
 
-![](<../.gitbook/assets/image (219).png>)
+![](../.gitbook/assets/con-2-1-1.png)
 
 ## Dataset Format
 
@@ -20,11 +20,11 @@ The accepted dataset format is described below, please check your dataset and im
 * **With annotation:** A folder named “**image**” \_\_in lowercase and a file specifying the label of each image, “**label.csv**” should be presented here. You can either zip “image” and “label.csv” or put them into another folder and zip that folder.
 * **For annotation file (label.csv) format, please refer to** [**Annotation Data Formats**](annotation-data-formats.md) _\*\*_
 
-![](<../.gitbook/assets/image (105).png>)
+![](../.gitbook/assets/con-2-1-2.png)
 
 ### Import multi-class data from separate folders
 
-![](<../.gitbook/assets/image (106).png>)
+![](../.gitbook/assets/con-2-1-3.png)
 
 #### Notice:
 
@@ -33,9 +33,9 @@ For Windows users, please compress your file by "Bandizip" tool and process as t
 1. Compression Setting: Select "Store Unicode file names in an extra header field if Zip files (UTF-8)".
 2. Compress "xxx.zip".
 
-![](../.gitbook/assets/bandizip3.PNG)
+![](../.gitbook/assets/con-2-1-4.png)
 
-![](../.gitbook/assets/bandizip4.PNG)
+![](../.gitbook/assets/con-2-1-5.PNG)
 
 #### Naming the zip file:
 
