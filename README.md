@@ -22,17 +22,17 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 ## [3. DeepCap (Annotation tool):](working-flow/)
 
-[3.1 Create an Annotation Project](broken-reference/)
+[3.1 Create an Annotation Project](working-flow/create-an-annotation-project/)
 
-&#x20;  [3.1.1 Settings](broken-reference/)
+[   3.1.1 Settings](working-flow/create-an-annotation-project/1.-settings/)
 
-&#x20;     [3.1.1.1 Annotation Quality Control](broken-reference/)
+[      3.1.1.1 Annotation Quality Control](working-flow/create-an-annotation-project/1.-settings/deepcap-smart-validation-dsv.md)
 
-&#x20;  [3.1.2 Dataset & Labels](broken-reference/)
+[   3.1.2 Dataset & Labels](working-flow/create-an-annotation-project/2.-dataset-and-labels.md)
 
-&#x20;  [3.1.3 Members](broken-reference/)
+[   3.1.3 Members](working-flow/create-an-annotation-project/3.-members.md)
 
-[   ](broken-reference/)[3.1.4 Publishing](broken-reference/)
+[   3.1.4 Publishing](working-flow/create-an-annotation-project/4.-publishing.md)
 
 [3.2 Start Annotation](working-flow/start-annotation.md)
 
@@ -40,7 +40,7 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 [3.4 Advanced functions](working-flow/advanced-annotation-features.md)
 
-&#x20;  [3.4.1 Propagate Labels](working-flow/advanced-annotation-features.md#3-4-1-propagate-labels)
+[   3.4.1 Propagate Labels](working-flow/advanced-annotation-features.md#propagate-labels)
 
 &#x20;  [3.4.2 Combine Labels](working-flow/advanced-annotation-features.md#3-4-2-combine-labels)
 
@@ -74,7 +74,7 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 &#x20;  [4.6.3 Object Segmentation](account-management/deep-learning-metrics-explained/object-segmentation.md)
 
-## [5. Deeploy](5.-deeploy)
+## [5. Deeploy](5.-deeploy/)
 
 [5.1 AI worklist & viewer](5.-deeploy/5.1-ai-worklist-and-viewer.md)
 
@@ -86,9 +86,9 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 [6.2 GPU usage](faq/gpu-usage.md)
 
-[6.3 Change Log](faq/6.3-change-log)
+[6.3 Change Log](faq/6.3-change-log/)
 
-## [7. Legal Documents](./#7.-legal-documents)
+## [7. Legal Documents](legal-documents.md)
 
 [Terms of Use](legal-documents.md#7.1-terms-of-use)
 
