@@ -37,7 +37,7 @@ You can filter the studies by annotation status: Remaining, Finished, Returned.
 ![](../.gitbook/assets/con-3-2-5.png)
 
 * You can view the WW/WL of that image by the top left button, select it to adjust the WW/WL of the image.
-* Click on ![](<../.gitbook/assets/Filled-Copy 2-1.svg>) _\*\*_ and slide to zoom in and zoom out the images.
+* Click on ![](../.gitbook/assets/con-icon-6.png)  and slide to zoom in and zoom out the images.
 
 ![](../.gitbook/assets/con-3-2-6.png)
 

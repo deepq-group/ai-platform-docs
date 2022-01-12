@@ -13,6 +13,8 @@ Once an annotation project has been published and running, the project owner can
 * **Review progress:** This column shows the review progress that has completed by the reviewer.
 * **Export to training:** You can directly export the annotated data to DeepQ AI Training service by clicking on the bottom.
 
+
+
 ![](../.gitbook/assets/con-3-3-3.png)
 
 * You can add new annotators before the project is stopped and completed. The cases will be re-allocated once you add new annotators.
@@ -30,7 +32,7 @@ Once an annotation project has been published and running, the project owner can
 Dataset that cannot be exported for training.
 
 * Without annotation result: There is no any saved annotations for this dataset.
-* User exclude: A project Owner excludes (![](<../.gitbook/assets/image (10).png>)) that case.
+* User exclude: A project Owner excludes (![](../.gitbook/assets/con-icon-9.png)) that case.
 * System exclude: The DSV result excludes that case because of an unacceptably lower consistency rate.
 * Problematic image: Annotated as “Problematic image” by an annotator.
 * <mark style="color:red;">**The minimum annotation requirement for each class is 3 images. If the annotation contains class(es) with less than 3 images, it cannot be exported.**</mark>
