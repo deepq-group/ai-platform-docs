@@ -10,9 +10,23 @@ description: Classification, Detection & Segmentation
 
 ![](../.gitbook/assets/con-1-1-1.png)
 
-Deep learning uses multiple layers to progressively extract higher level features from the raw input, achieving great breakthroughs in certain applications, especially in image analysis.
+Deep learning uses multiple layers to progressively extract higher level features from the raw input, achieving great breakthroughs in certain applications, especially in image analysis.&#x20;
 
 ![Various applications of deep learning in Medical image analysisA Survey on Deep Learning in Medical Image Analysis](../.gitbook/assets/con-1-1-2.png)
+
+
+
+## 3 major applications of Deep Learning in image analysis
+
+
+
+![](../.gitbook/assets/con-1-1-5.png)
+
+**Image Classification：**Contextual image classification, a topic of pattern recognition in computer vision, is an approach of classification based on contextual information in images. The goal of this approach is to classify the images by using the contextual information. **** \~[https://en.wikipedia.org/wiki/Contextual\_image\_classification](https://en.wikipedia.org/wiki/Contextual\_image\_classification)\~
+
+**Object Detection：**Object detection is a computer technology related to computer vision and image processing that deals with detecting instances of semantic objects of a certain class (such as humans, buildings, or cars) in digital images and videos. \~[https://en.wikipedia.org/wiki/Object\_detection](https://en.wikipedia.org/wiki/Object\_detection)\~
+
+**Image Segmentation：**In digital image processing and computer vision, image segmentation is the process of **** partitioning a digital image into multiple image segments, also known as image regions or image objects (sets of pixels). \~[https://en.wikipedia.org/wiki/Image\_segmentation](https://en.wikipedia.org/wiki/Image\_segmentation)\~
 
 ## Two-phases of Deep Learning model training
 
@@ -31,5 +45,3 @@ Finally, the **test data set** is a data set used to provide an unbiased evaluat
 \~[https://en.wikipedia.org/wiki/Transfer\_learning](https://en.wikipedia.org/wiki/Transfer\_learning)\~
 
 **Transfer learning (TL)** is a research problem in machine learning (ML) that focuses on storing knowledge gained while solving one problem (source) and applying it to a different but related problem (target). For example, knowledge gained while learning to recognize cats (source) could apply when trying to recognize tigers (target).
-
-\\

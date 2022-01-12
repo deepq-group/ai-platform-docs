@@ -9,9 +9,9 @@
 
 #### The complete DeepQ AI Platform consists of three main modules：
 
-* DeepCap：Dataset management & image annotation
-* AI Training：Model selection/tuning & evaluation
-* Deeploy：Real-time model deployment, worklist & AI viewer
+* **DeepCap：**Dataset management & image annotation
+* **AI Training：**Model selection/tuning & evaluation
+* **Deeploy：**Real-time model deployment, worklist & AI viewer
 
 ![](../.gitbook/assets/con-1-0-2.png)
 
