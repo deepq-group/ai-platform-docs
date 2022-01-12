@@ -14,6 +14,6 @@ Running models on a fixed test set is never enough, bringing real-world data to 
 
 ### Side Menu <a href="#side-menu" id="side-menu"></a>
 
-**Worklist**: A complete list of the image studies processed by model deployments that are authorized to you, shown from newest to oldest. Users can filter the worklist by selecting models by clicking on "MODEL".
+**Worklist**: A complete list of the image studies processed by model deployments that are authorized to you, shown from newest to oldest. Users can filter the worklist by selecting models by clicking on "**MODEL**".
 
 **Authorized Models**: You can view the detials of model deployments that are authorized to you. please conatct system admin for model deployment authorization.

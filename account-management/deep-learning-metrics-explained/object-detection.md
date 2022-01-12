@@ -4,13 +4,9 @@
 
 ![](../../.gitbook/assets/con-4-6-34.png)
 
-###
-
 **Average Precision (AP):**
 
-```
-      In computer vision, mAP is a popular evaluation metric used for object detection \(i.e. localisation and classification\). Localization determines the location of an instance \(e.g. bounding box coordinates\) and classification tells you what it is \(e.g. a dog or cat\).
-```
+In computer vision, mAP is a popular evaluation metric used for object detection (i.e. localisation and classification). Localization determines the location of an instance (e.g. bounding box coordinates) and classification tells you what it is (e.g. a dog or cat).
 
 ![Image classification and localization](../../.gitbook/assets/con-4-6-23.png)
 

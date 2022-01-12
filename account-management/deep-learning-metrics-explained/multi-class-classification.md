@@ -1,7 +1,5 @@
 # Image Classification
 
-###
-
 Inference report: Classification
 
 ![](../../.gitbook/assets/con-4-6-3.png)

@@ -18,8 +18,6 @@ Hyperparameter setting in DeepQ AI platform involves three different sections: D
 
 ![](../.gitbook/assets/con-4-5-3.png)
 
-###
-
 **Data Loader:**
 
 Data loading is an important component of any machine learning system. When we work with tiny datasets, we can get away with loading an entire dataset into GPU memory. With larger datasets, we must store examples in main memory. And when datasets grow too large to fit into main memory, data loading can become performance-critical.
@@ -66,9 +64,7 @@ Population Based Training (PBT) learns both hyperparameter values and network we
 
 ![](../.gitbook/assets/con-4-5-8.png)
 
-###
-
-**Tuning Method—parameters:**
+### **Tuning Method—parameters:**
 
 **Learning rate:** In machine learning and statistics, the learning rate is a tuning parameter in an optimization algorithm that determines the step size at each iteration while moving toward a minimum of a loss function. Since it influences to what extent newly acquired information overrides old information, it metaphorically represents the speed at which a machine learning model "learns".
 
@@ -84,7 +80,7 @@ Population Based Training (PBT) learns both hyperparameter values and network we
 
 ![](../.gitbook/assets/con-4-5-9.png)
 
-**Data augmentation:**
+### **Data augmentation:**
 
 Data augmentation in data analysis are techniques used to increase the amount of data by adding slightly modified copies of already existing data or newly created synthetic data from existing data. It acts as a regularizer and helps reduce overfitting when training a machine learning model.
 
