@@ -64,8 +64,6 @@ All assigned studies that have been annotated/submitted by annoatators and waiti
 
 ![](../.gitbook/assets/con-3-2-8.png)
 
-##
-
 ## Annotation Review
 
 ![](../.gitbook/assets/con-3-2-9.png)

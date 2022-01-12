@@ -33,32 +33,35 @@ Dataset that cannot be exported for training.
 * User exclude: A project Owner excludes (![](<../.gitbook/assets/image (10).png>)) that case.
 * System exclude: The DSV result excludes that case because of an unacceptably lower consistency rate.
 * Problematic image: Annotated as “Problematic image” by an annotator.
-*   <mark style="color:red;">**The minimum annotation requirement for each class is 3 images. If the annotation contains class(es) with less than 3 images, it cannot be exported.**</mark>
+* <mark style="color:red;">**The minimum annotation requirement for each class is 3 images. If the annotation contains class(es) with less than 3 images, it cannot be exported.**</mark>
 
-    **\*\*\*\***
-
-## Annotation Conditions for Training
+## Annotation requirements for Training
 
 To deliver the best possible training performance, please ensure that your annotation meets our system requirements.
 
 * **Image Classification**:
 
-The annotated dataset should contain at least two categories and each category should be used as an annotation on at least two cases. For example: Class“A” was used on case 001 and case 002, and Class“B” was used on case 003 and case 004.
+The annotated dataset should contain at **least two categories** and each category should be used as an annotation on at least **three images**. For example: Class“A” was used on image 001, 002 & 005, and Class“B” was used on image 003, 004 & 006.
 
-| Dataset  | Annotation |
-| -------- | ---------- |
-| Case 001 | A          |
-| Case 002 | A          |
-| Case 003 | B          |
-| Case 004 | B          |
+| Dataset   | Annotation |
+| --------- | ---------- |
+| Image 001 | A          |
+| Image 002 | A          |
+| Image 003 | B          |
+| Image 004 | B          |
+| Image 005 | A          |
+| Image 006 | B          |
 
 * **Object Detection**
 
-The annotated dataset must contain at least three cases, and each case should be annotated with at least one bounding box.\
-For example, Cases 001, 002, and 003 should be annotated with at least One bounding box.
+The annotated dataset must contain at least three images, and each case should be annotated with at least one bounding box or "nothing to label".\
+For example, Image 001, 002, and 005 were annotated with at least One bounding box.
 
-| Dataset  | Annotation                |
-| -------- | ------------------------- |
-| Case 001 | Bounding Box with Tag “A” |
-| Case 002 | Bounding Box with Tag “A” |
-| Case 003 | Bounding Box with Tag “B” |
+| Dataset   | Annotation                |
+| --------- | ------------------------- |
+| Image 001 | Bounding Box : “ Class A” |
+| Image 002 | Bounding Box： Class “A”   |
+| Image 003 | nothing to label          |
+| Image 004 | nothing to label          |
+| Image 005 | Bounding Box： Class “A”   |
+| Image 006 | nothing to label          |
