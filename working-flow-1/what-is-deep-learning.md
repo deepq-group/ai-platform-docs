@@ -6,7 +6,7 @@ description: Classification, Detection & Segmentation
 
 ## Deep Learning and its application in image analysis
 
-"Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised" -- **Wikipedia**
+"Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised"  \~[https://en.wikipedia.org/wiki/Deep\_learning](https://en.wikipedia.org/wiki/Deep\_learning)\~
 
 ![](../.gitbook/assets/con-1-1-1.png)
 
