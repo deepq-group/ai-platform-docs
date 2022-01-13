@@ -54,16 +54,16 @@ The annotated dataset should contain at **least two categories** and each catego
 | Image 005 | A          |
 | Image 006 | B          |
 
-* **Object Detection**
+* **Object Detection/segmentation**
 
-The annotated dataset must contain at least three images, and each case should be annotated with at least one bounding box or "nothing to label".\
-For example, Image 001, 002, and 005 were annotated with at least One bounding box.
+The annotated dataset must contain at least three images, and each case should be annotated with at least one bounding box/object or "nothing to label".\
+For example, Image 001, 002, and 005 were annotated with at least One bounding box/object.
 
-| Dataset   | Annotation                |
-| --------- | ------------------------- |
-| Image 001 | Bounding Box : “ Class A” |
-| Image 002 | Bounding Box： Class “A”   |
-| Image 003 | nothing to label          |
-| Image 004 | nothing to label          |
-| Image 005 | Bounding Box： Class “A”   |
-| Image 006 | nothing to label          |
+| Dataset   | Annotation                       |
+| --------- | -------------------------------- |
+| Image 001 | Bounding Box/object : “ Class A” |
+| Image 002 | Bounding Box/object： Class “A”   |
+| Image 003 | nothing to label                 |
+| Image 004 | nothing to label                 |
+| Image 005 | Bounding Box/object： Class “A”   |
+| Image 006 | nothing to label                 |

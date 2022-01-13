@@ -24,19 +24,18 @@ The accepted dataset format is described below, please check your dataset and im
 
 ### Import multi-class data from separate folders
 
+Images can also be stored in different folders under "Classes" then upload the compressed zip file. By doing so, the DeepQ AI Platform will automatically label the images according to the folder name, e.g. "Class A", and no additional annotation effort will be needed.&#x20;
+
 ![](../.gitbook/assets/con-2-1-3.png)
 
-#### Notice:
+### Zip-tool Notice:
 
 For Windows users, please compress your file by "Bandizip" tool and process as the following steps if the name of your images are non-English format.
 
 1. Compression Setting: Select "Store Unicode file names in an extra header field if Zip files (UTF-8)".
 2. Compress "xxx.zip".
+3. **Naming the zip file:** The name of the dataset will be the same as that of the zip file you uploaded, which cannot be edited in the “Dataset” tab. You can rename the zip file before you upload it.
 
 ![](../.gitbook/assets/con-2-1-4.png)
 
 ![](../.gitbook/assets/con-2-1-5.PNG)
-
-#### Naming the zip file:
-
-The name of the dataset should be the same as that of the zip file you uploaded, which cannot be edited in the “Dataset” tab. You can rename the zip file before you upload it.

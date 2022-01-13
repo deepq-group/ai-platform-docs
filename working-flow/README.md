@@ -18,10 +18,10 @@ In the “Project” tab, you can view the annotation status of all the projects
 
 **PUBLICATION DATE:** Sort your projects by using the “Publication Date” and “Last Modified”.
 
-\*\*\*\*![](../.gitbook/assets/con-icon-11.png)**STATUS:** Filter your projects by using the project status: “On going”, "Finished" and “Stopped”.
+![](../.gitbook/assets/con-icon-11.png)**STATUS:** Filter your projects by using the project status: “On going”, "Finished" and “Stopped”.
 
-\*\*\*\*![](../.gitbook/assets/con-icon-6.png) **SEARCH**: Search your projects using project name.
+![](../.gitbook/assets/con-icon-6.png) **SEARCH**: Search your projects using project name.
 
 ### Create Project
 
-\*\*\*\*![](../.gitbook/assets/con-icon-13.png)**CREATE PROJECT:** Click on this button and start the project settings.
+![](../.gitbook/assets/con-icon-13.png)**CREATE PROJECT:** Click on this button and start the project settings.

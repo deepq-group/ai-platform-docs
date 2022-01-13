@@ -4,16 +4,14 @@
 
 ![](../.gitbook/assets/account-management.png)
 
-* Click on the account button![](../.gitbook/assets/Filled.svg), and select "view my profile" link.
-* Click on the top right tab “ ![](../.gitbook/assets/Filled-Copy.svg) ” to change password.
-
-
+* Click on the account button![](../.gitbook/assets/con\_icon-1.png), and select "view my profile" link.
+* Click on the top right tab “ ![](../.gitbook/assets/con-icon-22.png) ” to change password.
 
 ### Module permission
 
 DeepQ AI Platform module & function permission is listed in the table below. Users can click on the upper right corner to switch modules, or contact the system administrator to check which modules do you have permission to access.
 
-| functions                                  | DeepCap | AI Training | Deeploy |
+| Functions                                  | DeepCap | AI Training | Deeploy |
 | ------------------------------------------ | :-----: | :---------: | :-----: |
 | Upload/manage dataset                      |    V    |      V      |         |
 | Create/manage annotation project           |    V    |             |         |
@@ -24,11 +22,8 @@ DeepQ AI Platform module & function permission is listed in the table below. Use
 
 ## Different roles in DeepCap
 
-For users that have permission to DeepCap module can play different roles in a annotation projecty. The difference of these roles in an annoatation project is explained below:
+For users that have permission to DeepCap module can play different roles in a annotation project. The difference of these roles in an annoatation project is explained below:
 
 * **Project Owner:** The owner of an annotation project & training task. He/ She can upload, create and manage datasets, annotation projects, and training tasks.
 * **Reviewer:** Assigned by the project owner to review the labeling results pass down by annotators.
 * **Annotator:** Assigned by the project owner to annotate the data.
-
-
-

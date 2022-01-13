@@ -25,9 +25,7 @@ DeepQ AI Platform supports differnt types of labeld data such as classification,
 * If an image contain more than 1 bounding boxes, it can be shown in multiple lines.
 * The bounding box lines must start from the first line. That is, there is no CSV header in the label file.
 * Pure number (e.g. 001) as class names must be double quoted. (e.g. "001").
-*   <mark style="color:red;">**The minimum annotation requirement for each class is 3 images. If the dataset contains class(es) with less than 3 images, the dataset will be rejected**</mark>
-
-    **\*\*\*\***
+* <mark style="color:red;">**The minimum annotation requirement for each class is 3 images. If the dataset contains class(es) with less than 3 images, the dataset will be rejected**</mark>
 
 ## Object Segmentation:
 

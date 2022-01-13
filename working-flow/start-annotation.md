@@ -2,7 +2,7 @@
 
 ## My Job--Job List
 
-Click on the "My Job" tab, you can view the job list that was assigned by the project owner. The total cases that have been assigned to you and the cases that have not been annotated is shown in each job. Click on "**ANNOTATE**" or "**REVIEW**"and begin the annotation process.
+Click on the "**My Job**" tab, you can view the job list that was assigned by the project owner. The total cases that have been assigned to you and the cases that have not been annotated is shown in each job. Click on "**ANNOTATE**" or "**REVIEW**"and begin the annotation process.
 
 ![](../.gitbook/assets/con-3-2-1.png)
 
@@ -45,7 +45,7 @@ You can filter the studies by annotation status: Remaining, Finished, Returned.
 
 #### After labeling the case:
 
-Click on “**SUBMIT**” after annotating each case. You can also click on “<<” to go back to the last case or click on “>>” to go to the next page without submission.
+Click on “**SUBMIT**” after annotating each case. You can also click on “**<<**” to go back to the last case or click on “**>>**” to go to the next page without submission.
 
 #### Notice:
 
