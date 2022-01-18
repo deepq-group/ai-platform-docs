@@ -1,22 +1,27 @@
-# 3. DeepCap \(Annotation tool\)
+---
+description: >-
+  DeepCap is where users can manage image datasets, create and run annotation
+  projects in order to produce deep-learninig ready datasets
+---
 
-![](../.gitbook/assets/image%20%28143%29.png)
+# 3. DeepCap (Annotation tool)
 
-![](../.gitbook/assets/deepcap-overview%20%282%29.png)
+DeepCap is where you turn your images into valuable. Since deep learning is a data-driven technology, the quallity of your annotation plays a critical role in your AI development/application.
 
-## Define the task
+![](../.gitbook/assets/con-3-0-1.png)
 
-* **Image Classification:**  One or multiple label can be marked on a case. 
-* **Object Detection:**  Use bounding box to detect and identify target objects.  
-* **Image Segmentation:** To segment and define the ROI \(range of interest\). _\*\*_
+![](../.gitbook/assets/con-3-0-2.png)
 
-## Project List
+### Project List
 
 In the “Project” tab, you can view the annotation status of all the projects that you have created.
 
 **PUBLICATION DATE:** Sort your projects by using the “Publication Date” and “Last Modified”.
 
-\*\*\*\*![](../.gitbook/assets/image%20%287%29.png)**STATUS:** Filter your projects by using the project status: “On going”, "Finished" and “Stopped”.
+![](../.gitbook/assets/con-icon-11.png)**STATUS:** Filter your projects by using the project status: “On going”, "Finished" and “Stopped”.
 
-\*\*\*\*![](../.gitbook/assets/image%20%2821%29.png) **SEARCH**: Search your projects using project name.
+![](../.gitbook/assets/con-icon-6.png) **SEARCH**: Search your projects using project name.
 
+### Create Project
+
+![](../.gitbook/assets/con-icon-13.png)**CREATE PROJECT:** Click on this button and start the project settings.
