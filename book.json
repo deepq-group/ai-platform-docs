@@ -6,9 +6,14 @@
     "insert-logo",
     "hide-element",
     "image-captions",
+    "favicon-absolute",
     "back-to-top-button"
   ],
   "pluginsConfig": {
+    "favicon-absolute":{
+      "favicon": "/favicon.ico",
+      "appleTouchIconPrecomposed152": "/icon512.png"
+    },
     "hide-element": {
       "elements": [
         ".gitbook-link"
