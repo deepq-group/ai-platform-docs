@@ -11,8 +11,8 @@
   ],
   "pluginsConfig": {
     "favicon-absolute":{
-      "favicon": "/favicon.ico",
-      "appleTouchIconPrecomposed152": "/icon512.png"
+      "favicon": "favicon.ico",
+      "appleTouchIconPrecomposed152": "logo512.png"
     },
     "hide-element": {
       "elements": [
