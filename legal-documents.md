@@ -1,6 +1,6 @@
 # 7. Legal Documents
 
-### [Terms of Use](https://storage.googleapis.com/aip-dev-assets/legal/AI-Platform-Terms-of-Use-EN-20210407.pdf)
+### [Terms of Use](https://storage.googleapis.com/aip-dev-assets/legal/AI-Platform-Terms-of-Use-EN-20220719.pdf)
 
 ### [Privacy Policy](https://storage.googleapis.com/aip-dev-assets/legal/AI-Platform-Privacy-Policy-EN-20200101.pdf)
 
