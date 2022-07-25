@@ -41,7 +41,6 @@
   * [6.1 System notifications](faq/ai-training-related-issues.md)
   * [6.2 GPU usage](faq/gpu-usage.md)
   * [6.3 Change Log](faq/6.3-change-log/README.md)
-    * [V2.1](faq/6.3-change-log/v2.1.md)
     * [V2.0.1](faq/6.3-change-log/v2.0.1.md)
     * [V2.1.0](faq/6.3-change-log/v2.1.0.md)
 * [7. Legal Documents](legal-documents.md)
