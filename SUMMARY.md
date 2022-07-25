@@ -10,6 +10,7 @@
   * [2.2 Annotation Data Formats](dataset/annotation-data-formats.md)
   * [2.3 Import LabelMe annotation](dataset/import-labelme-annotation.md)
   * [2.4 Manage Datasets](dataset/untitled.md)
+  * [2.5 Combine Dataset](dataset/2.5-combine-dataset.md)
 * [3. DeepCap (Annotation tool)](working-flow/README.md)
   * [3.1 Create an Annotation Project](working-flow/create-an-annotation-project/README.md)
     * [1. Settings](working-flow/create-an-annotation-project/1.-settings/README.md)
