@@ -4,7 +4,7 @@ Other than uploading datasets from a local computer, users may select datasets t
 
 ![Select "Host Server" to upload datasets that were stored on the system.](../../.gitbook/assets/con-2-6-1.png)
 
-![The next step requires user to select from the 3 supporting data formats](../../.gitbook/assets/con-2-3-3-2\_new.png)
+![The next step requires user to select one of the three supporting data formats](../../.gitbook/assets/con-2-3-3-2\_new.png)
 
 ![Dicom dataset list](../../.gitbook/assets/con-2-3-3-3\_new.png)
 
