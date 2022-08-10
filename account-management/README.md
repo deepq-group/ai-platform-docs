@@ -12,7 +12,7 @@ DeepQ AI Training is where the neural network meets datasets. By training tasks 
 
 ![](../.gitbook/assets/con-4-0-2.png)
 
-## Project List
+## Task List
 
 In the “Task” tab, you can view the training status of all the tasks that you have created.
 

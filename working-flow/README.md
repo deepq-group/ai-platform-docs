@@ -22,6 +22,9 @@ In the “Project” tab, you can view the annotation status of all the projects
 
 ![](../.gitbook/assets/con-icon-6.png) **SEARCH**: Search your projects using project name.
 
-### Create Project
-
 ![](../.gitbook/assets/con-icon-13.png)**CREATE PROJECT:** Click on this button and start the project settings.
+
+### Dataset
+
+### My Job
+

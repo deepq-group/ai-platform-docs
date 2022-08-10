@@ -2,7 +2,7 @@
 
 ###
 
-![](<../.gitbook/assets/AIP upload dataset flowchart.png>)
+![](<../../.gitbook/assets/AIP upload dataset flowchart.png>)
 
 ### Dataset Check tool
 
