@@ -1,6 +1,6 @@
 # Upload from Host Server
 
-Other than uploading datasets from local computer,&#x20;
+Other than uploading datasets from a local computer, users may select datasets that have been placed on the DeepQ AI platform's host server. Please contact the system admin or DeepQ personnel for more information about these datasets.
 
 ![](../../.gitbook/assets/con-2-6-1.png)
 
