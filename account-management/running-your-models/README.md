@@ -8,7 +8,7 @@
 
 * There are two modes of model inference: batch & real-time.
 
-![](<../../.gitbook/assets/batch and realtime.png>)
+![](../../.gitbook/assets/con-4-3-0.png)
 
 ### Real-time inference
 

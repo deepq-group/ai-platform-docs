@@ -2,9 +2,9 @@
 
 ### **Manage user profile / Change Password**
 
-![](../.gitbook/assets/account-management.png)
+![](../.gitbook/assets/con-1-3.png)
 
-* Click on the account button![](../.gitbook/assets/con\_icon-1.png), and select "view my profile" link.
+* Click on the account button![](../.gitbook/assets/con-icon-1.png), and select "view my profile" link.
 * Click on the top right tab “ ![](../.gitbook/assets/con-icon-22.png) ” to change password.
 
 ### Module permission
