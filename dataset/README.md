@@ -6,7 +6,7 @@ description: >-
 
 # 2. Dataset
 
-The dataset is shared between DeepCap and DeepQ AI Training, and can be used for annotation, model training and testing.
+Datasets are shared between DeepCap and DeepQ AI Training, and can be used for annotation, model training and testing.
 
 ![](../.gitbook/assets/con-2-0.png)
 
