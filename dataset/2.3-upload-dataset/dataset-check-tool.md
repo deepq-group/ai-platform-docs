@@ -1,8 +1,6 @@
 # Dataset Check tool
 
-You can check the dataset folder structure & file contents before you upload to avoid errors and save time. for more inforamtion about dataset structure, please see [2.1 Dataset Format](../upload-dataset.md).&#x20;
-
-Click on "Upload Dataset" and select "Dataset Check Tool" to star this process.
+You can check the dataset folder structure & file contents before you upload to avoid errors and save time. Click on "Upload Dataset" and select "Dataset Check Tool" to star this process.
 
 ![Running the "Dataset Check Tool" before uploading the zipped file may save you precious time](../../.gitbook/assets/con-2-6-1.png)
 
