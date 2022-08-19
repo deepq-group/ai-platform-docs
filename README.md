@@ -18,17 +18,23 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 [2.3 Upload Dataset](dataset/2.3-upload-dataset/)
 
-&#x20; 2.3.1 Dataset Check Tool
+[  2.3.1 Dataset Check Tool](dataset/2.3-upload-dataset/dataset-check-tool.md)
 
-&#x20; 2.3.2 Upload from My Computer
+[  2.3.2 Upload from My Computer](dataset/2.3-upload-dataset/upload-from-my-computer.md)
 
-&#x20; 2.3.3 Upload from Host Server
+[  2.3.3 Upload from Host Server](dataset/2.3-upload-dataset/upload-from-host-server.md)
 
 [2.4 Import LabelMe annotation](dataset/import-labelme-annotation.md)
 
 [2.5 Manage Datasets](dataset/untitled.md)
 
 [2.6 Combine Datasets](dataset/2.6-combine-datasets/)
+
+[  2.6.1 Select Datasets](dataset/2.6-combine-datasets/1.-select-datasets.md)
+
+[  2.6.2 Select Annotation Types](dataset/2.6-combine-datasets/2.-select-annotation-types.md)
+
+[  2.6.3 Review & Combine](dataset/2.6-combine-datasets/3.-review-and-combine.md)
 
 ## [3. DeepCap (Annotation tool):](working-flow/)
 
