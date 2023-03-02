@@ -43,6 +43,8 @@
     * [4.6.2 Object Detection](account-management/deep-learning-metrics-explained/object-detection.md)
     * [4.6.3 Object Segmentation](account-management/deep-learning-metrics-explained/object-segmentation.md)
   * [4.7 SSDL explained](account-management/4.7-ssdl-explained.md)
+  * [4.8 Training Report](account-management/4.8-training-report.md)
+  * [4.9 Inference report](account-management/4.9-inference-report.md)
 * [5. Deeploy](5.-deeploy/README.md)
   * [5.1 AI worklist & viewer](5.-deeploy/5.1-ai-worklist-and-viewer.md)
   * [5.2 Authorized Models](5.-deeploy/5.2-authorized-models.md)
