@@ -57,3 +57,4 @@
     * [V2.1.0](faq/6.3-change-log/v2.1.0.md)
     * [V2.2](faq/6.3-change-log/v2.2.md)
 * [7. Legal Documents](legal-documents.md)
+* [Tutorial videos](tutorial-videos.md)
