@@ -1,6 +1,6 @@
-# Model Training/Inference
+# 🎬 Model Training/Inference
 
-![](<../.gitbook/assets/TIMG\_Create training task\_AI Training.png>)
+### ![](<../.gitbook/assets/TIMG\_Create training task\_AI Training.png>)
 
 {% file src="../.gitbook/assets/06 Create training task.mp4" %}
 **=======================================================================**
@@ -12,6 +12,7 @@
 **=======================================================================**
 {% endfile %}
 
+AI Assisted Annotation\
 ![](<../.gitbook/assets/TIMG\_AI-Assisted annotation.png>)
 
 {% file src="../.gitbook/assets/10 AI-Assisted annotation.mp4" %}

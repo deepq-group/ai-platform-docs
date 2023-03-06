@@ -1,6 +1,7 @@
-# AI Assisted Annotation
+# 4.3.1 AI Assisted Annotation
 
-An algorithm trained to classify Chest X-ray images cannot help in segmenting tumors in brain MRI since each Deep learning algorithm is task-oriented. AI assisted annotation must start with an neural network trained specifically for the same purpose.
+An algorithm trained to classify Chest X-ray images cannot help in segmenting tumors in brain MRI since each Deep learning algorithm is task-oriented. AI assisted annotation must start with an neural network trained specifically for the same purpose.\
+<img src="../../.gitbook/assets/video_icon_small.jpg" alt="" data-size="line">
 
 ![](../../.gitbook/assets/con-4-3-9.png)
 
