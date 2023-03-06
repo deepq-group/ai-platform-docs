@@ -58,6 +58,6 @@
     * [V2.2](faq/6.3-change-log/v2.2.md)
 * [7. Legal Documents](legal-documents.md)
 * [Tutorial videos](tutorial-videos.md)
-  * [Dataset upload/management](tutorial-videos/dataset-upload-management.md)
+  * [Upload/Combine Dataset(s)](tutorial-videos/upload-combine-dataset-s.md)
   * [Annotation (DeepCap)](tutorial-videos/annotation-deepcap.md)
   * [Model Training/Inference](tutorial-videos/model-training-inference.md)
