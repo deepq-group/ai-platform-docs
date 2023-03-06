@@ -4,6 +4,6 @@ DeepQ AI Platform requires users to upload/import datasets from different source
 
 ![](../../.gitbook/assets/con-2-3-0\_new.png)
 
-For more instructions, please visit the "[Tutorial Video](../../tutorial-videos.md)" section
+<img src="../../.gitbook/assets/video_icon_small.jpg" alt="" data-size="line">For more instructions, please visit the "[Tutorial Video](../../tutorial-videos/)" section&#x20;
 
 ###
