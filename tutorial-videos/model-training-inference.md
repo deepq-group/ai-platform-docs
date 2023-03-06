@@ -1,6 +1,8 @@
 # 🎬 Model Training/Inference
 
-### ![](<../.gitbook/assets/TIMG\_Create training task\_AI Training.png>)
+### Create Training-task <a href="#video-create-training-task" id="video-create-training-task"></a>
+
+![](<../.gitbook/assets/TIMG\_Create training task\_AI Training.png>)
 
 {% file src="../.gitbook/assets/06 Create training task.mp4" %}
 **=======================================================================**
@@ -12,8 +14,7 @@
 **=======================================================================**
 {% endfile %}
 
-AI Assisted Annotation\
-![](<../.gitbook/assets/TIMG\_AI-Assisted annotation.png>)
+### AI Assisted Annotation ![](<../.gitbook/assets/TIMG\_AI-Assisted annotation.png>) <a href="#video-ai-assisted-annotation" id="video-ai-assisted-annotation"></a>
 
 {% file src="../.gitbook/assets/10 AI-Assisted annotation.mp4" %}
 **=======================================================================**
