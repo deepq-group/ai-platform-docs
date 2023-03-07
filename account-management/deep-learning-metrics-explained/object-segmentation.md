@@ -1,8 +1,8 @@
-# Object Segmentation
+# 4.6.3 Object Segmentation
 
 #### Inference report: Object segmentation
 
-![](../../.gitbook/assets/con-4-6-35.png)
+![](../../.gitbook/assets/con-4-6-3-3.png)
 
 In object segmentation, **F\_1, Precision, Recall, Specificity & Accuracy** calculation is based on threshold 0.5. (Please see object detection section for details)
 

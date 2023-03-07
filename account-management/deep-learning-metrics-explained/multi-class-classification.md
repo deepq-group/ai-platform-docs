@@ -1,12 +1,12 @@
-# Image Classification
+# 4.6.1 Image Classification
 
 Inference report: Classification
 
-![](../../.gitbook/assets/con-4-6-3.png)
+![](../../.gitbook/assets/con-4-6-3-5.png)
 
 The inference report of multi-class classification shows the overall accuracy & the ROC curve
 
-![](../../.gitbook/assets/con-4-6-4.png)
+![](../../.gitbook/assets/con-4-6-3-6.png)
 
 Confusion matrix and other metrics are listed in the table
 

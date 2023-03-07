@@ -1,8 +1,8 @@
-# Object Detection
+# 4.6.2 Object Detection
 
 #### Inference report: Object detection
 
-![](../../.gitbook/assets/con-4-6-34.png)
+![](../../.gitbook/assets/con-4-6-3-4.png)
 
 **Average Precision (AP):**
 
