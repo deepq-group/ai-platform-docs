@@ -1,4 +1,4 @@
-# Annotation (DeepCap)
+# 🎬 Annotation (DeepCap)
 
 ### ![](<../.gitbook/assets/TIMG\_Create annotation project\_DeepCap.png>)
 

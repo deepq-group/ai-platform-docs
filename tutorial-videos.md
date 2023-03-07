@@ -1,4 +1,4 @@
-# 🎞 Tutorial videos
+# 🎬 Tutorial videos
 
 [Upload/Combine Dataset(s)](tutorial-videos/dataset-upload-management.md)
 

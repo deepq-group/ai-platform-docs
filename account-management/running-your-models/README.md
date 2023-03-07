@@ -8,7 +8,7 @@
 
 * There are two modes of model inference: batch & real-time.
 
-![](<../../.gitbook/assets/con-4-3-0.png>)
+![](../../.gitbook/assets/con-4-3-0.png)
 
 ### Real-time inference
 
@@ -31,9 +31,11 @@
 
 ![](../../.gitbook/assets/con-4-3-6.png)
 
-* The performance of each inference job is presented by the metrics of each type of application. for more information, please see [Deep Learning metrics explained](../deep-learning-metrics-explained/).
+* The detailed performance of each inference job is summarized in the Inference Report. for more information, please see the following sections:\
+  [4.8.2-inference-report.md](../4.8-ai-insight/4.8.2-inference-report.md "mention")\
+  [deep-learning-metrics-explained](../deep-learning-metrics-explained/ "mention")
 
-![](../../.gitbook/assets/con-4-3-7.png)
+<figure><img src="../../.gitbook/assets/con-4-3-7-2.png" alt=""><figcaption></figcaption></figure>
 
 ### Prediction only
 
