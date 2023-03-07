@@ -2,8 +2,8 @@
 
 DeepQ AI Platform requires users to upload/import datasets from different sources, the dataset preparation flow is shown in the figure below.
 
-![](../../.gitbook/assets/con-2-3-0\_new.png)
+<mark style="color:yellow;">Tutorial Video:</mark><img src="../../.gitbook/assets/video_icon_small.jpg" alt="" data-size="line"> [dataset-upload-management.md](../../tutorial-videos/dataset-upload-management.md "mention")
 
-<img src="../../.gitbook/assets/video_icon_small.jpg" alt="" data-size="line">For more instructions, please visit the "[Tutorial Video](../../tutorial-videos.md)" section&#x20;
+![](../../.gitbook/assets/con-2-3-0\_new.png)
 
 ###

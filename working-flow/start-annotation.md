@@ -1,5 +1,7 @@
 # 3.2 Start Annotation
 
+<mark style="color:yellow;">Tutorial Video:</mark><img src="../.gitbook/assets/video_icon_small.jpg" alt="" data-size="line"> [#start-project](../tutorial-videos/annotation-deepcap.md#start-project "mention") [#annotation-tool-tips](../tutorial-videos/annotation-deepcap.md#annotation-tool-tips "mention")
+
 ## My Job--Job List
 
 Click on the "**My Job**" tab, you can view the job list that was assigned by the project owner. The total cases that have been assigned to you and the cases that have not been annotated is shown in each job. Click on "**ANNOTATE**" or "**REVIEW**"and begin the annotation process.
@@ -37,7 +39,7 @@ You can filter the studies by annotation status: Remaining, Finished, Returned.
 ![](../.gitbook/assets/con-3-2-5.png)
 
 * You can view the WW/WL of that image by the top left button, select it to adjust the WW/WL of the image.
-* Click on ![](../.gitbook/assets/con-icon-6.png)  and slide to zoom in and zoom out the images.
+* Click on ![](../.gitbook/assets/con-icon-6.png) and slide to zoom in and zoom out the images.
 
 ![](../.gitbook/assets/con-3-2-6.png)
 
@@ -50,9 +52,7 @@ Click on “**SUBMIT**” after annotating each case. You can also click on “*
 #### Notice:
 
 * Once the case is submitted, the label cannot be changed unless returned by reviewer
-*   For larger images (>1000 both side), it may take some time to process complex annotation (e.g. segmentation), therefore it takes a while to reflect the changes after submit.
-
-
+* For larger images (>1000 both side), it may take some time to process complex annotation (e.g. segmentation), therefore it takes a while to reflect the changes after submit.
 
 ## Review job -- Detail Page
 

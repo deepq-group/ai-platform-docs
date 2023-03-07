@@ -4,6 +4,8 @@
 
 * You have to deploy the model before creating any inference task.
 
+<mark style="color:yellow;">Tutorial Video:</mark><img src="../../.gitbook/assets/video_icon_small.jpg" alt="" data-size="line">[#video-view-training-task-result](../../tutorial-videos/model-training-inference.md#video-view-training-task-result "mention")
+
 ![](../../.gitbook/assets/con-4-3-1.png)
 
 * There are two modes of model inference: batch & real-time.
@@ -32,8 +34,8 @@
 ![](../../.gitbook/assets/con-4-3-6.png)
 
 * The detailed performance of each inference job is summarized in the Inference Report. \
-  <mark style="color:yellow;">For more information, please see the following sections:</mark>\
-  [4.8.2-inference-report.md](../4.8-ai-insight/4.8.2-inference-report.md "mention")\
+  <mark style="color:yellow;">**For more information, please see the following sections:**</mark>\
+  ****[4.8.2-inference-report.md](../4.8-ai-insight/4.8.2-inference-report.md "mention")\
   [deep-learning-metrics-explained](../deep-learning-metrics-explained/ "mention")
 
 <figure><img src="../../.gitbook/assets/con-4-3-7-2.png" alt=""><figcaption></figcaption></figure>

@@ -2,6 +2,8 @@
 
 Once a training task is up and running, the owner may view and manage the task through the task dashboard.
 
+<mark style="color:yellow;">Tutorial Video:</mark><img src="../.gitbook/assets/video_icon_small.jpg" alt="" data-size="line"> [model-training-inference.md](../tutorial-videos/model-training-inference.md "mention")
+
 ![](../.gitbook/assets/con-4-2-1.png)
 
 * Training Accuracy demonstrates the relation between training progress and accuracy.
@@ -10,7 +12,8 @@ Once a training task is up and running, the owner may view and manage the task t
 
 ![](../.gitbook/assets/con-4-2-2-2.png)
 
-*
+* Training report contains information of this training task.\
+  <mark style="color:yellow;">For more information, please go to</mark> [4.8.1-training-report.md](4.8-ai-insight/4.8.1-training-report.md "mention")<mark style="color:orange;"></mark>
 
 <figure><img src="../.gitbook/assets/con-4-2-2-3.png" alt=""><figcaption></figcaption></figure>
 
