@@ -13,7 +13,7 @@ Once a training task is up and running, the owner may view and manage the task t
 ![](../.gitbook/assets/con-4-2-2-2.png)
 
 * Training report contains information of this training task.\
-  <mark style="color:yellow;">For more information, please go to</mark> [4.8.1-training-report.md](4.8-ai-insight/4.8.1-training-report.md "mention")<mark style="color:orange;"></mark>
+  <mark style="color:yellow;">For more information, please go to</mark> [4.7.1-training-report.md](4.7-ai-insight/4.7.1-training-report.md "mention")<mark style="color:orange;"></mark>
 
 <figure><img src="../.gitbook/assets/con-4-2-2-3.png" alt=""><figcaption></figcaption></figure>
 

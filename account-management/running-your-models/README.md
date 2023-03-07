@@ -35,7 +35,7 @@
 
 * The detailed performance of each inference job is summarized in the Inference Report. \
   <mark style="color:yellow;">**For more information, please see the following sections:**</mark>\
-  ****[4.8.2-inference-report.md](../4.8-ai-insight/4.8.2-inference-report.md "mention")\
+  ****[4.7.2-inference-report.md](../4.7-ai-insight/4.7.2-inference-report.md "mention")\
   [deep-learning-metrics-explained](../deep-learning-metrics-explained/ "mention")
 
 <figure><img src="../../.gitbook/assets/con-4-3-7-2.png" alt=""><figcaption></figcaption></figure>
