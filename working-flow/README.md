@@ -26,5 +26,8 @@ In the “Project” tab, you can view the annotation status of all the projects
 
 ### Dataset
 
+The same as  "[Dataset list](../dataset/#dataset-list)"
+
 ### My Job
 
+Lists all annotation/review jobs that are assigned to you, please see [3.2 Start Annotation](start-annotation.md#my-job-job-list) for more information
