@@ -1,6 +1,6 @@
 # 4.6.3 Object Segmentation
 
-#### Inference report: Object segmentation
+### Inference report: Object segmentation
 
 ![](../../.gitbook/assets/con-4-6-3-3.png)
 

@@ -1,6 +1,6 @@
 # 4.6.2 Object Detection
 
-#### Inference report: Object detection
+### Inference report: Object detection
 
 ![](../../.gitbook/assets/con-4-6-3-4.png)
 

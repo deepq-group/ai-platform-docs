@@ -1,10 +1,10 @@
 # 4.6.1 Image Classification
 
-Inference report: Classification
+### Inference report: Classification
 
 ![](../../.gitbook/assets/con-4-6-3-5.png)
 
-The inference report of multi-class classification shows the overall accuracy & the ROC curve
+The inference report of multi-class classification shows the ROC curve, PR curve and the visualized confusion matrix.
 
 ![](../../.gitbook/assets/con-4-6-3-6.png)
 
