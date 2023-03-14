@@ -1,20 +1,17 @@
 # 🎬 Annotation (DeepCap)
 
-### Create Annotation Project
+### <img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[Create Annotation Project](https://youtu.be/g2NDMQEhJy4)
 
-![](<../.gitbook/assets/TIMG-Create-annotation-project-DeepCap.png>)
+![](../.gitbook/assets/TIMG-Create-annotation-project-DeepCap.png)
 
+### <img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[Start Project](https://youtu.be/zr20tN1qamM)
 
-### Start Project
+![](../.gitbook/assets/TIMG-Start-project-annotator-and-reivewer.png)
 
-![](<../.gitbook/assets/TIMG-Start-project-annotator-and-reivewer.png>)<mark style="color:yellow;"></mark>
+### <img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[Annotation tool tips](https://youtu.be/tWDfjwudI5k)
 
+![](../.gitbook/assets/TIMG-Annotation-tools-tip.png)
 
-### Annotation tool tips
+### <img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[Propagate Labels](https://youtu.be/-3KM61IC71E)
 
-![](<../.gitbook/assets/TIMG-Annotation-tools-tip.png>)<mark style="color:yellow;"></mark>
-
-
-### Propagate Labels
-
-![](<../.gitbook/assets/TIMG-Propagate-labels.png>)
+![](../.gitbook/assets/TIMG-Propagate-labels.png)
