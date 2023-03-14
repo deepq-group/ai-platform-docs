@@ -3,7 +3,7 @@
 * Users can create new datasets by combining existing datasets.
 * Click on the "**COMBINE**" tab at the upper right corner of the Dataset list
 
-<mark style="color:yellow;">Tutorial Video:</mark><img src="../../.gitbook/assets/video_icon_small.jpg" alt="" data-size="line"> [dataset-upload-management.md](../../tutorial-videos/dataset-upload-management.md "mention")
+<mark style="color:yellow;">Tutorial Video:</mark><img src="../../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line"> [dataset-upload-management.md](../../tutorial-videos/dataset-upload-management.md "mention")
 
 ![Select "Combine" at the upper right corner to start combining datasets](../../.gitbook/assets/con-2-6-0.png)
 

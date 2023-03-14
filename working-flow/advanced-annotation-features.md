@@ -8,7 +8,7 @@ description: Special features
 
 When annotating serial images such as CT or MRI, the user might want to duplicate labels for continuous slices such as the example shown below. Instead of clicking through each slice, “propagate label” function allows users to label multiple slices with ease.
 
-<mark style="color:yellow;">Tutorial Video:</mark><img src="../.gitbook/assets/video_icon_small.jpg" alt="" data-size="line"> [#propagate-labels](../tutorial-videos/annotation-deepcap.md#propagate-labels "mention")
+<mark style="color:yellow;">Tutorial Video:</mark><img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line"> [#propagate-labels](../tutorial-videos/annotation-deepcap.md#propagate-labels "mention")
 
 ![](../.gitbook/assets/con-3-4-1.png)
 

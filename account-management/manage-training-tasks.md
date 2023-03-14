@@ -2,7 +2,7 @@
 
 Once a training task is up and running, the owner may view and manage the task through the task dashboard.
 
-<mark style="color:yellow;">Tutorial Video:</mark><img src="../.gitbook/assets/video_icon_small.jpg" alt="" data-size="line"> [model-training-inference.md](../tutorial-videos/model-training-inference.md "mention")
+<mark style="color:yellow;">Tutorial Video:</mark><img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line"> [model-training-inference.md](../tutorial-videos/model-training-inference.md "mention")
 
 ![](../.gitbook/assets/con-4-2-1.png)
 

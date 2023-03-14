@@ -2,32 +2,20 @@
 
 ### Upload Dataset--Image only
 
-![](<../.gitbook/assets/TIMG\_Upload dataset\_image only.png>)
+![](<../.gitbook/assets/TIMG-Upload-dataset-image-only.png>)
 
-{% file src="../.gitbook/assets/vid-image only.mp4" %}
-**=======================================================================**
-{% endfile %}
 
 ### Upload Dataset--Image with classified folder(s)
 
-![](<../.gitbook/assets/TIMG\_Upload dataset\_image with classified folder.png>)
+![](<../.gitbook/assets/TIMG-Upload-dataset-image-with-classified-folder.png>)
 
-{% file src="../.gitbook/assets/02 image with classified folder.mp4" %}
-**=======================================================================**
-{% endfile %}
 
 ### Upload Dataset--Image with annotation
 
-![](<../.gitbook/assets/TIMG\_Upload dataset\_image with anno.png>)
+![](<../.gitbook/assets/TIMG-Upload-dataset-image-with-anno.png>)
 
-{% file src="../.gitbook/assets/03 image with annotation.mp4" %}
-**=======================================================================**
-{% endfile %}
 
 ### Combine Dataset
 
-![](<../.gitbook/assets/TIMG\_combine dataset .png>)
+![](<../.gitbook/assets/TIMG-combine-dataset.png>)
 
-{% file src="../.gitbook/assets/09 combine dataset .mp4" %}
-**=======================================================================**
-{% endfile %}

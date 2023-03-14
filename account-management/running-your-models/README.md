@@ -4,7 +4,7 @@
 
 * You have to deploy the model before creating any inference task.
 
-<mark style="color:yellow;">Tutorial Video:</mark><img src="../../.gitbook/assets/video_icon_small.jpg" alt="" data-size="line">[#video-view-training-task-result](../../tutorial-videos/model-training-inference.md#video-view-training-task-result "mention")
+<mark style="color:yellow;">Tutorial Video:</mark><img src="../../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[#video-view-training-task-result](../../tutorial-videos/model-training-inference.md#video-view-training-task-result "mention")
 
 ![](../../.gitbook/assets/con-4-3-1.png)
 

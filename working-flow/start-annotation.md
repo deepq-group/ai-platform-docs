@@ -1,6 +1,6 @@
 # 3.2 Start Annotation
 
-<mark style="color:yellow;">Tutorial Video:</mark><img src="../.gitbook/assets/video_icon_small.jpg" alt="" data-size="line"> [#start-project](../tutorial-videos/annotation-deepcap.md#start-project "mention") [#annotation-tool-tips](../tutorial-videos/annotation-deepcap.md#annotation-tool-tips "mention")
+<mark style="color:yellow;">Tutorial Video:</mark><img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line"> [#start-project](../tutorial-videos/annotation-deepcap.md#start-project "mention") [#annotation-tool-tips](../tutorial-videos/annotation-deepcap.md#annotation-tool-tips "mention")
 
 ## My Job--Job List
 
