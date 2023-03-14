@@ -1,6 +1,6 @@
 # 🎬 Upload/Combine Dataset(s)
 
-### <img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[Upload Dataset--Image only](https://youtu.be/ps0eOL4l\_Ts)
+### <img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[Upload Dataset--Image only](https://youtu.be/ps0eOL4l_Ts)
 
 ![](../.gitbook/assets/TIMG-Upload-dataset-image-only.png)
 
