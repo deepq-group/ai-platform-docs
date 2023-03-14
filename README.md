@@ -84,7 +84,7 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 [4.6.3 Object Segmentation](account-management/deep-learning-metrics-explained/object-segmentation.md)
 
-[4.7 SSDL explained](account-management/create-training-tasks/4.7-ssdl-explained.md)
+[4.7 AI Insight](account-management/4.7-ai-insight/)
 
 ## [5. Deeploy](5.-deeploy)
 
@@ -111,3 +111,12 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 [Code of Conduct](legal-documents.md#7.4-code-of-conduct)
 
 [Third Party Notice](legal-documents.md#7.5-third-party-notice)
+
+## [Tutorial videos](./#tutorial-videos)
+
+[Upload/Combine Dataset(s)](tutorial-videos/dataset-upload-management.md)
+
+[Annotation (DeepCap)](tutorial-videos/annotation-deepcap.md)
+
+[Model Training/Inference](tutorial-videos/model-training-inference.md)
+
