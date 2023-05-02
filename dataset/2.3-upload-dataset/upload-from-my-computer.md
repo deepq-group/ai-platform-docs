@@ -2,7 +2,7 @@
 
 Users may upload zipped dataset from the user's device. It is highly recommended to run the "[Dataset Check Tool](dataset-check-tool.md)" before zip & upload. The total upload time depends on the connection speed and the size of the dataset.
 
-![Select "My Computer" to upload zipped datasets stored on your device](../../.gitbook/assets/con-2-6-1.png)
+![Select "My Computer" to upload zipped datasets stored on your device](../../.gitbook/assets/con-2-3-3-1-new.png)
 
 ![The next step requires user to select one of the three supporting data formats](../../.gitbook/assets/con-2-3-2-1-new.png)
 
