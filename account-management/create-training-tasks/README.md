@@ -13,18 +13,18 @@ The different options between these three task flows are laid out in the table b
 |                           | Annotation type | Neural Network | Tuning Methods                           |
 | ------------------------- | --------------- | -------------- | ---------------------------------------- |
 | General Training          | Any             | Selectable     | Auto _with preferences_/ Full Manual     |
-| Specialized Training      | Specific        | fixed          | Auto _without preferences_ / Full Manual |
-| Existing Model Retraining | Specific        | fixed          | Auto _without preferences_ / Full Manual |
+| Specialized Training      | Specific        | Fixed          | Auto _without preferences_ / Full Manual |
+| Existing Model Retraining | Specific        | Fixed          | Auto _without preferences_ / Full Manual |
 
 ### General Training
 
-General Tuning
+The first step of general training is to select the task type: image classification, object detection or Object segmentation.
 
 ![](../../.gitbook/assets/con-4-1-1-2.3.png)
 
 ### Specialized Training
 
-With specialzed training,&#x20;
+With specialzed training, the user may select from various specific topics that is prepared by DeepQ.
 
 <figure><img src="../../.gitbook/assets/con-4-1-2-2.3.png" alt=""><figcaption></figcaption></figure>
 
