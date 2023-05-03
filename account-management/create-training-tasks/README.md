@@ -24,7 +24,7 @@ The first step of general training is to select the task type: image classificat
 
 ### Specialized Training
 
-With specialzed training, the user may select from various specific topics that is prepared by DeepQ.
+With specialzed training, the user may choose from various topics that has been prepared by DeepQ.
 
 <figure><img src="../../.gitbook/assets/con-4-1-2-2.3.png" alt=""><figcaption></figcaption></figure>
 
