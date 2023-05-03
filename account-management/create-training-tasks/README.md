@@ -30,6 +30,6 @@ With specialzed training, the user may choose from various topics that has been 
 
 ### Existing Model Retraining
 
-Use your previously trained models as a starting point
+Select one of your previously trained models as a starting point.
 
 <figure><img src="../../.gitbook/assets/con-4-1-3-2.3.png" alt=""><figcaption></figcaption></figure>

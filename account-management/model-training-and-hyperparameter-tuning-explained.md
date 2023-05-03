@@ -22,7 +22,7 @@ Hyperparameter setting in DeepQ AI platform involves three different sections: D
 
 Data loading is an important component of any machine learning system. When we work with tiny datasets, we can get away with loading an entire dataset into GPU memory. With larger datasets, we must store examples in main memory. And when datasets grow too large to fit into main memory, data loading can become performance-critical.
 
-<mark style="color:red;">**Batch size:**</mark> <mark style="color:red;"></mark><mark style="color:red;">The number of training examples of a mini-batch in each training iteration. Max batch size is determined by model size, image size & training GPU memory, therefore each training configuration might have a different Max. batch size.</mark>
+<mark style="color:red;">**Batch size:**</mark> <mark style="color:red;">The number of training examples of a mini-batch in each training iteration. Max batch size is determined by model size, image size & training GPU memory, therefore each training configuration might have a different Max. batch size.</mark>
 
 Tips: Choosing a batch size that is too small will introduce a high degree of variance (noisiness) within each batch as it is unlikely that a small sample is a good representation of the entire dataset. Conversely, if a batch size is too large, it may not fit in memory of the compute instance used for training and it will have the tendency to overfit the data.
 
@@ -78,7 +78,7 @@ Population Based Training (PBT) learns both hyperparameter values and network we
 
 **Early stop**: By using early stop, the training task will stop when the validation loss stops decreasing, saving valuable computation resources if training results cannot be further improved. If early stop is turned off, the training task will complete all training jobs in a task regardless the training performance. Early stop sometimes is also used to prevent the model from overfitting.
 
-![](../.gitbook/assets/con-4-5-9.png)
+![](../.gitbook/assets/con-4-5-9-2.3.png)
 
 ### **Data augmentation:**
 
