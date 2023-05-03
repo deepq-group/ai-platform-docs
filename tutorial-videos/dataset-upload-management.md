@@ -1,17 +1,21 @@
 # 🎬 Upload/Combine Dataset(s)
 
-### <img width="34" src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[Upload Dataset--Image only](https://youtu.be/ps0eOL4l_Ts)
+### <img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[Upload Dataset--Image only](https://youtu.be/aZJ3yg4tRUI)
 
 ![](../.gitbook/assets/TIMG-Upload-dataset-image-only.png)
 
-### <img width="34" src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[Upload Dataset--Image with classified folder(s)](https://youtu.be/rqdGvQwQOmw)
+### <img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[Upload Dataset--Image with classified folder(s)](https://youtu.be/xOpmcZbTf6o)
 
 ![](../.gitbook/assets/TIMG-Upload-dataset-image-with-classified-folder.png)
 
-### <img width="34" src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[Upload Dataset--Image with annotation](https://youtu.be/JDB0dv88yog)
+### <img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[Upload Dataset--Image with annotation](https://youtu.be/nd8hmkA4wCk)
 
 ![](../.gitbook/assets/TIMG-Upload-dataset-image-with-anno.png)
 
-### <img width="34" src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[Combine Dataset](https://youtu.be/ofYHSXtLeOA)
+### <img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[Dataset Gallery](https://youtu.be/C59xplhkuZY)
 
-### ![](../.gitbook/assets/TIMG-combine-dataset.png)
+
+
+### <img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[Combine Dataset](https://youtu.be/ofYHSXtLeOA)
+
+<figure><img src="../.gitbook/assets/TIMG-combine-dataset.png" alt="" width="563"><figcaption></figcaption></figure>
