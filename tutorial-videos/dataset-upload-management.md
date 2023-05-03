@@ -14,7 +14,7 @@
 
 ### <img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[Dataset Gallery](https://youtu.be/C59xplhkuZY)
 
-
+<figure><img src="../.gitbook/assets/TIMG-Uplaod-dataset-Dataset-gallery-2.3.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### <img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[Combine Dataset](https://youtu.be/ofYHSXtLeOA)
 
