@@ -2,15 +2,15 @@
 
 Clicking on the "**CREATE NEW TASK**" tab leads you to selecting one of the training task flows:
 
-1. General Training：
-2. Specialized training：
-3. Existing Model Retraining：
+1. General Training：To train an AI model of any topic based on the user's choice
+2. Specialized training：To train an AI for a specific topic using the presets on DeepQ AI Platform
+3. Existing Model Retraining：Using the user's previously trained AI model as a starting point to start a new training task.
 
-|                           | Annotation type | Neural Network | Tuning Methods |
-| ------------------------- | --------------- | -------------- | -------------- |
-| General Training          | any             | any            |                |
-| Specialized Training      | specific        |                |                |
-| Existing Model Retraining | specific        |                |                |
+|                           | Annotation type | Neural Network | Tuning Methods                    |
+| ------------------------- | --------------- | -------------- | --------------------------------- |
+| General Training          | Any             | Selectable     | Auto with options / Full Manual   |
+| Specialized Training      | Specific        | fixed          | Auto without options/ Full Manual |
+| Existing Model Retraining | Specific        | fixed          | Auto without options/ Full Manual |
 
 <mark style="color:yellow;">Tutorial Video:</mark><img src="../../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line"> [#video-create-training-task](../../tutorial-videos/model-training-inference.md#video-create-training-task "mention")
 
