@@ -44,25 +44,25 @@ Fig. 1 Hyperparameter tuning problem with a 2D search space. Each point represen
 
 User assigns a single combination of hyperparameter and running a single training job. There is no searching whatsoever,
 
-![](../.gitbook/assets/con-4-5-5.png)
+![](../.gitbook/assets/con-4-5-5-2.3.png)
 
 **Grid search:**
 
 The traditional way of performing hyperparameter optimization has been grid search, or a parameter sweep, which is simply an exhaustive searching through a manually specified subset of the hyperparameter space of a learning algorithm. Since the parameter space of a machine learner may include real-valued or unbounded value spaces for certain parameters, manually set bounds and discretization may be necessary before applying grid search.
 
-![](../.gitbook/assets/con-4-5-6.png)
+![](../.gitbook/assets/con-4-5-6-2.3.png)
 
 **Random search:**
 
 Random Search replaces the exhaustive enumeration of all combinations by selecting them randomly. This can be simply applied to the discrete setting described above, but also generalizes to continuous and mixed spaces. It can outperform Grid search, especially when only a small number of hyperparameters affects the final performance of the machine learning algorithm. Random Search additionally allows the inclusion of prior knowledge by specifying the distribution from which to sample.
 
-![](../.gitbook/assets/con-4-5-7.png)
+![](../.gitbook/assets/con-4-5-7-2.3.png)
 
 **Population based tuning (Adaptive selection):**
 
 Population Based Training (PBT) learns both hyperparameter values and network weights. Multiple learning processes operate independently, using different hyperparameters. As with evolutionary methods, poorly performing models are iteratively replaced with models that adopt modified hyperparameter values and weights based on the better performers. PBT thus allows the hyperparameters to evolve and eliminates the need for manual tuning. The process makes no assumptions regarding model architecture, loss functions or training procedures. PBT is the default automatic tuning method in DeepQ AI platform.
 
-![](../.gitbook/assets/con-4-5-8.png)
+![](../.gitbook/assets/con-4-5-8-2.3.png)
 
 ### **Tuning Method—parameters:**
 
@@ -91,5 +91,7 @@ _Tips: If the training task involves identifying objects that may appear symmetr
 **Random resized crop:** randomly crop an image to a random size of the original size and a random aspect ratio.
 
 **Color jitter:** Randomly change the brightness, contrast, saturation & hue of an image.
+
+**Random rotation**: Randomly rotate the image within a certain range.
 
 _Tips: in the case of monochrome images (black & white, such as MRI, CT, X-ray..etc.), saturation & hue will not do anything and is advised to be disabled._
