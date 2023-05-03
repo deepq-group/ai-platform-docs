@@ -1,10 +1,10 @@
 # 🎬 Model Training/Inference
 
-### <img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[Create Training Task](https://youtu.be/dK6xTppI-4g) <a href="#video-create-training-task" id="video-create-training-task"></a>
+### <img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[Create Training Task](https://youtu.be/dt2uqztCD-4) <a href="#video-create-training-task" id="video-create-training-task"></a>
 
 <figure><img src="../.gitbook/assets/TIMG-Create-training-task-AI-Training.png" alt="" width="563"><figcaption></figcaption></figure>
 
-### <img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[View Training Task Result](https://youtu.be/WCOm8iwJ-OE) <a href="#video-view-training-task-result" id="video-view-training-task-result"></a>
+### <img src="../.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[View Training Task Result](https://youtu.be/cadya0vxuAA) <a href="#video-view-training-task-result" id="video-view-training-task-result"></a>
 
 <figure><img src="../.gitbook/assets/TIMG-View-training-result-deploy-model-and-inference.png" alt="" width="563"><figcaption></figcaption></figure>
 
