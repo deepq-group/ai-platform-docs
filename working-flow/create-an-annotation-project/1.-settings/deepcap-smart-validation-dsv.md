@@ -1,4 +1,4 @@
-# Annotation Quality Control
+# 3.1.1.1 Annotation Quality Control
 
 Label quality is an important factor in Deep Learning. In order to ensure the best labeling quality in each annotation project, users can choose from three validation workflows to run your project.
 
@@ -6,11 +6,11 @@ Label quality is an important factor in Deep Learning. In order to ensure the be
 
 ***
 
-![validation workflow by DeepCap Smart Validation (DSV)](../../../.gitbook/assets/con-3-1-5.png)
+![validation workflow by DeepCap Smart Validation (DSV)](../../../.gitbook/assets/con-3-1-5-2.3.jpg)
 
-![validation workflow performed only by reviewers](../../../.gitbook/assets/con-3-1-6.png)
+![validation workflow performed only by reviewers](../../../.gitbook/assets/con-3-1-6-2.3.jpg)
 
-![a hybrid method that combines DSV & reviewe mechanism](../../../.gitbook/assets/con-3-1-7.png)
+![a hybrid method that combines DSV & reviewe mechanism](../../../.gitbook/assets/con-3-1-7-2.3.jpg)
 
 ***
 
