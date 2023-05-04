@@ -4,7 +4,7 @@ Other than uploading datasets from a local computer, users may select datasets t
 
 ![Select "Dataset Gallery" to upload datasets that were stored on the system.](../../.gitbook/assets/con-2-3-3-1-new.png)
 
-![The gallery contains datasets of different images/annotations that is carefully prepared by DeepQ.](../../.gitbook/assets/con-2-3-3-2-2.3.PNG)
+![The gallery contains datasets of different images/annotations prepared by DeepQ.](../../.gitbook/assets/con-2-3-3-2-2.3.PNG)
 
 ![Each card contains information about the dataset, including file size/format, annoatation type included and source link](../../.gitbook/assets/con-2-3-3-3-2.3.jpg)
 
