@@ -28,7 +28,7 @@ With specialzed training, the user may choose from the tasks that has been prepa
 
 <figure><img src="../../.gitbook/assets/con-4-1-2-2.3.png" alt=""><figcaption></figcaption></figure>
 
-|                             | Task type                       | Image format              | Classes                                                                                                                                          |
+| Topics                      | Task type                       | Image format              | Classes                                                                                                                                          |
 | --------------------------- | ------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Intracranial Hemmorhage** | Multi-Label Classification (5)  | Head CT , non-contrast    | <p>>Subarachnoid hemorrhage  >Subdural hemorrhage <br>>Epidural hemorrhage <br>>Intraparenchymal hemorrhage <br>>Intraventricular hemorrhage</p> |
 | **Pneumothorax**            | Single Label Classification (2) | Chest X-ray               | <p>>PTX<br>>normal</p>                                                                                                                           |
