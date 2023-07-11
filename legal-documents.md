@@ -4,6 +4,6 @@
 
 ### [Privacy Policy](https://storage.googleapis.com/aip-dev-assets/legal/AI-Platform-On-Prem-Privacy-Policy-20230531.pdf)
 
-### [Product Security](https://storage.googleapis.com/aip-dev-assets/legal/AI-Platform-Product-Security-EN-20161209.pdf)
+### [Product Security](https://storage.googleapis.com/aip-dev-assets/legal/AI-Platform-Product-Security-EN-20221014.pdf)
 
 ### [Third Party Notice](https://storage.googleapis.com/aip-dev-assets/legal/AI-Platform-Third-Party-Notice.txt)
