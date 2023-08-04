@@ -8,7 +8,7 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 [5.1 AI worklist & viewer](5.1-ai-worklist-and-viewer.md)
 
-[5.2 Authorized Models](5.2-authorized-models.md)
+[5.2 Authorized Models](broken-reference)
 
 ## 3[. FAQ](faq/)
 
