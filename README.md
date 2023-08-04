@@ -1,4 +1,4 @@
-# 0. DeepQ AI Platform - Deeploy User Guide
+# 0. Deeploy User Guide
 
 This is a quick start or getting started guide to introduce how to use DeepQ AI Platform - Deeploy module. Check out these tutorials and get started with your Medical Image AI deployment.
 
@@ -12,7 +12,7 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 ## 3[. FAQ](faq/)
 
-3[.1 System notifications](faq/ai-training-related-issues.md)
+3[.1 System notifications](working-flow-1/ai-training-related-issues.md)
 
 3[.3 Change Log](faq/6.3-change-log)
 
