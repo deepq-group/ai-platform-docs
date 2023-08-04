@@ -12,7 +12,7 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 ## 3[. FAQ](faq/)
 
-3[.1 System notifications](working-flow-1/ai-training-related-issues.md)
+3[.1 System notifications](faq/ai-training-related-issues.md)
 
 3[.3 Change Log](faq/6.3-change-log)
 
