@@ -2,28 +2,28 @@
 
 This is a quick start or getting started guide to introduce how to use DeepQ AI Platform - Deeploy module. Check out these tutorials and get started with your Medical Image AI deployment.
 
-## 1. DeepQ AI Platform - Deeploy overview:
+## 1. Deeploy overview:
 
-## 2 [. Deeploy](5.-deeploy)
+1.1 DeepQ AI Platform Overview
 
-[5.1 AI worklist & viewer](5.1-ai-worklist-and-viewer.md)
+1.2 User profile & account management
 
-[5.2 Authorized Models](broken-reference)
+1.3 System Notification
 
-## 3[. FAQ](faq/)
+## 2. AI worklist & viewer
 
-3[.1 System notifications](faq/ai-training-related-issues.md)
+## 3. FAQ
 
-3[.3 Change Log](faq/6.3-change-log)
+3.1 Change Log
 
-## 4[. Legal Documents](legal-documents.md)
+## 4. Legal Documents
 
-[Terms of Use](legal-documents.md#7.1-terms-of-use)
+Terms of Use
 
-[Privacy Policy](legal-documents.md#7.2-privacy-policy)
+Privacy Policy
 
-[Product Security](legal-documents.md#7.3-product-security)
+Product Security
 
-[Code of Conduct](legal-documents.md#7.4-code-of-conduct)
+Code of Conduct
 
-[Third Party Notice](legal-documents.md#7.5-third-party-notice)
+Third Party Notice
