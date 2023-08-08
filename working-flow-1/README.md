@@ -1,6 +1,10 @@
-# 1. DeepQ AI Platform overview
+---
+description: >-
+  DeepQ AI Platform provides a one-stop solution for your medical image MLOPs
+  cycle.
+---
 
-### DeepQ AI Platform provides a one-stop solution for your medical image MLOPs cycle via web browser. Enjoy the best experience provided by our no-code environment.
+# 1. DeepQ AI Platform overview
 
 ![](../.gitbook/assets/con-1-0-1.png)
 
@@ -9,9 +13,9 @@
 
 #### The complete DeepQ AI Platform consists of three main modules：
 
-* **DeepCap：**Dataset management & image annotation
-* **AI Training：**Model selection/tuning & evaluation
-* **Deeploy：**Real-time model deployment, worklist & AI viewer
+* \*\*DeepCap：\*\*Dataset management & image annotation
+* \*\*AI Training：\*\*Model selection/tuning & evaluation
+* \*\*Deeploy：\*\*Real-time model deployment, worklist & AI viewer
 
 ![](../.gitbook/assets/con-1-0-2.png)
 
