@@ -14,11 +14,11 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 ## [3. FAQ](faq/)
 
-3.1 Change Log
+[3.1 Change Log](faq/6.3-change-log/)
 
-## 4. Legal Documents
+## [4. Legal Documents](legal-documents.md)
 
-Terms of Use
+[Terms of Use](legal-documents.md#terms-of-use)
 
 Privacy Policy
 
