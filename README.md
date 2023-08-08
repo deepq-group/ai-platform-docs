@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/background_1.jpg
+coverY: 0
+---
+
 # 0. Deeploy User Guide
 
 This is a quick start or getting started guide to introduce how to use DeepQ AI Platform - Deeploy module. Check out these tutorials and get started with your Medical Image AI deployment.
