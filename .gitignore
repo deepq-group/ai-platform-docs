@@ -1,5 +1,7 @@
 _book
+yarn.lock
 package.json
 package-lock.json
 node_modules
-yarn.lock
+polyfills.js
+fix_build_bug.sh
