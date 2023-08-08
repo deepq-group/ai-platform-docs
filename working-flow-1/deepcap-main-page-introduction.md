@@ -1,24 +1,19 @@
-# 1.1 DeepQ AI Platform overview
+---
+description: >-
+  Deeploy is where your models run on real world data, and provides the
+  inference result to autorized users via AI worklist & viewer.
+---
 
-The moment you log into DeepQ AI Platform, you can choose from the three modules to start from. Please contact the system admin for your module authorization.
+# 1.1 Deeploy overview
 
-![](../.gitbook/assets/con-1-2-1.png)
+* Get your AI models up and running with real-world data sent from PACS
+* Inference engine automatically identifies image by DICOM tag and forwards to different AI models
+* Set deployment authorization. Different users for different model deployments
+* Download inference history for futher analysis and model retrain.
 
-## Platform modules overview
 
-The complete DeepQ AI Platform consists of three main modules：
 
-* \*\*DeepCap：\*\*Dataset management & image annotation
-* \*\*AI Training：\*\*Model selection/tuning & evaluation
-* \*\*Deeploy：\*\*Real-time model deployment, worklist & AI viewer
+<figure><img src="../.gitbook/assets/Deeploy-con-1-1-0.png" alt="" width="492"><figcaption></figcaption></figure>
 
-![The complete DeeQ AI Platform](../.gitbook/assets/con-1-2-2.png)
 
-## Deeploy Overview
-
-Deeploy is where your models run on real world data, and provides the inference result to autorized users via AI worklist & viewer.
-
-![](../.gitbook/assets/con-5-0-1.png)
-
-![](../.gitbook/assets/con-1-2-8.png)
 

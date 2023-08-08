@@ -4,3 +4,5 @@
 
 * System notification
 * Deployment authorization
+
+<figure><img src="../.gitbook/assets/Deeploy-con-1-3-0.png" alt=""><figcaption></figcaption></figure>
