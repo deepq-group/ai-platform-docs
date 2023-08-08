@@ -7,7 +7,7 @@
 
 <figure><img src="../.gitbook/assets/Deeploy-con-1-3-0.png" alt=""><figcaption></figcaption></figure>
 
-**Announcements**：Announcements created by system admin will appear as a banner and can be dismissed by clicking on "GOT IT", it will also go away once it expires.
+**Announcements**：Announcements created by system admin will appear as a banner and can be dismissed by clicking on "GOT IT", it will also disappear once it expires.
 
 <figure><img src="../.gitbook/assets/Deeploy-con-1-3-1.png" alt=""><figcaption></figcaption></figure>
 
