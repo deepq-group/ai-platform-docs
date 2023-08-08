@@ -20,10 +20,10 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 [Terms of Use](legal-documents.md#terms-of-use)
 
-Privacy Policy
+[Privacy Policy](legal-documents.md#privacy-policy)
 
-Product Security
+[Product Security](legal-documents.md#product-security)
 
-Code of Conduct
+[Code of Conduct](legal-documents.md#code-of-conduct)
 
-Third Party Notice
+[Third Party Notice](legal-documents.md#third-party-notice)
