@@ -12,9 +12,9 @@ DeepCap is where you turn your images into valuable. Since deep learning is a da
 
 ![](../.gitbook/assets/con-3-0-2.png)
 
-### Project List
+### <mark style="background-color:orange;">Project List</mark>
 
-In the “Project” tab, you can view the annotation status of all the projects that you have created.
+<mark style="background-color:orange;">In the “Project” tab, you can view the annotation status of all the projects that you have created.</mark>
 
 **PUBLICATION DATE:** Sort your projects by using the “Publication Date” and “Last Modified”.
 
@@ -26,8 +26,8 @@ In the “Project” tab, you can view the annotation status of all the projects
 
 ### Dataset
 
-The same as  "[Dataset list](../dataset/#dataset-list)"
+The same as "[Dataset list](../dataset/#dataset-list)"
 
-### My Job
+### <mark style="background-color:orange;">My Job</mark>
 
-Lists all annotation/review jobs that are assigned to you, please see [3.2 Start Annotation](start-annotation.md#my-job-job-list) for more information
+<mark style="background-color:orange;">Lists all annotation/review jobs that are assigned to you, please see</mark> [<mark style="background-color:orange;">3.2 Start Annotation</mark>](start-annotation.md#my-job-job-list) <mark style="background-color:orange;">for more information</mark>
