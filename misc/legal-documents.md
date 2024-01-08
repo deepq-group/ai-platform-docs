@@ -8,6 +8,16 @@ coverY: 0
 
 
 
+#### Text File
+
+
+
+{% file src="../.gitbook/assets/AI-Platform-Third-Party-Notice.txt" %}
+
+#### Terms of Use
+
+{% file src="../.gitbook/assets/AI-Platform-Product-Security.pdf" %}
+
 |   |   |   |
 | - | - | - |
 |   |   |   |
