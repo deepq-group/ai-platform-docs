@@ -20,13 +20,3 @@ Whether you're a seasoned professional or a curious enthusiast, DeepQ AI Platfor
 
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a data-mention href="broken-reference">Broken link</a></td><td></td><td></td><td><a href=".gitbook/assets/illust_overview.jpg">illust_overview.jpg</a></td></tr><tr><td><a data-mention href="broken-reference">Broken link</a></td><td></td><td></td><td><a href=".gitbook/assets/illust_guide.jpg">illust_guide.jpg</a></td></tr><tr><td><a data-mention href="broken-reference">Broken link</a></td><td></td><td></td><td><a href=".gitbook/assets/illust_use_case.jpg">illust_use_case.jpg</a></td></tr><tr><td><a data-mention href="broken-reference">Broken link</a></td><td></td><td></td><td><a href=".gitbook/assets/illust_video.jpg">illust_video.jpg</a></td></tr><tr><td><a data-mention href="broken-reference">Broken link</a></td><td></td><td></td><td><a href=".gitbook/assets/illust_misc.jpg">illust_misc.jpg</a></td></tr></tbody></table>
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}

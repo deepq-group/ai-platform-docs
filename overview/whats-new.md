@@ -4,7 +4,7 @@ description: Here is the overview of our new features/improvements
 
 # 🎁 Whats new?
 
-
+With the latest DeepQ AI Platform v3.0, we have pushed the limits of the most user-friendly medical image Deep Learning platform even further!! Here are the new improvements:
 
 <figure><img src="../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
 
