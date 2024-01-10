@@ -5,7 +5,7 @@ coverY: 0
 
 # 👋 Welcome to DeepQ AI Platform!
 
-### 🌟 Welcome to the future of medical innovation at DeepQ AI Platform! 🚀&#x20;
+### &#x20;Welcome to the future of medical innovation at DeepQ AI Platform! 🚀&#x20;
 
 <figure><img src=".gitbook/assets/shutterstock_2028573011.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -17,17 +17,9 @@ Whether you're a seasoned professional or a curious enthusiast, DeepQ AI Platfor
 
 ## Quick links
 
-{% content-ref url="overview/what-is-deepq-ai-platform.md" %}
-[what-is-deepq-ai-platform.md](overview/what-is-deepq-ai-platform.md)
-{% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
-{% endcontent-ref %}
 
-## Product Guides&#x20;
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td><a data-mention href="broken-reference">Broken link</a></td><td></td><td><a href=".gitbook/assets/Iceberg_DeepQ_AIPlatform_RGB_H_v2.png">Iceberg_DeepQ_AIPlatform_RGB_H_v2.png</a></td></tr><tr><td></td><td><a data-mention href="product-guides/deepcap-image-annotation-module/">deepcap-image-annotation-module</a></td><td></td><td><a href=".gitbook/assets/AIP_DeepCap_icon.png">AIP_DeepCap_icon.png</a></td></tr><tr><td></td><td><a data-mention href="product-guides/ai-training/">ai-training</a></td><td></td><td><a href=".gitbook/assets/AIP_ AI Training_icon.png">AIP_ AI Training_icon.png</a></td></tr><tr><td></td><td>/</td><td></td><td></td></tr><tr><td><a data-mention href="broken-reference">Broken link</a></td><td></td><td></td><td><a href=".gitbook/assets/tutorial_video_cover">tutorial_video_cover</a></td></tr><tr><td><a data-mention href="misc/troubleshooting-and-faqs.md">troubleshooting-and-faqs.md</a></td><td></td><td></td><td><a href=".gitbook/assets/troubleshooting_cover">troubleshooting_cover</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a data-mention href="broken-reference">Broken link</a></td><td></td><td></td><td><a href=".gitbook/assets/illust_overview.jpg">illust_overview.jpg</a></td></tr><tr><td><a data-mention href="broken-reference">Broken link</a></td><td></td><td></td><td><a href=".gitbook/assets/illust_guide.jpg">illust_guide.jpg</a></td></tr><tr><td><a data-mention href="broken-reference">Broken link</a></td><td></td><td></td><td><a href=".gitbook/assets/illust_use_case.jpg">illust_use_case.jpg</a></td></tr><tr><td><a data-mention href="broken-reference">Broken link</a></td><td></td><td></td><td><a href=".gitbook/assets/illust_video.jpg">illust_video.jpg</a></td></tr><tr><td><a data-mention href="broken-reference">Broken link</a></td><td></td><td></td><td><a href=".gitbook/assets/illust_misc.jpg">illust_misc.jpg</a></td></tr></tbody></table>
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
