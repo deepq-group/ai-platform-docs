@@ -14,11 +14,12 @@ Annotation can be a team based effort. Create your annotation project, provide i
 
 * &#x20;![](<../../.gitbook/assets/icon\_add (1).png>)**Create Project:** Create a new annotation project.
 * ![](../../.gitbook/assets/icon\_magnify.png) **Search:** Click on this button and upload your dataset in DICOM/ JPG, PNG form.
-* DICOM, JPG and PNG are acceptable image format. Both width and height should be between 16px and 4096px.
-* If there is no annotation data, the user has to create an annotation data via annotation project, or else it cannot be used to train an AI model.
-* Users can hide the datasets without annotation by the toggle button "HIDE DATASET WITHOUT ANNOTATION DATA"
-* The number of annotation data attached is shown, each dataset can have mutiple annotation data of differet types of labeling and number of studies (subsets).
-* The Dataset list shows all the datasets uploaded by the user and # of studies contained in each dataset
+*   In the “Task” tab, you can view the training status of all the tasks that you have created.
+
+
+* **CREATION TIME:** Filter your tasks by "CREATION TIME" or "FINISH TIME".
+* ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-11.png)**STATUS:** Filter your tasks by using the task status: “Running", "Waiting", "Finished", "Stopped", or "Error".
+* ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-6.png) **SEARCH**: Search your tasks using project name.
 
 ### Project Detail view
 
