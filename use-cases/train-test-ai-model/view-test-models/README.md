@@ -1,20 +1,8 @@
 # View/Test Models
 
-### Model Overview <a href="#deploy-model--inference" id="deploy-model--inference"></a>
-
-<figure><img src="../../../.gitbook/assets/AI_Training_Model_Overview_Example_2.png" alt=""><figcaption></figcaption></figure>
-
-### Model Detail
-
-<figure><img src="../../../.gitbook/assets/AI_Training_Model_Detail_1.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/AI_Training_Model_Detail_3.png" alt=""><figcaption></figcaption></figure>
+### Create Inference Job <a href="#deploy-model--inference" id="deploy-model--inference"></a>
 
 <figure><img src="../../../.gitbook/assets/AI_Training_Model_Detail_4.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/AI_Training_Model_Detail_2.png" alt=""><figcaption></figcaption></figure>
-
-### Deploy Model & Inference <a href="#deploy-model--inference" id="deploy-model--inference"></a>
 
 * You have to deploy the model before creating any inference task.
 
@@ -47,7 +35,7 @@
 
 ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-4-3-6.png)
 
-* The detailed performance of each inference job is summarized in the Inference Report.\ <mark style="color:yellow;">**For more information, please see the following sections:**</mark>\ [https://console.deepq.ai/docs/console/account-management/4.7-ai-insight/4.7.2-inference-report.html](https://console.deepq.ai/docs/console/account-management/4.7-ai-insight/4.7.2-inference-report.html "mention")\ [https://console.deepq.ai/docs/console/account-management/deep-learning-metrics-explained](https://console.deepq.ai/docs/console/account-management/deep-learning-metrics-explained "mention")
+*
 
 <figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-3-7-2.png" alt=""><figcaption></figcaption></figure>
 
