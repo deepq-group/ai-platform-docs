@@ -14,7 +14,7 @@ Users can search for and select from a repository of their trained AI models. Th
 
 ### Model Overview
 
-<figure><img src="../../.gitbook/assets/AI_Training_Model_Overview_Example_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/AI_Training_Model_Overview_Example_2.png" alt=""><figcaption></figcaption></figure>
 
 ### Model Detail
 
