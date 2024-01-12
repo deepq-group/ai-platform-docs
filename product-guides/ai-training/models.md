@@ -24,5 +24,10 @@ These evaluation metrics serve as quantitative indicators of the model's perform
 
 In summary, the Model section is a convenient repository for AI models, offering quick access and enabling users to evaluate their models' performance through inference jobs while providing detailed evaluation metrics for a qualitative understanding of the model's effectiveness.
 
+<figure><img src="../../.gitbook/assets/AI_Training_Model_Detail_1.png" alt=""><figcaption></figcaption></figure>
+
 \
 \
+
+
+<figure><img src="../../.gitbook/assets/AI_Training_Model_Detail_2.png" alt=""><figcaption></figcaption></figure>
