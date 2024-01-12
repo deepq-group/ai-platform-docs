@@ -1,10 +1,8 @@
 # ⚙ Training Tasks
 
-DeepQ AI Training is where the neural network meets datasets. By training tasks users can create their AI applications with their own data.
+DeepQ AI Training is the place where the Neural Networks learns from training dataset (images & labels) . Users can train the Neural Network to do specific tasks and create their own AI application with personalized dataset.
 
-Within this section, users can access and manage various training tasks, each tailored to specific requirements. These tasks encapsulate the configurations, parameters, and details necessary for training neural networks using labeled images. It's a centralized space that tracks and organizes all ongoing and past training endeavors.
-
-
+In this section, users can create different training tasks, each designed for specific needs. These tasks include the settings, neural network selected and tuning method. It's a central hub that keeps track of and organizes all current and past training projects.
 
 ### Task List
 
@@ -20,13 +18,9 @@ In the “Task” tab, you can view the training status of all the tasks that yo
 
 
 
-
-
 ### Task Detail
 
-Clicking on any training task will take you to the task detail page.
-
-From top to bottom:
+Clicking on any training task will take you to the task detail page, the information from top to bottom are:
 
 * Task Training progress, including creation time, training duration & total GPU-hrs spent
 * Training information: training dataset, model architecture and hyperparameters
