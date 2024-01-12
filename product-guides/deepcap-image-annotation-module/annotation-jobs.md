@@ -26,6 +26,8 @@ DeepCap is an annotation tool with a project-based workflow and a simple interfa
 
 <figure><img src="../../.gitbook/assets/DeepCap_Jobs_Detail_1.png" alt=""><figcaption></figcaption></figure>
 
+###
+
 ### Image viewer
 
 <figure><img src="../../.gitbook/assets/DeepCap_Jobs_Viewer_3.png" alt=""><figcaption></figcaption></figure>
