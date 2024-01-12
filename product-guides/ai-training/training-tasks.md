@@ -2,13 +2,7 @@
 
 DeepQ AI Training is where the neural network meets datasets. By training tasks users can create their AI applications with their own data.
 
-The Task section within the DeepQ AI platform is like a comprehensive logbook where all the training tasks reside. This is where the neural network and datasets converge to facilitate the training process.
-
-Users can create training tasks here, aligning neural networks with labeled images to craft their AI applications effectively. Each task is meticulously recorded, providing a dedicated space for individual tasks, each with its own unique settings and detailed specifications.
-
 Within this section, users can access and manage various training tasks, each tailored to specific requirements. These tasks encapsulate the configurations, parameters, and details necessary for training neural networks using labeled images. It's a centralized space that tracks and organizes all ongoing and past training endeavors.
-
-In essence, the Task section serves as a repository for all AI training initiatives, housing the settings and nuances of each task, enabling users to efficiently create their AI applications by orchestrating neural networks with labeled image datasets.
 
 
 
@@ -29,6 +23,17 @@ In the “Task” tab, you can view the training status of all the tasks that yo
 
 
 ### Task Detail
+
+Clicking on any training task will take you to the task detail page.
+
+From top to bottom:
+
+* Task Training progress, including creation time, training duration & total GPU-hrs spent
+* Training information: training dataset, model architecture and hyperparameters
+* training report: real-time training accuracy & training curves (detailed pdf report downloadable)
+* Dataset Statistics: Statistics of training data (training set & validation set)，in the form of both bar charts and table.
+
+<img src="../../.gitbook/assets/icon_option.png" alt="" data-size="line">**OPTION**: Here task owners can edit task name, stop task (only when task is running/waiting) & delete task.
 
 <figure><img src="../../.gitbook/assets/AI_Training_Task_Detail_1.png" alt=""><figcaption></figcaption></figure>
 
