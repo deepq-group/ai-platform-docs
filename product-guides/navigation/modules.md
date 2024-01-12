@@ -55,7 +55,7 @@ Model Deployment is the last piece of an MLOPs cycle and it is where the power o
 
 **Worklist**: A complete list of the image studies processed by model deployments that are authorized to you, shown from newest to oldest. Users can filter the worklist by selecting models by clicking on "**MODEL**".
 
-**Authorized Models**: You can view the detials of model deployments that are authorized to you. please conatct system admin for model deployment authorization.
+**Authorized Models**: You can view the details of model deployments that are authorized to you. please contact system admin for model deployment authorization.
 
 ### Module permission <a href="#module-permission" id="module-permission"></a>
 

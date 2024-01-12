@@ -18,11 +18,11 @@ Click on the top right tab “ ![](https://console.deepq.ai/docs/console/.gitboo
 
 
 
-* Click on the top right tab “ ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-22.png) ” to change password.
+* Click on the top right tab “ <img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-22.png" alt="" data-size="line"> ” to change password.
 
 #### **Change User Name** <a href="#manage-user-profile--change-password" id="manage-user-profile--change-password"></a>
 
-Click on the top right tab “ ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-22.png) ” and select "Change User Name"
+Click on the top right tab “ <img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-22.png" alt="" data-size="line"> ” and select "Change User Name"
 
 <figure><img src="../../.gitbook/assets/User_Profile_Change_User_Name.png" alt=""><figcaption></figcaption></figure>
 
