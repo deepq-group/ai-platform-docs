@@ -2,7 +2,7 @@
 
 ### Model Overview <a href="#deploy-model--inference" id="deploy-model--inference"></a>
 
-<figure><img src="../../../.gitbook/assets/AI_Training_Model_Overview_Example_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AI_Training_Model_Overview_Example_2.png" alt=""><figcaption></figcaption></figure>
 
 ### Model Detail
 
