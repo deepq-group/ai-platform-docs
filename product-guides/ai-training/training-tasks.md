@@ -6,7 +6,7 @@ In this section, users can create different training tasks, each designed for sp
 
 ### Task List
 
-In the “Task” tab, you can view the training status of all the tasks that you have created.
+In the “Task” tab, you can view the training status of all tasks created.
 
 ![](../../.gitbook/assets/AI\_Training\_Task\_Overview\_Example\_1.png)
 
