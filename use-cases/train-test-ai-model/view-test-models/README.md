@@ -35,7 +35,13 @@
 
 ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-4-3-6.png)
 
-*
+
+
+<mark style="background-color:red;">batch inference job detail missing</mark>
+
+
+
+
 
 <figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-3-7-2.png" alt=""><figcaption></figcaption></figure>
 
