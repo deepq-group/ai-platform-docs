@@ -30,7 +30,7 @@ In the “Task” tab, you can view the training status of all the tasks that yo
 
 ### Task Detail
 
-
+<figure><img src="../../.gitbook/assets/AI_Training_Task_Detail_1.png" alt=""><figcaption></figcaption></figure>
 
 
 
