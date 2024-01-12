@@ -12,14 +12,25 @@ In essence, the Task section serves as a repository for all AI training initiati
 
 
 
-![](../../.gitbook/assets/AI\_Training\_Task\_Overview\_Example\_1.png)
-
-### Task List <a href="#task-list" id="task-list"></a>
+### Task List
 
 In the “Task” tab, you can view the training status of all the tasks that you have created.
+
+![](../../.gitbook/assets/AI\_Training\_Task\_Overview\_Example\_1.png)
 
 **CREATION TIME:** Filter your tasks by "CREATION TIME" or "FINISH TIME".
 
 ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-11.png)**STATUS:** Filter your tasks by using the task status: “Running", "Waiting", "Finished", "Stopped", or "Error".
 
 ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-6.png) **SEARCH**: Search your tasks using project name.
+
+
+
+
+
+### Task Detail
+
+
+
+
+
