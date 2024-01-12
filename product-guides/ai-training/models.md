@@ -16,22 +16,20 @@ Users can search for and select from a repository of their trained AI models. Th
 
 
 
-
-
 <figure><img src="../../.gitbook/assets/AI_Training_Model_Overview_Example_2.png" alt=""><figcaption></figcaption></figure>
 
 ### Model Detail
 
 
 
-Clicking on any training task will take you to the task detail page, the information from top to bottom are:
+Clicking on any model will take you to the model detail page, the information from top to bottom are:
 
-* Task Training progress, including creation time, training duration & total GPU-hrs spent
+* Model performance: The training accuracy of the model, and the option to download model
 * Training information: training dataset, model architecture and hyperparameters
-* training report: real-time training accuracy & training curves (detailed pdf report downloadable)
-* Dataset Statistics: Statistics of training data (training set & validation set)，in the form of both bar charts and table.
+* Model report: performance/metrics of the model recorded during the training task
+* Inference List: inference jobs that has been created.
 
-<img src="../../.gitbook/assets/icon_option.png" alt="" data-size="line">**OPTION**: Here task owners can edit task name, stop task (only when task is running/waiting) & delete task.
+<img src="../../.gitbook/assets/icon_option.png" alt="" data-size="line">**OPTION**: Here task owners can edit model name & delete model.
 
 <figure><img src="../../.gitbook/assets/AI_Training_Model_Detail_1.png" alt=""><figcaption></figcaption></figure>
 
