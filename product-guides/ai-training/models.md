@@ -12,7 +12,13 @@ The Model section within the DeepQ AI platform is your hub for housing and acces
 
 Users can search for and select from a repository of their trained AI models. This section also allows users to perform inference jobs, enabling them to test these models with datasets to assess their performance. If ground truth data is provided alongside the test dataset, the system automatically computes evaluation metrics specific to the type of model used.
 
+### Model Overview
+
 <figure><img src="../../.gitbook/assets/AI_Training_Model_Overview_Example_1.png" alt=""><figcaption></figcaption></figure>
+
+### Model Detail
+
+
 
 These evaluation metrics serve as quantitative indicators of the model's performance, offering insights into its accuracy, precision, recall, and other relevant metrics. This qualitative performance assessment is invaluable for users to gauge how well their AI models are performing under different conditions and datasets.
 
