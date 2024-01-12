@@ -20,7 +20,6 @@ In annotation project for deep learning, the project owner uploads medical image
 \
 Selecting any annotation project will open the project detail view, where full information can be accessed.&#x20;
 
-*
 * <img src="../../.gitbook/assets/icon_option.png" alt="" data-size="line">**OPTION**: The project owner may also edit project names, project schedules & instructions if the project is in progress. Owners may also stop/delete/export annotation projects at any given time.
 
 <figure><img src="../../.gitbook/assets/DeepCap_Project_Detail_1.png" alt=""><figcaption><p>Project Deatil</p></figcaption></figure>
