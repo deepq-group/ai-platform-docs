@@ -1,7 +1,5 @@
 # Create Annotation Project
 
-DeepCap is an annotation tool with a project-based workflow and a simple interface. You can create a new annotation project by completing the following steps: configure project settings, select dataset & define labels and add project members.
-
 Start creating a new annotation project by clicking on "**CREATE PROJECT**".&#x20;
 
 <figure><img src="../../../.gitbook/assets/DeepCap_Project_Overview_In_Progress.png" alt=""><figcaption></figcaption></figure>
@@ -30,7 +28,7 @@ Choose one of the validation method from the below options. For the detailed exp
 
 ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-3-1-4.png)
 
-## 2. Dataset & Labels <a href="#2-dataset--labels" id="2-dataset--labels"></a>
+## 2. Dataset & Labels <a href="#id-2-dataset--labels" id="id-2-dataset--labels"></a>
 
 ### Select Dataset <a href="#select-dataset" id="select-dataset"></a>
 
@@ -56,7 +54,7 @@ Choose one of the validation method from the below options. For the detailed exp
 * **Object Detection:** Use bounding box to detect and identify target objects.
 * **Object Segmentation:** To segment and define the ROI (region of interest).
 
-## 3. Members <a href="#3-members" id="3-members"></a>
+## 3. Members <a href="#id-3-members" id="id-3-members"></a>
 
 ### Assign Annotators/Reviewers <a href="#assign-annotatorsreviewers" id="assign-annotatorsreviewers"></a>
 
@@ -64,7 +62,7 @@ Only users who have already registered on this platform can be invited as annota
 
 ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-3-1-3-1.png)
 
-## 4. Publishing <a href="#4-publishing" id="4-publishing"></a>
+## 4. Publishing <a href="#id-4-publishing" id="id-4-publishing"></a>
 
 ### Publish Project <a href="#publish-project" id="publish-project"></a>
 
