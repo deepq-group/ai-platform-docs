@@ -57,6 +57,10 @@ Model Deployment is the last piece of an MLOPs cycle and it is where the power o
 
 **Authorized Models**: You can view the details of model deployments that are authorized to you. please contact system admin for model deployment authorization.
 
+{% hint style="warning" %}
+"Deeploy" Module is designed mainly for on-premise operations and will not be explained in this user guide
+{% endhint %}
+
 ### Module permission <a href="#module-permission" id="module-permission"></a>
 
 DeepQ AI Platform module & function permission is listed in the table below. Users can click on the upper right corner to switch modules, or contact the system administrator to check which modules do you have permission to access.
