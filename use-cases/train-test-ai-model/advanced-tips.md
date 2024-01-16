@@ -30,8 +30,6 @@ When the user selects a dataset in training tasks, the system will detect whethe
 
 An algorithm trained to classify Chest X-ray images cannot help in segmenting tumors in brain MRI since each Deep learning algorithm is task-oriented. AI assisted annotation must start with an neural network trained specifically for the same purpose.
 
-<mark style="color:yellow;">Tutorial Video:</mark><img src="https://console.deepq.ai/docs/console/.gitbook/assets/video-icon-small.jpg" alt="" data-size="line">[https://console.deepq.ai/docs/console/tutorial-videos/model-training-inference.html#video-ai-assisted-annotation](https://console.deepq.ai/docs/console/tutorial-videos/model-training-inference.html#video-ai-assisted-annotation "mention")
-
 ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-4-3-9.png)
 
 #### AI Training <a href="#ai-training" id="ai-training"></a>
