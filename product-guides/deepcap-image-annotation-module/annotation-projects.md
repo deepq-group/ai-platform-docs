@@ -15,7 +15,7 @@ In annotation project for deep learning, the project owner uploads medical image
 * ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-6.png) **SEARCH**: Search your project according to the following status: Publishing, in progress, finished, stopped & error.
 * The annotation/review progress of each project is also shown in the overview.
 
-### Project Detail view
+### Annotation Project Detail
 
 \
 Selecting any annotation project will open the project detail view, where full information can be accessed.&#x20;
