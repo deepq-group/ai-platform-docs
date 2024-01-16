@@ -4,7 +4,7 @@ layout: editorial
 
 # 🖌 Annotation Jobs
 
-### Job Overview
+### My Job Overview
 
 <figure><img src="../../.gitbook/assets/DeepCap_Jobs_Overview_Ongoing.png" alt=""><figcaption></figcaption></figure>
 
@@ -16,7 +16,7 @@ layout: editorial
 
 
 
-### Job Detail
+### My Annotation Job
 
 Selecting any ongoing job will open the annotation detail, showing the detailed information & instructions of the annotation job that is assigned to you.
 

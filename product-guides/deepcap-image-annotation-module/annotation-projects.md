@@ -6,7 +6,7 @@ In annotation project for deep learning, the project owner uploads medical image
 
 ### Project Overview
 
-<figure><img src="../../.gitbook/assets/DeepCap_Project_Overview_In_Progress.png" alt=""><figcaption><p>Porject Overview</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/DeepCap_Project_Overview_In_Progress.png" alt=""><figcaption><p>Project Overview</p></figcaption></figure>
 
 * &#x20;![](<../../.gitbook/assets/icon\_add (1).png>)**Create Project:** Create a new annotation project.
 * ![](../../.gitbook/assets/icon\_magnify.png) **Search:** search for your projects by name
