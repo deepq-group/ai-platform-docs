@@ -23,19 +23,19 @@
 
 {% tabs %}
 {% tab title="Image Classification" %}
+<figure><img src="../../../.gitbook/assets/AI_Training_Inference_Viewer_SLC_1.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/AI_Training_Inference_Viewer_SLC_2.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Object Detection" %}
-
+<figure><img src="../../../.gitbook/assets/AI_Training_Inference_Viewer_DET_1.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Object Segmentation" %}
-
+<figure><img src="../../../.gitbook/assets/AI_Training_Inference_Viewer_SEG_1.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-![](https://console.deepq.ai/docs/console/.gitbook/assets/con-4-3-4.png)
 
 ### Batch inference <a href="#batch-inference" id="batch-inference"></a>
 
