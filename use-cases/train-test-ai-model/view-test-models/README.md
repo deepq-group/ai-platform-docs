@@ -65,15 +65,15 @@ The AI viewer contains the following information of each image:
 
 {% tabs %}
 {% tab title="Image Classification" %}
-<figure><img src="../../../.gitbook/assets/AI_Training_Inference_Detail_SLC_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AI_Training_Inference_Detail_SLC_2.png" alt=""><figcaption><p>Inference Detail: Image Classification</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Object Detection" %}
-<figure><img src="../../../.gitbook/assets/AI_Training_Inference_Detail_DET_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AI_Training_Inference_Detail_DET_1.png" alt=""><figcaption><p>Inference Detail: Object Detection</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Object Segmentation" %}
-<figure><img src="../../../.gitbook/assets/AI_Training_Inference_Detail_SEG_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AI_Training_Inference_Detail_SEG_1.png" alt=""><figcaption><p>Inference Detail: Object Segmentation</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -81,6 +81,7 @@ The AI viewer contains the following information of each image:
 
 #### Prediction only <a href="#prediction-only" id="prediction-only"></a>
 
+* if the batch inference dataset does not contain ground truth (annotation file not selected), there will be no performance metrics & Dataset statistics
 * Each image of the selected dataset will be shown in the last column, you can check the result by clicking on the image.
 
 ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-4-3-8.png)
