@@ -14,26 +14,25 @@
 
 ### Real-time inference <a href="#real-time-inference" id="real-time-inference"></a>
 
-* **Real-time inference:** Select and open one JPG/ PNG image from your local device, the inference result will be shown automatically .
-* ![](../../../.gitbook/assets/icon\_eye.png)
+Select and open one JPG/ PNG image from your local device, the inference result will be shown automatically with the AI image viewer.
 
-#### AI Image Viewer
+The AI viewer contains the following information of each image:
 
-
+<table><thead><tr><th width="148">Type</th><th>Image classification</th><th>Object detection</th><th>Object Segmentation</th></tr></thead><tbody><tr><td>prediction results</td><td>label name &#x26; confidence score</td><td>label name &#x26; bounding boxes in dotted lines</td><td>label name &#x26; objects with white stripes</td></tr><tr><td>Explainability</td><td>heat map of each label (can be toggled on of by <img src="../../../.gitbook/assets/icon_eye.png" alt="">)</td><td>NA</td><td>NA</td></tr><tr><td>Ground truth (if available)</td><td>ground truth labels</td><td>Bounding boxes in bold lines</td><td>Objects painted in solid colors</td></tr></tbody></table>
 
 {% tabs %}
 {% tab title="Image Classification" %}
-<figure><img src="../../../.gitbook/assets/AI_Training_Inference_Viewer_SLC_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AI_Training_Inference_Viewer_SLC_1.png" alt=""><figcaption><p>Image Classification: prediction &#x26; ground truth</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/AI_Training_Inference_Viewer_SLC_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AI_Training_Inference_Viewer_SLC_2.png" alt=""><figcaption><p>Image classification: heat map on</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Object Detection" %}
-<figure><img src="../../../.gitbook/assets/AI_Training_Inference_Viewer_DET_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AI_Training_Inference_Viewer_DET_1.png" alt=""><figcaption><p>Object detection:  prediction &#x26; ground truth</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Object Segmentation" %}
-<figure><img src="../../../.gitbook/assets/AI_Training_Inference_Viewer_SEG_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AI_Training_Inference_Viewer_SEG_1.png" alt=""><figcaption><p>Object Segmentation: prediction &#x26; ground truth</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
