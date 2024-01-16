@@ -1,6 +1,12 @@
+---
+description: Test the performance of your trained model with Inference Jobs
+---
+
 # View/Test Models
 
 ### Create Inference Job <a href="#deploy-model--inference" id="deploy-model--inference"></a>
+
+In the model detail view, you can create "Inference Jobs" to test the model
 
 <figure><img src="../../../.gitbook/assets/AI_Training_Model_Detail_4.png" alt=""><figcaption></figcaption></figure>
 
@@ -8,7 +14,7 @@
 
 ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-4-3-1.png)
 
-* There are two modes of model inference: batch & real-time.
+* There are two modes of model inference: **batch & real-time.**
 
 ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-4-3-0.png)
 
@@ -52,6 +58,10 @@ The AI viewer contains the following information of each image:
 * Inference Dataset shows all the cases that have been trained in this task.
 
 #### Inference Detail for different types:
+
+<table><thead><tr><th width="152">Type</th><th>Image Classification</th><th>Object Detection</th><th>Object Segmentation</th></tr></thead><tbody><tr><td>Performance metrics</td><td>>Accuracy<br>>ROC/PR Curve<br>>Confusion Matrix<br>>Evaluation Summary</td><td>>mAP<br>>FROC/PR Curve<br>>Evaluation Summary</td><td>>DICE scores<br>>Evaluation Summary</td></tr><tr><td>Dataset Statistics</td><td>>Label Distribution</td><td>>Box Label<br>>Box-per-Image<br>>Box Ratio<br>>Box Area<br>>Label Distribution (Image-wise)</td><td>>Label Distribution<br>>Mask-Coverage Distribution</td></tr></tbody></table>
+
+
 
 {% tabs %}
 {% tab title="Image Classification" %}
