@@ -1,8 +1,8 @@
 # ⬆ Upload & Manage Image Data
 
-## Upload from My Computer <a href="#232-upload-from-my-computer" id="232-upload-from-my-computer"></a>
+## Upload from My Computer <a href="#id-232-upload-from-my-computer" id="id-232-upload-from-my-computer"></a>
 
-Users may upload zipped dataset from the user's device. It is highly recommended to run the "[Dataset Check Tool](https://console.deepq.ai/docs/console/dataset/2.3-upload-dataset/dataset-check-tool.html)" before zip & upload. The total upload time depends on the connection speed and the size of the dataset.
+Users may upload zipped dataset from the user's device. The total upload time depends on the connection speed and the size of the dataset.
 
 <figure><img src="../../.gitbook/assets/Upload_Dataset_source.png" alt="Select &#x22;My Computer&#x22; to upload zipped datasets stored on your device"><figcaption><p>Select "My Computer" to upload zipped datasets stored on your device</p></figcaption></figure>
 
@@ -12,11 +12,11 @@ Users may upload zipped dataset from the user's device. It is highly recommended
 
 <figure><img src="../../.gitbook/assets/DeepCap_Dataset_Overview_Example_2.png" alt="Once successfully uploaded, the user can view and process the dataset under &#x22;DeepCap-->Dataset&#x22; or &#x22;AI Training-->Dataset&#x22;"><figcaption><p>Once successfully uploaded, the user can view and process the dataset under "DeepCap-->Dataset" or "AI Training-->Dataset"</p></figcaption></figure>
 
-## Import from Dataset Gallery <a href="#233-dataset-gallery" id="233-dataset-gallery"></a>
+## Import from Dataset Gallery <a href="#id-233-dataset-gallery" id="id-233-dataset-gallery"></a>
 
 Other than uploading datasets from a local computer, users may select datasets that have been uploaded to the DeepQ AI platform's dataset gallery. Please contact the system admin or DeepQ personnel to learn more about these datasets.
 
-## Dataset Gallery <a href="#233-dataset-gallery" id="233-dataset-gallery"></a>
+## Dataset Gallery <a href="#id-233-dataset-gallery" id="id-233-dataset-gallery"></a>
 
 Other than uploading datasets from a local computer, users may select datasets that have been uploaded to the DeepQ AI platform's dataset gallery. Please contact the system admin or DeepQ personnel to learn more about these datasets.
 
@@ -28,7 +28,7 @@ Other than uploading datasets from a local computer, users may select datasets t
 
 <figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-2-6-0.png" alt="Once successfully imported, the user can view and process the dataset under &#x22;DeepCap-->Dataset&#x22; or &#x22;AI Training-->Dataset&#x22;"><figcaption><p>Once successfully imported, the user can view and process the dataset under "DeepCap-->Dataset" or "AI Training-->Dataset"</p></figcaption></figure>
 
-## Manage Datasets <a href="#24-manage-datasets" id="24-manage-datasets"></a>
+## Manage Datasets <a href="#id-24-manage-datasets" id="id-24-manage-datasets"></a>
 
 #### Upload issues: Alert Message <a href="#upload-issues-alert-message" id="upload-issues-alert-message"></a>
 
