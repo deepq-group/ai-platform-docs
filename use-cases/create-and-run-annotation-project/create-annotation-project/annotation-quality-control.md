@@ -34,7 +34,7 @@ As a project owner, you can view the suggested DSV result for each image and can
 
 **Image Classification:**
 
-* **DSV result:** The suggested label and the consistency rate are shown in this section. The DSV calculation for image classification is simple as the DSV result is determined by estimating the majority consensus. For example, if there were three annotators work on each image, two of them select the same label for one image, the consistency rate would be 67%. If The DSV result presented as “failed” means the consistency rate is equal or less than 50%. In this case, you can return (![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-21.png)) this study to the annotator or exclude (![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-9.png)) this case from AI training.
+* **DSV result:** The suggested label and the consistency rate are shown in this section. The DSV calculation for image classification is simple as the DSV result is determined by estimating the majority consensus. For example, if there were three annotators work on each image, two of them select the same label for one image, the consistency rate would be 67%. If The DSV result presented as “failed” means the consistency rate is equal or less than 50%. In this case, you can return this study to the annotator or exclude this case from AI training.
 
 ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-3-1-13.jpg)
 

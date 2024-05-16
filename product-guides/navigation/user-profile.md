@@ -1,4 +1,4 @@
-# 👩🏫 User Profile
+# 👩‍🏫 User Profile
 
 Once logged in, click on the account button![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-1.png) at the upper right corner, and select "view my profile" link.
 
@@ -12,17 +12,15 @@ your user information is listed here, you may also change your username or passw
 
 #### **Change Password** <a href="#manage-user-profile--change-password" id="manage-user-profile--change-password"></a>
 
-Click on the top right tab “ ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-22.png) ” and select "Change Password"
+Click on the top right tab “ ![](../../.gitbook/assets/con-icon-22.png) ” and select "Change Password"
 
 <figure><img src="../../.gitbook/assets/User_Profile_Change_Password.png" alt=""><figcaption></figcaption></figure>
 
 
 
-* Click on the top right tab “ <img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-22.png" alt="" data-size="line"> ” to change password.
-
 #### **Change User Name** <a href="#manage-user-profile--change-password" id="manage-user-profile--change-password"></a>
 
-Click on the top right tab “ <img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-22.png" alt="" data-size="line"> ” and select "Change User Name"
+Click on the top right tab “ <img src="../../.gitbook/assets/con-icon-22.png" alt="" data-size="line"> ” and select "Change User Name"
 
 <figure><img src="../../.gitbook/assets/User_Profile_Change_User_Name.png" alt=""><figcaption></figcaption></figure>
 

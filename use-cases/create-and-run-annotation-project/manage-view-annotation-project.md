@@ -1,6 +1,6 @@
 # Manage/View Annotation Project
 
-## Manage Annotation Projects <a href="#33-manage-annotation-projects" id="33-manage-annotation-projects"></a>
+## Manage Annotation Projects <a href="#id-33-manage-annotation-projects" id="id-33-manage-annotation-projects"></a>
 
 Once an annotation project has been published and running, the project owner can view and manage the project anytime.
 
@@ -32,7 +32,7 @@ Once an annotation project has been published and running, the project owner can
 Dataset that cannot be exported for training.
 
 * Without annotation result: There is no any saved annotations for this dataset.
-* User exclude: A project Owner excludes (![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-9.png)) that case.
+* User exclude: A project Owner excludes that case.
 * System exclude: The DSV result excludes that case because of an unacceptably lower consistency rate.
 * Problematic image: Annotated as “Problematic image” by an annotator.
 
