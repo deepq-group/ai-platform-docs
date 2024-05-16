@@ -4,7 +4,7 @@ description: >-
   annotation, model training and testing.
 ---
 
-# 🖼 Dataset(s)
+# 🖼️ Dataset(s)
 
 ### Dataset List <a href="#dataset-list" id="dataset-list"></a>
 
@@ -46,4 +46,4 @@ Deleting a dataset will remove all annotations attached to it and any derivative
 
 ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-2-0-6.png)
 
-Other than the browsing tools, user can toggle on/off the detection/segmentation labels by clicking on the ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-23.png)
+Other than the browsing tools, user can toggle on/off the detection/segmentation labels by clicking on the ![](../../.gitbook/assets/icon\_eye.png)

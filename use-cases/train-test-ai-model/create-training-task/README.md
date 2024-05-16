@@ -20,12 +20,20 @@ The first step of general training is to select the task type: image classificat
 
 With specialzed training, you may choose from the tasks that has been prepared by DeepQ. Users should provide datasets (image format & annotation) according to the table below.
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-1-2-2.3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AI_Training_Crate_Task_Specialized_1.png" alt=""><figcaption></figcaption></figure>
 
 #### Existing Model Retraining <a href="#existing-model-retraining" id="existing-model-retraining"></a>
 
 Select one of your previously trained models to start a new training task
 
+<div>
+
 <figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-1-3-2.3.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/AI_Training_Create_Task_Retrain_1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>General Training</td><td></td></tr><tr><td></td><td>Specific Application</td><td></td></tr><tr><td></td><td>Retrain My Model</td><td></td></tr></tbody></table>

@@ -1,6 +1,6 @@
 # Basic Annotation
 
-## Start Annotation <a href="#32-start-annotation" id="32-start-annotation"></a>
+## Start Annotation <a href="#id-32-start-annotation" id="id-32-start-annotation"></a>
 
 Image annotation is the process of labeling or adding metadata to images to describe and identify objects, features, or attributes within those images. It involves marking or outlining specific areas or elements of an image to provide contextual information or categorization for machine learning algorithms.
 
@@ -44,7 +44,7 @@ You can filter the studies by annotation status: Remaining, Finished, Returned.
 ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-3-2-5.png)
 
 * You can view the WW/WL of that image by the top left button, select it to adjust the WW/WL of the image.
-* Click on ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-6.png) and slide to zoom in and zoom out the images.
+* Click on ![](../../.gitbook/assets/icon\_magnify.png) and slide to zoom in and zoom out the images.
 
 ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-3-2-6.png)
 

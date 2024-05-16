@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🖌 Annotation Jobs
+# 🖌️ Annotation Jobs
 
 ### My Job Overview
 
@@ -31,8 +31,6 @@ layout:
 Selecting any ongoing job will open the annotation detail, showing the detailed information & instructions of the annotation job that is assigned to you.
 
 <figure><img src="../../.gitbook/assets/DeepCap_Jobs_Detail_1.png" alt=""><figcaption></figcaption></figure>
-
-###
 
 ### Image Viewer/Annotation Interface
 
