@@ -8,27 +8,23 @@ Start creating a new annotation project by clicking on "**CREATE PROJECT**".&#x2
 
 ### 1. Settings <a href="#settings" id="settings"></a>
 
-Input project information, instruction files, set validation method & project schedule (optional)
+<figure><img src="../../../.gitbook/assets/DeepCap_Create_Project_1.png" alt=""><figcaption></figcaption></figure>
 
-![](https://console.deepq.ai/docs/console/.gitbook/assets/con-3-1-0.png)
-
-**Input project name and related instruction.**
-
-![](https://console.deepq.ai/docs/console/.gitbook/assets/con-3-1-2.png)
+### **Input project name and related instruction.**
 
 * Other than written instructions, project owner can attach additional reference files (jpg, png & pdf)
 
-**Select validation method：**
+### **Select validation method：**
 
-Choose one of the validation method from the below options. For the detailed explanation of DSV & reviewer, please refer to [Annotation Quality Control](https://console.deepq.ai/docs/console/working-flow/create-an-annotation-project/1.-settings/deepcap-smart-validation-dsv.html).
+* Choose one of the validation method from the below options. For the detailed explanation of DSV & reviewer, please refer to [Annotation Quality Control](https://console.deepq.ai/docs/console/working-flow/create-an-annotation-project/1.-settings/deepcap-smart-validation-dsv.html).
 
-![](https://console.deepq.ai/docs/console/.gitbook/assets/con-3-1-3.png)
-
-**Schedule the project progress (optional).**
+### **Schedule the project progress (optional).**
 
 ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-3-1-4.png)
 
 ## 2. Dataset & Labels <a href="#id-2-dataset--labels" id="id-2-dataset--labels"></a>
+
+<figure><img src="../../../.gitbook/assets/DeepCap_Create_Project_2.png" alt=""><figcaption></figcaption></figure>
 
 ### Select Dataset <a href="#select-dataset" id="select-dataset"></a>
 
@@ -36,16 +32,10 @@ Choose one of the validation method from the below options. For the detailed exp
 * Case preview will be shown below to help you ensure that you select the correct dataset.
 * You can choose to include the annotation data.
 
-![](https://console.deepq.ai/docs/console/.gitbook/assets/con-3-1-2-1.png)
-
-![](https://console.deepq.ai/docs/console/.gitbook/assets/con-3-1-2-2.png)
-
 ### Label Setting <a href="#label-setting" id="label-setting"></a>
 
 * Chose one or more label types that you want to add on the dataset.
 * Define the label names for each label type.
-
-![](https://console.deepq.ai/docs/console/.gitbook/assets/con-3-2-1-3-2.png)
 
 ### Task definition <a href="#task-definition" id="task-definition"></a>
 
@@ -56,6 +46,8 @@ Choose one of the validation method from the below options. For the detailed exp
 
 ## 3. Members <a href="#id-3-members" id="id-3-members"></a>
 
+<figure><img src="../../../.gitbook/assets/DeepCap_Create_Project_3.png" alt=""><figcaption></figcaption></figure>
+
 ### Assign Annotators/Reviewers <a href="#assign-annotatorsreviewers" id="assign-annotatorsreviewers"></a>
 
 Only users who have already registered on this platform can be invited as annotator/reviewer. Each annotator can be removed after selection.
@@ -64,12 +56,10 @@ Only users who have already registered on this platform can be invited as annota
 
 ## 4. Publishing <a href="#id-4-publishing" id="id-4-publishing"></a>
 
+<figure><img src="../../../.gitbook/assets/DeepCap_Create_Project_4.png" alt=""><figcaption></figcaption></figure>
+
 ### Publish Project <a href="#publish-project" id="publish-project"></a>
 
 The final step before publishing an annotation project is to review the settings.
-
-![](https://console.deepq.ai/docs/console/.gitbook/assets/con-3-1-4-1.jpg)
-
-![](https://console.deepq.ai/docs/console/.gitbook/assets/con-3-1-4-4.png)
 
 The annotation project can be published once the settings are correct. All the participated annotators would receive an invitation mail, and the annotation process is initiated.

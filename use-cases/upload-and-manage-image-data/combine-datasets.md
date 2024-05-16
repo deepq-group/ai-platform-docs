@@ -14,7 +14,7 @@
 * Only **the same type** (classification, detection, segmentation) of labels can be combined.
 * Dicom images will be converted to png format if the combination involves mixed image formats.
 
-## Select Datasets <a href="#261-select-datasets" id="261-select-datasets"></a>
+## Select Datasets <a href="#id-261-select-datasets" id="id-261-select-datasets"></a>
 
 First step requires the user to choose source datasets.
 
@@ -22,12 +22,12 @@ First step requires the user to choose source datasets.
 
 <figure><img src="../../.gitbook/assets/Dataset_Combine_2.png" alt="Select more than one datasets to combine"><figcaption><p>Select more than one datasets to combine</p></figcaption></figure>
 
-## Select Annotation Types <a href="#262-select-annotation-types" id="262-select-annotation-types"></a>
+## Select Annotation Types <a href="#id-262-select-annotation-types" id="id-262-select-annotation-types"></a>
 
 <figure><img src="../../.gitbook/assets/Dataset_Combine_4.png" alt="The system will list all the labels of the selected type from each source dataset for the user to select."><figcaption><p>The system will list all the labels of the selected type from each source dataset for the user to select.</p></figcaption></figure>
 
-## Review & Combine <a href="#263-review--combine" id="263-review--combine"></a>
+## Review & Combine <a href="#id-263-review--combine" id="id-263-review--combine"></a>
 
 <figure><img src="../../.gitbook/assets/Dataset_Combine_5.png" alt="The last step requires the user to review the combination setting and name the combined dataset."><figcaption><p>The last step requires the user to review the combination setting and name the combined dataset.</p></figcaption></figure>
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-2-6-7.png" alt="Once the combination is successfully processed, the result can be viewed and managed in the dataset list"><figcaption><p>Once the combination is successfully processed, the result can be viewed and managed in the dataset list</p></figcaption></figure>
+Once the combination is successfully processed, the result can be viewed and managed in the dataset list
