@@ -11,8 +11,8 @@ In annotation project for deep learning, the project owner uploads medical image
 * &#x20;![](<../../.gitbook/assets/icon\_add (1).png>)**Create Project:** Create a new annotation project.
 * ![](../../.gitbook/assets/icon\_magnify.png) **Search:** search for your projects by name
 * **Publication date:** Sort your projects by publication dates..
-* ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-11.png)**STATUS:** Filter your tasks by using the task status: “Running", "Waiting", "Finished", "Stopped", or "Error".
-* ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-6.png) **SEARCH**: Search your project according to the following status: Publishing, in progress, finished, stopped & error.
+* **STATUS:** Filter your tasks by using the task status: “Running", "Waiting", "Finished", "Stopped", or "Error".
+* **SEARCH**: Search your project according to the following status: Publishing, in progress, finished, stopped & error.
 * The annotation/review progress of each project is also shown in the overview.
 
 ### Annotation Project Detail
@@ -26,6 +26,3 @@ Selecting any annotation project will open the project detail view, where full i
 
 
 
-
-
-###

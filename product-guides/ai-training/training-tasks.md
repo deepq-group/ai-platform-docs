@@ -1,4 +1,4 @@
-# ⚙ Training Tasks
+# ⚙️ Training Tasks
 
 DeepQ AI Training is the place where the Neural Networks learns from training dataset (images & labels) . Users can train the Neural Network to do specific tasks and create their own AI application with personalized dataset.
 
@@ -10,11 +10,11 @@ In the “Task” tab, you can view the training status of all tasks created.
 
 ![](../../.gitbook/assets/AI\_Training\_Task\_Overview\_Example\_1.png)
 
-**CREATION TIME:** Filter your tasks by "CREATION TIME" or "FINISH TIME".
+* **CREATION TIME:** Filter your tasks by "CREATION TIME" or "FINISH TIME".
+* **STATUS:** Filter your tasks by using the task status: “Running", "Waiting", "Finished", "Stopped", or "Error".
+* &#x20;**SEARCH**: Search your tasks using project name.
 
-![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-11.png)**STATUS:** Filter your tasks by using the task status: “Running", "Waiting", "Finished", "Stopped", or "Error".
 
-![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-6.png) **SEARCH**: Search your tasks using project name.
 
 
 

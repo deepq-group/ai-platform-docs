@@ -19,8 +19,8 @@ layout:
 <figure><img src="../../.gitbook/assets/DeepCap_Jobs_Overview_Ongoing.png" alt=""><figcaption></figcaption></figure>
 
 * **Types:** Filter your job types by "Annotation", "Review" & "All Types"
-* ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-11.png)**STATUS:** Filter your jobs by using the task status: “Ongoing", "Stopped" & "Finished".
-* ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-6.png) **SEARCH**: Search your jobs using annotation project name.
+* **STATUS:** Filter your jobs by using the task status: “Ongoing", "Stopped" & "Finished".
+* &#x20;**SEARCH**: Search your jobs using annotation project name.
 
 
 

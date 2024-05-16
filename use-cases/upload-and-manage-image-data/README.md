@@ -1,4 +1,4 @@
-# ⬆ Upload & Manage Image Data
+# ⬆️ Upload & Manage Image Data
 
 ## Upload from My Computer <a href="#id-232-upload-from-my-computer" id="id-232-upload-from-my-computer"></a>
 
@@ -24,17 +24,14 @@ Other than uploading datasets from a local computer, users may select datasets t
 
 <figure><img src="../../.gitbook/assets/Upload_Dataset_Dataset_Gallery_visible.png" alt="The gallery contains datasets of different images/annotations prepared by DeepQ."><figcaption><p>The gallery contains datasets of different images/annotations prepared by DeepQ.</p></figcaption></figure>
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-2-3-3-3-2.3.jpg" alt="Each card contains information about the dataset, including file size/format, annoatation type included and source link"><figcaption><p>Each card contains information about the dataset, including file size/format, annoatation type included and source link</p></figcaption></figure>
-
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-2-6-0.png" alt="Once successfully imported, the user can view and process the dataset under &#x22;DeepCap-->Dataset&#x22; or &#x22;AI Training-->Dataset&#x22;"><figcaption><p>Once successfully imported, the user can view and process the dataset under "DeepCap-->Dataset" or "AI Training-->Dataset"</p></figcaption></figure>
+* Each card contains information about the dataset, including file size/format, annotation type included and source link
+* Once successfully imported, the user can view and process the dataset under "DeepCap-->Dataset" or "AI Training-->Dataset"
 
 ## Manage Datasets <a href="#id-24-manage-datasets" id="id-24-manage-datasets"></a>
 
 #### Upload issues: Alert Message <a href="#upload-issues-alert-message" id="upload-issues-alert-message"></a>
 
 The alert message of “preparation failed” is presented if the dataset format you uploaded is not compatible. Click on the dataset and view the error message. You can either save the successful cases and continue, or you can delete the entire dataset and upload a new one.
-
-![](https://console.deepq.ai/docs/console/.gitbook/assets/con-2-4-1.png)
 
 #### Delete a Dataset <a href="#delete-a-dataset" id="delete-a-dataset"></a>
 

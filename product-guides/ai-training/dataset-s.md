@@ -10,8 +10,8 @@ description: >-
 
 ![](../../.gitbook/assets/DeepCap\_Dataset\_Overview\_Example\_2.png)
 
-* ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-4.png) **Upload Dataset:** Click on this button and upload your dataset in DICOM/ JPG, PNG form.
-* ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-6.png) **Search:** Search for your uploaded dataset by its name.
+* **Upload Dataset:** Click on this button and upload your dataset in DICOM/ JPG, PNG form.
+* **Search:** Search for your uploaded dataset by its name.
 * **Combine**: Combine two or more datasets to form a new dataset. The new dataset can be image-only or contains annotation from the source datasets.&#x20;
 * The Dataset list shows all the datasets uploaded by the user and # of studies contained in each dataset
 * The number of annotation data attached is shown, each dataset can have multiple annotation data of different types of labeling and number of studies (subsets).
