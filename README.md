@@ -5,7 +5,7 @@ coverY: 0
 
 # 👋 Welcome to DeepQ AI Platform!
 
-### elcome to the future of medical innovation at DeepQ AI Platform! 🚀&#x20;
+### Welcome to the future of medical innovation at DeepQ AI Platform! 🚀&#x20;
 
 <figure><img src=".gitbook/assets/shutterstock_2028573011.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
