@@ -15,7 +15,7 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 [1.3 System Notification](faq/ai-training-related-issues.md)
 
-## [2. AI worklist & viewer](5.1-ai-worklist-and-viewer/)
+## [2. AI worklist & viewer](5.1-ai-worklist-and-viewer.md)
 
 ## [3. FAQ](faq/)
 
