@@ -17,6 +17,10 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 ## [2. AI worklist & viewer](5.1-ai-worklist-and-viewer.md)
 
+[2.1 AI worklist](5.1-ai-worklist-and-viewer/5.1-ai-worklist-and-viewer.md)
+
+[2.2 AI viewer](5.1-ai-worklist-and-viewer/5.1-ai-worklist-and-viewer-1.md)
+
 ## [3. FAQ](faq/)
 
 [3.1 Change Log](faq/6.3-change-log)
