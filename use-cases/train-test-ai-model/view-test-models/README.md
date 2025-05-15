@@ -83,5 +83,3 @@ The AI viewer contains the following information of each image:
 
 * if the batch inference dataset does not contain ground truth (annotation file not selected), there will be no performance metrics & Dataset statistics
 * Each image of the selected dataset will be shown in the last column, you can check the result by clicking on the image.
-
-![](https://console.deepq.ai/docs/console/.gitbook/assets/con-4-3-8.png)

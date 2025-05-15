@@ -2,7 +2,7 @@
 
 The inference insight report is a guide that helps you evaluate your trained model on a given test dataset. The provided metrics and figures depend on the task being performed. We also provide some case studies that showcase the model’s raw predictions. By analyzing the mistakes the model makes, we can identify possible weaknesses of the model and adjust future training accordingly.
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-2-2-0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Inference_Insight_1.png" alt=""><figcaption></figcaption></figure>
 
 _Note: It is not necessary for the test dataset to originate from the same data source as the training dataset. Ideally, the test dataset should be rigorous (e.g. contain both simple and hard samples) so that the model’s true performance can be tested._
 
@@ -14,7 +14,7 @@ The definitions of the deep learning metrics are given in [https://console.deepq
 
 In multi-class classification, we provide the ROC curves (left), the Precision-Recall (PR, center) curves, and the Confusion Matrix (right).
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-8-2-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Training_Insight_15.png" alt=""><figcaption></figcaption></figure>
 
 **Multi-Label Classification**
 
@@ -24,7 +24,7 @@ In multi-class classification, we provide the ROC curves and the Precision-Recal
 
 In object detection, we show the PR curves (below left) and the FROC curves (below right).
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-8-2-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Training_Insight_16.png" alt=""><figcaption></figcaption></figure>
 
 **Semantic Segmentation**
 
@@ -34,9 +34,7 @@ In Semantic Segmentation, there are no relevant curves to display.
 
 The model performance table provides quantifiable values that evaluate the model’s performance. Below we show several example performance tables:
 
-\\
-
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-8-2-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Training_Insight_17.png" alt=""><figcaption></figcaption></figure>
 
 Aside from object detection, we organize the model performance according to class. We also provide the average performance across classes on the last row. By comparing the per-class performance with the average performance, you can identify classes where the model might be under-performing. In each row, we provide different metrics. Users will need to focus on the metrics that matter most according to their need.
 
