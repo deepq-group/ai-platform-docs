@@ -54,7 +54,7 @@ A: Try to add more images to the under-represented class to surpass the Cutoff T
 
 The next step to diagnosing our model is to check the Training and Validation Losses within the Training Curves section. Below we show several possible scenarios you might encounter during training.
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-8-1-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Training_Insight_5.png" alt=""><figcaption></figcaption></figure>
 
 **Curves A:** Both training and validation losses are decreasing. You are doing fine!
 
@@ -78,7 +78,7 @@ Data Statistics provides you with a side by side comparison between the training
 
 In the case of multi-class classification, each image only has one label. Similar to the example above, Data Statistics for multi-class classification shows a bar graph resembling the percentage each class occupies in the dataset. Hence, the only issue to consider here is if the labels are evenly distributed.
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-8-1-6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Training_Insight_7.png" alt=""><figcaption></figcaption></figure>
 
 **Multi-Label Classification:**
 
@@ -86,7 +86,7 @@ In the case of multi-label classification, each image may contain more than one 
 
 Consider the following example:
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-8-1-7.png" alt=""><figcaption><p>Fig-7: We show how to generate the multi-label Data Statistics plot for these 4 images</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Training_Insight_8.png" alt=""><figcaption><p>Fig-7: We show how to generate the multi-label Data Statistics plot for these 4 images</p></figcaption></figure>
 
 For _class X_, we count the number of images that have a label for _class X_, and we divide that number by the total number of images in the dataset to obtain the value of each bar.
 
@@ -96,19 +96,19 @@ To increase the number of labels for _class X_, we add more images that have _cl
 
 In the problem of object detection, each image may contain one or more bounding boxes. We can analyze the distribution of these bounding boxes as either multi-label labels of the image or crops of images. Consider the following example:
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-8-1-8.png" alt=""><figcaption><p>Fig-8: We show how to generate the label distribution and bounding box label plots for these 3 images</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Training_Insight_9.png" alt=""><figcaption><p>Fig-8: We show how to generate the label distribution and bounding box label plots for these 3 images</p></figcaption></figure>
 
 You can treat bounding boxes as multi-label labels by setting each class that has more than one bounding box as positive in the multi-label label format. You can also consider crops of each bounding box as an image in each of its own class labels. Using the same Data Statistics analysis we developed for multi-class and multi-label classification, we can generate the label distribution and bounding box labels bar charts.
 
 In addition to label distribution plots, Data Statistics for object detection also includes analysis plots that show bounding box related statistics. For each bounding box, we compute its area relative to the image it belongs to (a percentage). We also compute the bounding box ratio by dividing the bounding box’s width by its height (see Fig-9).
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-8-1-9.png" alt=""><figcaption><p>Fig-9: We explain how the bounding box area and ratios statistics are computed.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Training_Insight_10.png" alt=""><figcaption><p>Fig-9: We explain how the bounding box area and ratios statistics are computed.</p></figcaption></figure>
 
 We also compute the average number of bounding boxes in each image (see Fig-10). These statistics are then organized in the Bounding Box Area, Bounding Box Ratio, and Bounding Box Per Img bar charts.
 
 You may use these bounding box statistics plots to understand your dataset’s bounding box distribution. These bounding box statistic plots, however, don’t necessarily have to be balanced for training to progress well. For object detection, the main metric (and associated plot) we suggest to achieve a balance in would be bounding box labels (Label distribution for object detection is already given in the Insight Summary). For a _class X_ that has a small amount of bounding boxes out of all bounding boxes, we suggest adding images that have more bounding boxes of _class X_.
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-8-1-10.png" alt=""><figcaption><p>Fig-10: We show an example of two images, and we compute their bounding box area, ratio, and counts per image.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Training_Insight_11.png" alt=""><figcaption><p>Fig-10: We show an example of two images, and we compute their bounding box area, ratio, and counts per image.</p></figcaption></figure>
 
 **Semantic Segmentation:**
 
