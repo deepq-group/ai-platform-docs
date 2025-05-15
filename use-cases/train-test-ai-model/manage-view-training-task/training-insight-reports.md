@@ -112,14 +112,14 @@ You may use these bounding box statistics plots to understand your dataset’s b
 
 **Semantic Segmentation:**
 
-In semantic segmentation, each image contains multiple masks, each belonging to a different class. If an image doesn’t have a mask for a certain class, you can think of that class’s mask as being a “zero-mask” (a complete transparent mask). This is similar to how labels are stored in the case of multi-label classification. Hence, we analyze the mask label distribution similar to the case of multi-label classification (see Fig-11). Using the same technique shown in Object Detection, we generate the multi-label label distribution for the segmentation masks.
+In semantic segmentation, each image contains multiple masks, each belonging to a different class. If an image doesn’t have a mask for a certain class, you can think of that class’s mask as being a “zero-mask” (a complete transparent mask). This is similar to how labels are stored in the case of multi-label classification. Hence, we analyze the mask label distribution similar to the case of multi-label classification. Using the same technique shown in Object Detection, we generate the multi-label label distribution for the segmentation masks.
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-8-1-11.png" alt=""><figcaption><p>Fig-11: We show an example of two images, and we compute their bounding box area, ratio, and counts per image.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Training_Insight_12.png" alt=""><figcaption><p>Fig-11: Segmentation masks of different classes within one image</p></figcaption></figure>
 
 In addition to the label distribution, we compute the area the masks take up in the image (relative to the original image). We compute the area each class’s mask takes up (see Fig-12), and we organize by class the mask area statistics (see Fig-13).
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-8-1-12.png" alt=""><figcaption><p>Fig-12: An image with three mask classes are shown. We split the masks by their classes, and compute the area each class’s mask consumes.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Training_Insight_13.png" alt=""><figcaption><p>Fig-12: An image with three mask classes are shown. We split the masks by their classes, and compute the area each class’s mask consumes.</p></figcaption></figure>
 
 The mask area statistics allows you to understand how much area the segmentation masks for each class occupies generally. We provide the mask area information class-wise. It is not necessary for the mask area distribution to necessarily be balanced for training to progress well. We suggest, rather, to aim for balance in the label distribution (provided in the Insight Report). For classes that don’t have enough masks, we suggest adding more images that have non-zero masks to balance the dataset.
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-8-1-13.png" alt=""><figcaption><p>Fig-13: Example of 2 images and computing the mask area distribution for each class category.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Training_Insight_14.png" alt=""><figcaption><p>Fig-13: Example of 2 images and computing the mask area distribution for each class category.</p></figcaption></figure>
