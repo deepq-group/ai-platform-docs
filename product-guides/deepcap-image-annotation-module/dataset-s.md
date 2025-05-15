@@ -4,11 +4,11 @@ description: >-
   annotation, model training and testing.
 ---
 
-# 🖼 Dataset(s)
+# 🖼️ Dataset(s)
 
 ### Dataset List <a href="#dataset-list" id="dataset-list"></a>
 
-![](../../.gitbook/assets/DeepCap\_Dataset\_Overview\_Example\_2.png)
+![](../../.gitbook/assets/DeepCap_Dataset_Overview_Example_2.png)
 
 * ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-4.png) **Upload Dataset:** Click on this button and upload your dataset in DICOM/ JPG, PNG form.
 * ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-6.png) **Search:** Search for your uploaded dataset by its name.
@@ -29,7 +29,7 @@ description: >-
 Deleting a dataset will remove all annotations attached to it and any derivatives on the platform, proceed with caution.
 {% endhint %}
 
-![](../../.gitbook/assets/DeepCap\_Dataset\_Detail\_scrolldown.png)
+![](../../.gitbook/assets/DeepCap_Dataset_Detail_scrolldown.png)
 
 * Clicking on the thumbnail of raw data(image) opens up the image viewer with essential browsing functions such as pan, zoom in/out & brightness/contrast adjustment.
 
@@ -40,10 +40,7 @@ Deleting a dataset will remove all annotations attached to it and any derivative
 * Selecting any annotation file will open the annotation detail view, showing the information of the annotation file: source, annotation type and its usage across the platform.
 * The label distribution statistics is also provided as bar graph or table. &#x20;
 
-![](../../.gitbook/assets/DeepCap\_Dataset\_Detail\_Annotation\_1.png)
+![](../../.gitbook/assets/DeepCap_Dataset_Detail_Annotation_1.png)
 
 * Clicking on each thumbnail opens the image viewer and showing the label information for a more detailed inspection.
-
-![](https://console.deepq.ai/docs/console/.gitbook/assets/con-2-0-6.png)
-
-Other than the browsing tools, user can toggle on/off the detection/segmentation labels by clicking on the ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-23.png)
+* User can toggle on/off the detection/segmentation labels by clicking on the ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-icon-23.png)
