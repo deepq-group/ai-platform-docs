@@ -42,7 +42,7 @@ Aside from object detection, we organize the model performance according to clas
 
 The Data and Prediction Statistics figures and tables section provides a comparison between the ground truth label distribution and the model’s predicted label distribution. This is useful when we want to identify whether the model has potentially overfit/underfit to a certain class during training. We show an examples below:
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-8-2-4.png" alt=""><figcaption><p>Possible Data and Prediction Statistic plots generated. There is noticeable discrepancy between the ground truth test set and the model’s prediction on the test set.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Training_Insight_18.png" alt=""><figcaption><p>Possible Data and Prediction Statistic plots generated. There is noticeable discrepancy between the ground truth test set and the model’s prediction on the test set.</p></figcaption></figure>
 
 Explanation: We can see that the test dataset is roughly evenly distributed. But the majority of our model’s predictions are focused on cats and dogs. It’s possible this is caused by our training dataset having a large number of cat and dog images. We can see that our model rarely predicts fish. It’s possible that the fish images in our test set look largely different from the training set fish images. Or it could be that there are not that many fish images in our training set.
 
@@ -56,8 +56,7 @@ The case studies section of our inference report samples some of the model’s p
 
 The definition for True Positive, False Positive, and False Negative are different between each task. We use the following figure to explain:
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-8-2-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Training_Insight_19 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-8-2-6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Training_Insight_20.png" alt=""><figcaption></figcaption></figure>
 
-We provide 18 samples of True Positive, False Positive, False Negative cases from each class. By analyzing each of these predictions and their ground truths, we can identify the issues (False Positive and False Negatives) and identify possible areas of improvement for our model.
