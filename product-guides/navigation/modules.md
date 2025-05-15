@@ -4,9 +4,9 @@ The moment you log into DeepQ AI Platform, you can choose from the three modules
 
 The complete DeepQ AI Platform consists of three main modules：
 
-* <img src="../../.gitbook/assets/AIP_DeepCap_icon.png" alt="" data-size="line">[**DeepCap**](modules.md#deepcap-overview)**：**Dataset management & image annotation
-* <img src="../../.gitbook/assets/AIP_ AI Training_icon.png" alt="" data-size="line">[**AI Training**](modules.md#ai-training-overview)**：**Model selection/tuning & evaluation
-* <img src="../../.gitbook/assets/AIP_Deeploy_icon.png" alt="" data-size="line">[**Deeploy**](modules.md#deeploy-overview)**：**Real-time model deployment, worklist & AI viewer
+* <img src="../../.gitbook/assets/AIP_DeepCap_icon.png" alt="" data-size="line">[**DeepCap**](modules.md#deepcap-overview)**：**&#x44;ataset management & image annotation
+* <img src="../../.gitbook/assets/AIP_ AI Training_icon.png" alt="" data-size="line">[**AI Training**](modules.md#ai-training-overview)**：**&#x4D;odel selection/tuning & evaluation
+* <img src="../../.gitbook/assets/AIP_Deeploy_icon.png" alt="" data-size="line">[**Deeploy**](modules.md#deeploy-overview)**：**&#x52;eal-time model deployment, worklist & AI viewer
 
 ![](https://console.deepq.ai/docs/console/.gitbook/assets/con-1-2-1.png)
 

@@ -6,7 +6,7 @@ Annotation quality is an important factor in Deep Learning. In order to ensure t
 
 ***
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-3-1-5-2.3.jpg" alt="validation workflow by DeepCap Smart Validation (DSV)"><figcaption><p>validation workflow by DeepCap Smart Validation (DSV)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DeepCap_QC_1.png" alt="validation workflow by DeepCap Smart Validation (DSV)"><figcaption><p>validation workflow by DeepCap Smart Validation (DSV)</p></figcaption></figure>
 
 <figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-3-1-6-2.3.jpg" alt="validation workflow performed only by reviewers"><figcaption><p>validation workflow performed only by reviewers</p></figcaption></figure>
 
