@@ -14,7 +14,7 @@ Clicking on the "**CREATE NEW TASK**" tab leads you to selecting one of the trai
 
 The first step of general training is to select the task type: image classification, object detection or Object segmentation
 
-![](../../../.gitbook/assets/AITraining\_general\_training.png)
+![](../../../.gitbook/assets/AITraining_general_training.png)
 
 #### Specialized Training <a href="#specialized-training" id="specialized-training"></a>
 
@@ -26,14 +26,6 @@ With specialzed training, you may choose from the tasks that has been prepared b
 
 Select one of your previously trained models to start a new training task
 
-<div>
+<div><figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-1-3-2.3.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/AI_Training_Create_Task_Retrain_1.png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="https://console.deepq.ai/docs/console/.gitbook/assets/con-4-1-3-2.3.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/AI_Training_Create_Task_Retrain_1.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>General Training</td><td></td></tr><tr><td></td><td>Specific Application</td><td></td></tr><tr><td></td><td>Retrain My Model</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>General Training</td><td></td><td><a href="general-training.md">general-training.md</a></td></tr><tr><td></td><td>Specific Application</td><td></td><td><a href="specialized-training.md">specialized-training.md</a></td></tr><tr><td></td><td>Retrain My Model</td><td></td><td><a href="existing-model-retraining.md">existing-model-retraining.md</a></td></tr></tbody></table>
