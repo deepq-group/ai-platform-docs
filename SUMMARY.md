@@ -57,4 +57,5 @@
 * [⁉️ Troubleshooting & FAQs](misc/troubleshooting-and-faqs.md)
 * [📔 Changelogs](misc/changelogs/README.md)
   * [V3.0](misc/changelogs/v3.0.md)
+  * [V3.0.2.1](misc/changelogs/v3.0-1.md)
 * [📖 Legal Documents](misc/legal-documents.md)
