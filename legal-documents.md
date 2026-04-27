@@ -4,11 +4,11 @@
 
 ## Terms of Use
 
-{% file src=".gitbook/assets/AI-Platform-On-Prem-Terms-of-Use.pdf" %}
+{% file src=".gitbook/assets/DeepQ AI On Premise Terms of Use (Trad CN)_202511.pdf" %}
 
 ### Privacy Policy
 
-{% file src=".gitbook/assets/AI-Platform-On-Prem-Privacy-Policy.pdf" %}
+{% file src=".gitbook/assets/DeepQ AI On Premise Privacy Policy (Trad CN)_202512.pdf" %}
 
 ### Product Security
 
